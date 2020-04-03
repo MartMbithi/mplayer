@@ -450,7 +450,7 @@ Mplayer is developed in English. Unfortunately we don't understand your language
 Get @Mplayer from Github: https://github.com/MartMbithi/mplayer/raw/master/Mplayer.apk"</string>
     <string name="musicoler_ss_caption_2">"Listening music in #Mplayer… 
 
-Get @Mplayer from MartDevelopers Inc: https://martdev.info/Mplayer.apk"</string>
+Get @Mplayer from MartDevelopers Inc: https://mplayer.martdev.info"</string>
     <string name="musicolet_equalizer">Mplayer Equalizer</string>
     <string name="musicolet_free_forever_q">Will Mplayer be FREE forever?</string>
     <string name="musicolet_is_updated">Mplayer is updated!</string>
@@ -596,7 +596,7 @@ from this list"</string>
     <string name="select_all_songs_of_album">Select all songs of this album</string>
     <string name="select_all_songs_playlist">Select all songs of this playlist</string>
     <string name="select_all_songs_sub_folder">Select all songs in this folder and all sub-folders</string>
-    <string name="send_feedback_desc">Visit us at https://martdev.info</string>
+    <string name="send_feedback_desc">Visit us at https://mplayer.martdev.info</string>
     <string name="send_your_feedback">Visit us</string>
     <string name="set_as_ringtone">Set as ringtone</string>
     <string name="set_timer">Set timer</string>
@@ -604,7 +604,7 @@ from this list"</string>
     <string name="share">Share</string>
     <string name="share_screenshot">Share ScreenShot</string>
     <string name="share_song">Share song</string>
-    <string name="share_with_friends">Share this app download link https://martdev.info/Mplayer.apk</string>
+    <string name="share_with_friends">Share this app download link https://mplayer.martdev.info</string>
     <string name="sharing_too_many_files_warn">Sharing too many files at once may not be supported by operating system</string>
     <string name="shorect_removed_menu">Shortcut removed from menu</string>
     <string name="shortcut_added_menu">Shortcut added in menu</string>
@@ -685,7 +685,7 @@ After resolving these issues do a rescan.
     <string name="usefull_for_audiobook">Useful for remembering last position in large tracks such as big songs, podcast, audiobooks etc.</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
-    <string name="version_whatsnew">Version 2.0.1 MartDevelopers Inc.</string>
+    <string name="version_whatsnew">Version 2.0 By MartDevelopers Inc.</string>
     <string name="view_album_art">View album art</string>
     <string name="volume">Volume</string>
     <string name="volume_slider">Volume slider</string>
