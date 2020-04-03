@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<paths>
-    <external-files-path name="external_files_path" path="." />
-    <external-path name="external_path" path="." />
-    <root-path name="sdcard1" path="." />
-</paths>
