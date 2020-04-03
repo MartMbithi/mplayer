@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="edit_album_all_songs_warn">
+        <item quantity="other">Yukarıda yapılan değişiklikler bu albümdeki %1$d şarkılara uygulanacak</item>
+        <item quantity="one">Yukarıda yapılan değişiklikler bu albümdeki %1$d şarkıya uygulanacak</item>
+    </plurals>
+    <plurals name="edit_artist_all_songs_warn">
+        <item quantity="other">Yukarıda yapılan değişiklikler bu şarkıcıdaki %1$d şarkılara uygulanacak</item>
+        <item quantity="one">Yukarıda yapılan değişiklikler bu şarkıcıdaki %1$d şarkıya uygulanacak</item>
+    </plurals>
+    <plurals name="edit_genre_all_songs_warn">
+        <item quantity="other">Yukarıda yapılan değişiklikler bu türdeki %1$d şarkılara uygulanacak</item>
+        <item quantity="one">Yukarıda yapılan değişiklikler bu türdeki %1$d şarkıya uygulanacak</item>
+    </plurals>
+    <plurals name="options_for_x_album_songs">
+        <item quantity="other">Bu albümdeki %1$d şarkıları için seçenekler</item>
+        <item quantity="one">Bu albümdeki %1$d şarkısı için seçenekler</item>
+    </plurals>
+    <plurals name="options_for_x_artist_songs">
+        <item quantity="other">Bu şarkıcının %1$d şarkıları için seçenekler</item>
+        <item quantity="one">Bu şarkıcının %1$d şarkısı için seçenekler</item>
+    </plurals>
+    <plurals name="options_for_x_folder_songs">
+        <item quantity="other">Bu dosyadaki %1$d şarkıları için seçenekler</item>
+        <item quantity="one">Bu dosyadaki %1$d şarkısı için seçenekler</item>
+    </plurals>
+    <plurals name="options_for_x_genre_songs">
+        <item quantity="other">Bu türün %1$d şarkıları için seçenekler</item>
+        <item quantity="one">Bu türün %1$d şarkısı için seçenekler</item>
+    </plurals>
+    <plurals name="options_for_x_playlist_songs">
+        <item quantity="other">Bu listedeki tüm %1$d şarkıları için seçenekler</item>
+        <item quantity="one">Bu listedeki %1$d şarkısı için seçenekler</item>
+    </plurals>
+    <plurals name="options_for_x_search_songs">
+        <item quantity="other">Bu arama sonucundaki %1$d şarkıları için seçenekler</item>
+        <item quantity="one">Bu arama sonucundaki %1$d şarkısı için seçenekler</item>
+    </plurals>
+    <plurals name="options_for_x_selected_songs">
+        <item quantity="other">Seçilmiş şarkı %1$d için seçenekler</item>
+        <item quantity="one">Seçilmiş şarkı %1$d için seçenekler</item>
+    </plurals>
+    <plurals name="share_X_songs_via">
+        <item quantity="other">%1$d şarkılarını şunun üzerinden paylaş…</item>
+        <item quantity="one">%1$d şarkısını şunun üzerinden paylaş…</item>
+    </plurals>
+    <plurals name="x_albums">
+        <item quantity="other">%1$d albümler</item>
+        <item quantity="one">%1$d albüm</item>
+    </plurals>
+    <plurals name="x_artists">
+        <item quantity="other">%1$d şarkıcılar</item>
+        <item quantity="one">%1$d şarkıcı</item>
+    </plurals>
+    <plurals name="x_files_deleted_successfully">
+        <item quantity="other">%1$d dosyalar depolamadan başarıyla silindi</item>
+        <item quantity="one">%1$d dosya depolamadan başarıyla silindi</item>
+    </plurals>
+    <plurals name="x_folders">
+        <item quantity="other">%1$d dosyalar</item>
+        <item quantity="one">%1$d dosya</item>
+    </plurals>
+    <plurals name="x_genres">
+        <item quantity="other">%1$d türler</item>
+        <item quantity="one">%1$d tür</item>
+    </plurals>
+    <plurals name="x_out_of_y_song_info_cannt_be_edited">
+        <item quantity="other">%2$d şarkıdan %1$d tanesinin bilgisi düzenlenemez!</item>
+        <item quantity="one">%2$d şarkıdan %1$d tanesinin bilgisi düzenlenemez!</item>
+    </plurals>
+    <plurals name="x_outof_y_scanned">
+        <item quantity="other">%2$d dosya üzerinden %1$d yeni dosyalar tarandı</item>
+        <item quantity="one">%2$d dosya üzerinden %1$d yeni dosyalar tarandı</item>
+    </plurals>
+    <plurals name="x_song_add_queue_no">
+        <item quantity="other">"%1$d şarkıları sıra #%2$d 'ye eklendi"</item>
+        <item quantity="one">"%1$d şarkı sıra #%2$d 'ye eklendi"</item>
+    </plurals>
+    <plurals name="x_song_remove_fav">
+        <item quantity="other">%1$d şarkıları favorilerden silindi</item>
+        <item quantity="one">%1$d şarkı favorilerden silindi</item>
+    </plurals>
+    <plurals name="x_songs_add_current_queue">
+        <item quantity="other">%1$d şarkıları şimdiki yürütme listesine eklendi</item>
+        <item quantity="one">%1$d şarkı şimdiki yürütme listesine eklendi</item>
+    </plurals>
+    <plurals name="x_songs_add_fav">
+        <item quantity="other">%1$d şarkıları favorilere eklendi</item>
+        <item quantity="one">%1$d şarkı favorilere eklendi</item>
+    </plurals>
+    <plurals name="x_songs_added_after_current">
+        <item quantity="other">%1$d şarkıları sonraki şarkı olarak eklendi</item>
+        <item quantity="one">%1$d şarkı sonraki şarkı olarak eklendi</item>
+    </plurals>
+    <plurals name="x_songs_added_to_playlist_y">
+        <item quantity="other">%1$d yeni şarkı %2$s çalma listesine eklendi.</item>
+        <item quantity="one">%1$d yeni şarkı %2$s çalma listesine eklendi.</item>
+    </plurals>
+    <plurals name="x_songs_found">
+        <item quantity="other">%1$d şarkı bulundu</item>
+        <item quantity="one">%1$d şarkı bulundu</item>
+    </plurals>
+    <plurals name="x_songs_in_this_external_playlist">
+        <item quantity="other">Harici oynatma listesinde %1$d şarkıları bulundu</item>
+        <item quantity="one">Harici oynatma listesinde %1$d şarkı bulundu</item>
+    </plurals>
+    <plurals name="x_songs_in_this_folder">
+        <item quantity="other">Bu dosyadaki %1$d şarkıları</item>
+        <item quantity="one">Bu dosyadaki %1$d şarkısı</item>
+    </plurals>
+    <plurals name="x_songs_selected">
+        <item quantity="other">%1$d şarkı seçildi</item>
+        <item quantity="one">%1$d şarkı seçildi</item>
+    </plurals>
+    <plurals name="x_songs_will_be_deleted_sure">
+        <item quantity="other">%1$d şarkıları tamamen cihazdan silinecek. Bu geri alınamaz.</item>
+        <item quantity="one">%1$d şarkı tamamen cihazdan silinecek. Bu geri alınamaz.</item>
+    </plurals>
+    <plurals name="x_times_before">
+        <item quantity="other">önceden %1$d kere</item>
+        <item quantity="one">önceden %1$d kere</item>
+    </plurals>
+    <plurals name="x_was_already_there">
+        <item quantity="other">%1$d tanesi önceden mevcuttu.</item>
+        <item quantity="one">%1$d tanesi önceden mevcuttu.</item>
+    </plurals>
+</resources>

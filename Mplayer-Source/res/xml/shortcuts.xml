@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:icon="@drawable/ic_shortcut_search" android:enabled="true">
+        <intent android:targetPackage="in.krosbits.musicolet" android:action="musicolet.search" android:targetClass="in.krosbits.musicolet.MusicActivity" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ic_shortcut_shuffle" android:enabled="true">
+        <intent android:targetPackage="in.krosbits.musicolet" android:action="musicolet.media.r.2" android:targetClass="in.krosbits.musicolet.GhostActivity" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ic_shortcut_play_arrow" android:enabled="true">
+        <intent android:targetPackage="in.krosbits.musicolet" android:action="musicolet.media.r.1" android:targetClass="in.krosbits.musicolet.GhostActivity" />
+    </shortcut>
+</shortcuts>

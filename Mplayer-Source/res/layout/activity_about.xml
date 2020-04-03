@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/activity_horizontal_margin" app:cardCornerRadius="5.0dip" app:cardPreventCornerOverlap="true" app:cardUseCompatPadding="true">
+            <LinearLayout android:orientation="horizontal" android:background="?select_rectangle_background" android:padding="8.0dip" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_gravity="center_vertical" android:id="@id/iv_musicolet_logo" android:layout_width="64.0dip" android:layout_height="64.0dip" android:src="@drawable/musicolet_logo_512" android:contentDescription="@null" />
+                <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="24.0sp" android:textStyle="bold" android:id="@id/tv_aboutAppTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginTop="8.0dip" android:text="@string/app_name" />
+                    <TextView android:id="@id/tv_version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:text="@string/version_whatsnew" style="?android:textAppearanceSmall" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <TextView android:gravity="center" android:id="@id/textView3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/activity_horizontal_margin" android:layout_marginRight="@dimen/activity_horizontal_margin" android:text="@string/musicolet_simpli_perf_and_effi" />
+        <android.support.v7.widget.CardView android:id="@id/cv_faq" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/activity_horizontal_margin" android:layout_marginTop="@dimen/activity_horizontal_margin" android:layout_marginRight="@dimen/activity_horizontal_margin" app:cardUseCompatPadding="true">
+            <LinearLayout android:orientation="horizontal" android:background="?select_rectangle_background" android:padding="10.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:onClick="openFAQActivity" android:contentDescription="@string/frequently_asked_questions_faqs">
+                <in.krosbits.android.widgets.SmartImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:src="@drawable/ic_help_outline_black_24dp" app:imageTintIndex="5" />
+                <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <TextView android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/frequently_asked_questions_faqs" style="?textAppearanceListItem" />
+                    <TextView android:textSize="12.0dip" android:id="@id/tv_faqsReadThemFirst" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="4.0dip" android:text="@string/read_them_first_click_here" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <TextView android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="@string/follow_musicolet_on" />
+        <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+            <in.krosbits.android.widgets.SmartImageView android:background="?select_rectangle_background" android:padding="10.0dip" android:clickable="false" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_marginLeft="5.0dip" android:src="@drawable/mono_twitter" android:contentDescription="@string/twitter" app:imageTintIndex="6" />
+            <in.krosbits.android.widgets.SmartImageView android:background="?select_rectangle_background" android:padding="10.0dip" android:clickable="false" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_marginLeft="5.0dip" android:src="@drawable/mono_fb" android:contentDescription="@string/facebook" app:imageTintIndex="6" />
+            <in.krosbits.android.widgets.SmartImageView android:background="?select_rectangle_background" android:padding="10.0dip" android:clickable="false" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_marginLeft="5.0dip" android:src="@drawable/mono_insta" android:contentDescription="@string/instagram" app:imageTintIndex="6" />
+        </LinearLayout>
+        <android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/activity_horizontal_margin" android:layout_marginTop="8.0dip" android:layout_marginRight="@dimen/activity_horizontal_margin" app:cardUseCompatPadding="true" app:contentPadding="10.0dip">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <in.krosbits.android.widgets.SmartImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:src="@drawable/ic_mood_black_24dp" android:contentDescription="@string/like_this_app_q" app:imageTintIndex="5" />
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip">
+                    <TextView android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/like_this_app_q" style="?textAppearanceListItem" />
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+                        <in.krosbits.android.widgets.SmartTextView android:gravity="center" android:background="?select_rectangle_background" android:padding="5.0dip" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/rate_us_5_stars" android:drawableTop="@drawable/five_star" android:drawablePadding="9.0dip" android:layout_weight="1.0" app:compoundDrawableTintEmabled="true" app:compoundDrawableTintIndex="5" app:textTintIndex="5" />
+                        <View android:background="#ffaaaaaa" android:layout_width="0.5dip" android:layout_height="fill_parent" android:layout_marginLeft="3.0dip" />
+                        <in.krosbits.android.widgets.SmartTextView android:gravity="center" android:background="?select_rectangle_background" android:padding="5.0dip" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:text="@string/share_with_friends" android:drawableTop="@drawable/ic_action_share_dark" android:drawablePadding="5.0dip" android:layout_weight="1.0" app:compoundDrawableTintEmabled="true" app:compoundDrawableTintIndex="5" app:textTintIndex="5" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/activity_horizontal_margin" android:layout_marginTop="@dimen/activity_horizontal_margin" android:layout_marginRight="@dimen/activity_horizontal_margin" app:cardUseCompatPadding="true">
+            <LinearLayout android:orientation="horizontal" android:background="?select_rectangle_background" android:padding="10.0dip" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:src="@drawable/ic_action_favorite_filled_light" />
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip">
+                    <TextView android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/support_developer" style="?textAppearanceListItem" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/activity_horizontal_margin" android:layout_marginTop="@dimen/activity_horizontal_margin" android:layout_marginRight="@dimen/activity_horizontal_margin" app:cardUseCompatPadding="true">
+            <LinearLayout android:orientation="horizontal" android:background="?select_rectangle_background" android:padding="10.0dip" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/send_your_feedback">
+                <in.krosbits.android.widgets.SmartImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:src="@drawable/ic_feedback_dark" app:imageTintIndex="5" />
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip">
+                    <TextView android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/send_your_feedback" style="?textAppearanceListItem" />
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/send_feedback_desc" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/activity_horizontal_margin" android:layout_marginTop="@dimen/activity_horizontal_margin" android:layout_marginRight="@dimen/activity_horizontal_margin" app:cardUseCompatPadding="true">
+            <LinearLayout android:orientation="horizontal" android:background="?select_rectangle_background" android:padding="10.0dip" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/report_bugs">
+                <in.krosbits.android.widgets.SmartImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:src="@drawable/ic_bug_report_black_24dp" app:imageTintIndex="5" />
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip">
+                    <TextView android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/report_bugs" style="?textAppearanceListItem" />
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/report_bugs_explaination" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/activity_horizontal_margin" android:layout_marginTop="@dimen/activity_horizontal_margin" android:layout_marginRight="@dimen/activity_horizontal_margin" app:cardUseCompatPadding="true">
+            <LinearLayout android:orientation="horizontal" android:background="?select_rectangle_background" android:padding="10.0dip" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <in.krosbits.android.widgets.SmartImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:src="@drawable/ic_translate_black_24dp" app:imageTintIndex="5" />
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip">
+                    <TextView android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Help us in translation" style="?textAppearanceListItem" />
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="This app version is under development" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/activity_horizontal_margin" android:layout_marginTop="@dimen/activity_horizontal_margin" android:layout_marginRight="@dimen/activity_horizontal_margin" app:cardUseCompatPadding="true">
+            <LinearLayout android:orientation="horizontal" android:background="?select_rectangle_background" android:padding="10.0dip" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:onClick="openCredits">
+                <in.krosbits.android.widgets.SmartImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:src="@drawable/ic_credits_black_24dp" app:imageTintIndex="5" />
+                <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip">
+                    <TextView android:textSize="14.0dip" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/credits" style="?textAppearanceListItem" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <in.krosbits.android.widgets.SmartTextView android:textSize="12.0dip" android:background="?select_rectangle_background" android:padding="10.0dip" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="4.0dip" android:text="@string/open_source_lic" android:onClick="openLicenses" app:textTintIndex="6" />
+        <View android:background="#ff535353" android:layout_width="fill_parent" android:layout_height="0.5dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="16.0dip" />
+        <ImageView android:layout_gravity="center" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:src="@drawable/krosbits_logo" android:contentDescription="@string/krosbits" />
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="24.0sp" android:layout_gravity="center" android:id="@id/tv_aboutKrosbits" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/krosbits" />
+        <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <in.krosbits.android.widgets.SmartImageView android:paddingLeft="10.0dip" android:paddingTop="5.0dip" android:paddingRight="10.0dip" android:paddingBottom="10.0dip" android:clickable="false" android:layout_width="36.0dip" android:layout_height="36.0dip" android:src="@drawable/mono_twitter" android:contentDescription="@string/twitter" app:imageTintIndex="6" />
+            <in.krosbits.android.widgets.SmartImageView android:paddingLeft="10.0dip" android:paddingTop="5.0dip" android:paddingRight="10.0dip" android:paddingBottom="10.0dip" android:clickable="false" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_marginLeft="5.0dip" android:src="@drawable/mono_fb" android:contentDescription="@string/facebook" app:imageTintIndex="6" />
+            <in.krosbits.android.widgets.SmartImageView android:paddingLeft="10.0dip" android:paddingTop="5.0dip" android:paddingRight="10.0dip" android:paddingBottom="10.0dip" android:clickable="false" android:layout_width="36.0dip" android:layout_height="36.0dip" android:layout_marginLeft="5.0dip" android:src="@drawable/mono_insta" android:contentDescription="@string/instagram" app:imageTintIndex="6" />
+        </LinearLayout>
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:layout_gravity="center" android:id="@id/textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:text="© MartDevelopers Inc 2020" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Black_AMOLED">काळा (AMOLED)</string>
+    <string name="DarkTheme">डार्क थीम</string>
+    <string name="Folder_tab_structure">फोल्डर टॅबची रचना</string>
+    <string name="LightTheme">लाईट थीम</string>
+    <string name="_0_times_before">० वेळा आधी</string>
+    <string name="a_quick_tip_about_queue">रांग टॅब बद्दल काही टिपा</string>
+    <string name="accent_color">उच्चारण रंग</string>
+    <string name="adapt_from_aa">अल्बम आर्ट पासून रंग मिळवा</string>
+    <string name="adaptive_color_controls">कंट्रोल पासून रंग मिळवा</string>
+    <string name="add_folder">फोल्डर जोडा</string>
+    <string name="add_its_songs_to_favorites">त्याच्या गाणी आवडतेमध्ये जोडा</string>
+    <string name="add_its_songs_to_playlist">त्याच्या गाण्यांना एका प्लेलिस्टमध्ये जोडा</string>
+    <string name="add_shortcut_in_main_menu">मुख्य मेनूमध्ये शॉर्टकट जोडा</string>
+    <string name="add_this_folder">हे फोल्डर जोडा</string>
+    <string name="add_to_a_playlist">प्लेलिस्टमध्ये जोडा</string>
+    <string name="add_to_a_queue">रांगेत जोडा</string>
+    <string name="add_to_currently_playing_queue">सध्या वाजत असलेल्या रांगेत जोडा</string>
+    <string name="add_to_favorites">आवडतेमध्ये जोडा</string>
+    <string name="advance">एड्वांस</string>
+    <string name="album">अल्बम</string>
+    <string name="album_art">अल्बम आर्ट</string>
+    <string name="album_asc">अल्बम चढत्या क्रमाने</string>
+    <string name="album_dsc">अल्बम उतरत्या क्रमाने</string>
+    <string name="album_tab_not_found">अल्बम टॅब आढळला नाही! प्रथम सेटिंग्जमधून अल्बम टॅब सक्षम करा.</string>
+    <string name="album_view_mode">अल्बम दृश्य मोड</string>
+    <string name="albums">अल्बम्स</string>
+    <string name="all_songs">सर्व गाणी</string>
+    <string name="allowed_delay_explain">"
+२ रा, आणि ३ रा प्रेस अ‍ॅक्शनसाठी: 700 मिलीसेकंद
+
+४ था प्रेससाठी: ३ सेकंद (येथे मोठ्या विलंबास परवानगी देण्यात आलेला आहे, त्यामुळे आपण आरामात गाणे फास्ट-फॉरवर्ड करू शकता.)
+
+हे फक्त माहितीसाठी आहे. आपण येथे काहीही बदलू शकत नाही.
+"</string>
+    <string name="allowed_delays_info">ईअरफोनच्या बटणाच्या दोन प्रेसमध्ये विलंब जाणून घेण्यासाठी येथे क्लिक करा</string>
+    <string name="allowed_delays_title">ईअरफोनच्या बटणाच्या दोन परिणामी प्रेस दरम्यान देण्यास आलेला विलंब</string>
+    <string name="alread_have_same_name_playlist">याच नावाची प्लेलिस्ट आधीपासूनच आहे!</string>
+    <string name="already_a_queue_with_name_x">%1$s या नावाचा रांग आधीपासूनच अस्तित्वात आहे</string>
+    <string name="always_play_prev_song">नेहमी मागील गाणे वाजवा</string>
+    <string name="ans_a_quick_tip_about_queue">"रांगेच्या-टॅबमध्ये, जर आपल्याला कधीही निवडलेल्या रांगेत कोणत गाणे सध्या वाजत आहे हे शोधायचे असल्यास, फक्त गाण्याच्या काउंटरवर टॅप करा. (गाणी काउंटर अशाप्रकारे आहे: Y/z जेथे Y हे रांगेतील एकूण z गाण्यांमधील वर्तमान गाणे आहे).
+
+गाणी रांगेतून काढून टाकण्यासाठी डावीकडे दिलेल्या 2-बारसह गाणी उजव्या बाजूला स्वाइप करा."</string>
+    <string name="ans_audio_formats_supported">"
+Musicolet आपल्या डिव्हाइससह येणार्या मुळ मीडिया डिकोडरचा वापर करते, जरऑडिओ फोर्मेट आपल्या डिव्हाइसद्वारे समर्थित असेल तर तो Musicolet द्वारासुद्धा समर्थित असेल. &lt;a href='https://developer.android.com/guide/topics/media/media-formats.html'>समर्थित फोर्मेट&lt;/a>पाहा.(डिव्हाइस मॉडेलनुसार बदलू शकते)
+"</string>
+    <string name="ans_does_transmit_data_in_background">"
+नाही. Musicolet १००% ऑफलाइन अॅप आहे. अ‍ॅप, वापराबद्दलची आकडेवारी आणि अन्य अहवाल सुद्धा पाठवत नाही.
+
+खरेतर, तांत्रिकदृष्ट्या ते इंटरनेट वापरु शकत नाही. कारण आम्ही (हेतुपुरस्पर) त्यात इंटरनेट परवानगी दिली नाही. इंटरनेटच्या परवानगी (उर्फ 'फुल नेटवर्क अ‍ॅक्सेस पर्मिशन') शिवाय कोणताही अॅप इंटरनेचा वापर करू शकत नाही. हे सत्य आहे.
+
+याची पुष्टी करण्यासाठी आपण Musicolet च्या 'अॅपबद्दल माहिती' या स्क्रीनमधील 'सर्व परवानग्या' हा पर्याय तपासू शकता. किंवा Musicolet च्या प्लेस्टोअर-पेजच्या तळाशी 'पर्मिशन' (परवानग्या) तपासा. आपल्याला तेथे नेटवर्क संबंधित कोणत्याही परवानग्या दिसणार नाहीत."</string>
+    <string name="ans_equalizer_not_working_q">"Musicolet ऑडिओ योग्य रितीने हाताळण्यासाठी अ‍ॅन्ड्रॉइड प्रणालीचे ऑडिओFX घटक वापरते. जरआपल्या डिव्हाइसच्या निर्मात्याने या घटकांना बदलले असेल, आणि AOSP च्या मार्गदर्शक तत्त्वाचे अनुसरण केले नसेल, तर कदाचित इक्वलाइजर कार्य करणार नाही.
+
+जर Musicolet इक्वलाइजर कार्य करत नसेल, तर आपल्या डिव्हाइसद्वारे समर्थित असल्यास आपण प्रणाली इक्वलाइजरचा वापर करू शकता. ते वापरण्यासाठी 'Musicolet'->'सेटिंग्ज'->'ऑडिओ'->' इक्वलाइजर निवडा' ला जा."</string>
+    <string name="ans_facts_about_queues">"
+आपल्याकडे अधिकतम 20 रांगा असू शकतात. 
+
+लक्षात ठेवा, खूप गाण्यांसह अनेक रांगा तयार केल्यामुळे अॅपची कार्यक्षमता कमी होऊ शकते, तसेच अॅप उघडण्याचा आणि बंद करण्याच्या वेळ वाढू शकतो. म्हणून जर आपल्याला जुन्या रांगांची आवश्यकता नसल्यास जुन्या रांगांना काढून टाकण्याचा सल्ला आम्ही देतो. 
+
+जर रांगेचे नाव \"सर्व गाणी\" किंवा \"फोल्डर १२३\" किंवा \"अलीकडे जोडलेले गाणी\" किंवा \"अल्बम XYZ\" असेल तर ते \"सर्व गाणी\" किंवा \"फोल्डर 123\" किंवा \"अलीकडील जोडलेले गाणी\" किंवा \"अल्बम XYZ\" वास्तवात तसेच असतील असे होत नाही. ते फक्त समान नावे आहेत. आपण त्यांना पुन्हा नविन नावे देऊ शकता. रांग तयार केल्यानंतर, जेंव्हा आपण आपल्या संग्रहात काही नवीन गाणी जोडता, तेव्हा ते कोणत्याही रांगेत दिसणार नाहीत. प्रत्यक्षात अद्ययावत गाण्यांची सूची पाहण्यासाठी त्यांच्या संबंधित टॅब्जवर जा. म्हणजेच, ii. वास्तविक \"AlbumXYZ\" साठी अल्बम टॅब वर जा (AlbumXYZ नावाच्या रांगेत नाही), \"फोल्डर१२३\"साठी फोल्डरच्या टॅबवर जा, त्याचप्रमाणे \"सर्व गाणी\"साठी आणि \"अलीकडे जोडलेली गाणी\" साठी, प्लेलिस्ट टॅबवर जा. 
+
+रांगेचे नाव इतर सर्व रांगांमध्ये अद्वितीय (वेगळे) असणे आवश्यक आहे. 
+
+एका रांगेत एकाच गाण्याचं दोन प्रती ठेवण्याची परवानगी नाही."</string>
+    <string name="ans_how_can_you_appreciate_our_work">"
++ गुगल प्ले स्टोअर वर आम्हाला ५-स्टार रेटिंग द्या.
+
++ आपल्या मित्रांना या विस्मयकारक अॅपबद्दल सांगा.
+
++ &lt;a href=https://facebook.com/musicolet>फेसबुक&lt;/a> वर आमचा पेज लाईक करा आणि &lt;a href=https://twitter.com/musicolet>ट्विटर&lt;/a>आणि&lt;a href=https://instagram.com/musicolet>इंस्टाग्राम&lt;/a>वर आम्हाला फॉलो करा.
+"</string>
+    <string name="ans_how_much_we_earn_from_musicolet">Musicolet १००% विनामूल्य आहे. आम्ही यात जाहिराती दाखवित नाही. आम्ही वापरकर्त्यांचे खासगी महिती गोळा / विक्री करीत नाही, म्हणून Musicolet मधून आम्ही काहीच पैसे कमवत नाही. तथापि आम्ही जगभरातील संगीत प्रेमींचे भरपूर शुभेच्छा आणि आशीर्वाद कमवतो.</string>
+    <string name="ans_music_playback_suddenlt_stops">"
+&lt;b>छोटस उत्तर:&lt;/b> &lt;a href=https://youtu.be/J9-8Ct0n6c0>हा विडिओ पाहा&lt;/a>
+
+
+&lt;b>मोठा परंतु योग्य उत्तर:&lt;/b>
+शाओमीच्या MIUI ROMs मध्ये खूप आक्रमक &lt;a href='https://en.wikipedia.org/wiki/Memory_management_(operating_systems)'> मेमरी व्यवस्थापन (रॅम मॅनेजमेंट) आहे&lt;/a>. मल्टिटास्किंग करताना MIUI अधिक रॅम मुक्त ठेवण्यासाठी पार्श्वभूमी अॅप्स (= अ‍ॅप जे स्क्रीनवर दिसत नाहित) बंद करते.
+अनेकदा हे धोरण अनावश्यक ठरते. शिवाय स्टॉक अ‍ॅन्ड्रॉइडची मेमरी व्यवस्थापन खरोखर चांगली आहे. ते विश्वसनीय आणि परिपूर्ण आहे.
+परंतु तरीही MIUI स्वतःचे मेमरी व्यवस्थापन वापरते. MIUI ने कोणत्या अॅप्सना प्रथम बंद करावे  याचे निर्णय कधीकधी चुकीचे असतात.
+&lt;b>या कारणास्तव जेव्हा आपण इतर अॅप्स वापरताना पार्श्वभूमीमध्ये संगीत ऐकत असता, तेव्हा MIUI Musicolet ला बंद करतो.&lt;/b>
+
+&lt;b>उपाय?&lt;/b>
+कारण ही MIUI ची एक प्रसिद्ध समस्या असल्यामुळे, इंटरनेटच्या अनेक फोरमवर याबद्दल चर्चा होतात. काही वापरकर्ते डेव्हलोपर पर्यायामधे काही सेटिंग्ज बदलून MIUI च्या वर्तन बदलण्याच्या मार्ग शोधला आहे.
+&lt;b>येथे एक मार्गदर्शक व्हिडिओ आहे:&lt;/b> &lt;a href=https://youtu.be/J9-8Ct0n6c0>https://youtu.be/J9-8Ct0n6c0&lt;/a>
+"</string>
+    <string name="ans_musicolet_free_forever_q">"
+जे आज विनामूल्य उपलब्ध आहे ते नेहमीच विनामूल्य राहतील."</string>
+    <string name="ans_shuffle_mode_vs_randomize">"
+शफल मोडमध्ये आपण पुढच्या गाण्याचे अंदाज लावू शकत नाही जोपर्यंत आपण पुढचे गाणे वाजवत नाही. शफल मोड चालू असताना 'वर्तमान गाण्यानंतर वाजवा' हा देखील पर्याय कार्य करणार नाही.
+
+शफल मोडला रॅंडमाइज हा पर्याय आहे. शफल मोड बंद ठेवण्यासाठी -> रांग-टॅब वर जा -> क्रमवारी चिन्हावर क्लिक करा-> रॅंडमाईज निवडा. सध्याच्या निवडलेल्या रांगेतील गाणी रॅंडमाइज होतील(एक प्रकारचा शफल), आणि आता आपण गाण्यांची नवीन रॅंडम क्रमवारी पाहू शकता, आणि पुढे कोणते गाणे वाजेल हे आपल्याला कळेल."</string>
+    <string name="ans_what_is_diff_queues_playlists">रांग म्हणजे गाण्यांची तात्पुरती यादी ज्यामध्ये गाण्यांच्या वापरानुसार गाण्यांची क्रमवारी ठरवितात. आपण पहिल्या टॅबमध्ये रांगा शोधू शकता. डाव्या बाजूला दिलेला 2-बार ओढून आपण गाण्याची क्रमवारी बदलू शकता.</string>
+    <string name="ans_what_is_multiple_queue_concept">"
+Musicolet हा एकमेव अँड्रॉइड म्युझिक प्लेयर आहे जो एकाधिक-रांगांचे समर्थन करतो. 
+
+एकाधिक-रांगांचे फायदे: 
+१. दुसर्या रांगेतील गाणी ऐकत असताना, आपण एकापेक्षा अधिक रांगा तयार करु शकता. 
+
+२. समजा, आपण एक सुंदर रांग तयार केली आहे आणि आपल्याकडे एकाधिक-रांग हे वैशिष्ट्य नाही (अर्थात इतर मुझिक अॅप्सप्रमाणे आपल्याकडे केवळ 1 रांग असल्यास) आणि आपल्या गाण्याच्या संग्रहाची तपासणी करताना आपण चुकून प्लेलिस्ट/अल्बम/शोध/इत्यादी मधील गाण्यावर क्लिक केले. तर फक्त 1 रांग असल्यामुळे, आपली जुनी रांग एकतर नव्या गाण्यांच्या यादीने बदलली जाईल (जे इतर बहुतेक म्युझिकअॅप्समधे असे घडते) किंवा त्या प्लेलिस्टमधील/अल्बमचे सर्व गाणी आपल्या रांगेत जोडली जातील आणि आपण तयार केलेली सुंदर रांग नष्ट होईल. Musicolet च्या एकाधिक-रांगांमुळे असे कधीच घडत नाही. अशा परिस्थितीत Musicolet एक नवीन रांग तयार करते, त्यामुळे आपल्या जुन्या रांगा अबाधित राहतील. 
+
+3. Musicolet अगदी प्रत्येक रांगेत सध्या वाजत असलेल गाणे लक्षात ठेवते. 
+
+आपण प्रत्येक रांगांना तात्पुरती नावे देखील देऊ शकता आणि त्यांची नावे कधीही बदलू शकता. आपण कोणतीही रांग प्लेलिस्ट म्हणून जतन करू शकता."</string>
+    <string name="ans_where_are_widgets">"
+&lt;b>\"जेव्हा अ‍ॅन्ड्रॉइड अॅप एसडी कार्डवर स्थापित केला जातो किंवा एसडी कार्डवर हलविला जातो तेव्हा विजेटसह अॅपची काही कार्यक्षमता कमी होते.\"&lt;/b>
+
+हा नियम Musicolet सह सर्व अ‍ॅन्ड्रॉइड अॅप्सना लागू होतो. त्यामुळे &lt;b>जर आपण विजेट वापरण्यास इच्छुक असल्यास, आपल्याला Musicolet अॅप एसडी कार्डवर नाही तर अंतर्गत संचयनावर ठेवावे लागेल&lt;/b>.
+
+
+आपण असे विचारू शकता:
+
+&lt;b>मी एसडी कार्डवर अॅप स्थापित केले नाही. ते स्वयंचलितपणे एसडी कार्डवर स्थापित झाले.&lt;/b>
+
+उत्तरः आम्हाला (अॅप डेव्हलपर्सना) फक्त 2 निवडी आहेत: अॅपला  एसडी कार्डवर स्थापित करण्याची परवानगी द्यायची किंवा नाही. बरयाच वापरकर्त्यांनी (कमी अंतर्गत संचयन डिव्हाइस असलेले) या वैशिष्ट्याची मागणी केल्यामुळे, आम्ही अॅपला एसडी कार्डवर स्थापित करण्याची परवानगी दिली. परंतू 'अॅप कोठे स्थापित केला जाईल?' हे अ‍ॅन्ड्रॉइड प्रणाली ठरवते.  त्यावर आमचा कोणतेही नियंत्रण नाही.
+
+
+&lt;b>अॅपला अंतर्गत संचयनावर कसे हलवावे?&lt;/b>
+
+उत्तरः (अ) आपल्या डिव्हाइसच्या सेटिंग्जवर जा> अ‍ॅप्लिकेशन्स (किंवा अॅप्स) (काही डिव्हाइसवर ते अ‍ॅडव्हांस सेटिंग्ज मधे असू शकते)> Musicolet' शोधा आणि त्यावर टॅप करा > तेथे 'अंतर्गत संचयनमध्ये हलवा' असे नाव असलेले बटण शोधा आणि क्लिक करा किंवा (ब)\"[आपल्या डिव्हाइसचा नाव] या डिव्हाइसमधे अ‍ॅप अंतर्गत संचयनावर कसे हलवावे \" असे गुगलवर शोधा. "</string>
+    <string name="ans_where_is_genre_tab">"त्यासाठी 'Musicolet'->'सेटिंग्ज'->'टॅब मांडणी' इथे जा. जर तेथे आपल्याला शैली टॅब दिसत नसेल, तर खिन्नपणे शैली आपल्या डिव्हाइसकडून समर्थित नाही. अँड्रॉइडच्या काही जुन्या आवृत्त्यांच्या मीडियास्टोअर डीबीमधील शैलीत अनेक त्रुटी आहेत. Musicolet त्यावर अवलंबून आहे, म्हणून त्या डिव्हाइसेसवर शैली शक्य नाही."</string>
+    <string name="ans_why_cannt_edit_some_tags">"
+जर गाण्याचे ID3 टॅग्ज बिघडलेले असेल किंवा गाण्याने ID3 टॅग्जला त्यावर लिहिण्याची परवानगी दिली नसेल किंवा इतर काही समस्या असतील ,तर आपण टॅग्जमधे बदल करु शकत नाही."</string>
+    <string name="ans_why_cant_find_newly_added_songs">"
+आपण नव्याने जोडलेले गाणे रांग-टॅब (पहिला टॅब) मधील रांगांमध्ये शोधत नाही याची खात्री करा. त्यांना इतर कोणत्याही टॅबमध्ये शोधा. कारण रांगा प्लेलिस्टहून पूर्णपणे वेगळ्या आहेत.&lt;br/>
+तसेच यांचीही खात्री करा: आपली गाणी आहेत तो फोल्डर किंवा&lt;b>त्याचा कोणताही मूळ फोल्डर &lt;/b>&amp;#8230;&lt;br/>
+१) &amp;#8230;वगळलेल्या फोल्डर्सच्या सूचीत समाविष्ट नाही (Musicolet>सेटिंग्ज>'गाणी संग्रह'>'फोल्डर वगळा' इथे पाहा)
+२) &amp;#8230;लपवलेले फोल्डर नाही आणि त्याचे नाव .(डॉट) ने सुरू होत नाही &lt;br/>
+३) &amp;#8230;हा कोणत्याही अॅपचा वैयक्तिक फोल्डर नाही&lt;br/>
+४) &amp;#8230;मध्ये '.nomedia' नावाची फाइल नाही (.nomedia फाइल्स सहसा फाइल व्यवस्थापकमध्ये लपलेल्या असतात)&lt;br/>&lt;br/>&lt;br/>
+
+आपण अद्याप आपले गाणे शोधू शकत नसल्यास, हे वाचा:&lt;br/>&lt;br/>
+Musicolet प्रत्येक प्रारंभी नवीन गाण्यांसाठी जलद स्कॅन करतो. जलद आणि बॅटरी कार्यक्षम स्कॅनिंगसाठी, हे अ‍ॅन्ड्रॉइडचे &lt;b>मीडिया  स्टोरेज फ्रेमवर्क&lt;/b> वापरते. अ‍ॅन्ड्रॉइडमध्ये मीडिया स्टोरेज फ्रेमवर्क  आंतरिक आणि बाह्य संचयनामध्ये अस्तित्वात असलेल्या फाईल्सची चौकशी करण्यासाठी आणि फाईल्स ठेवण्यासाठी एक शक्तिशाली पद्धत आहे. गॅलरीसह बरेच अॅप्स यावर अवलंबून असतात. 
+
+परंतु, काहीवेळा अॅप्स (जसे की फाइल व्यवस्थापक, ब्राउझर, फाइल शेअरींग अॅप्स इ. जेथून गाणी डाउनलोड केलेले आहेत / कॉपी केले / नवीन गाणी हलविल्या आहेत) त्यांच्यात केलेल्या सुधारणांबद्दल  अ‍ॅन्ड्रॉइड मीडिया  स्टोरेज फ्रेमवर्कला सूचित करत नाहीत. त्यामुळे मीडिया स्टोरेज त्या बदलांविषयी अनभिज्ञ असेल.
+Musicolet नव्याने जोडलेल्या गाण्यांना शोधत नसल्याबद्दलचे हे एक सामाईक कारण आहे.
+उपाय: 
+(१) सक्तीने पुन्हा स्कॅन करा. (Musicolet सेटिंग्जवर> गाण्यांचा संग्रह>स्कॅनिंगसाठी सक्ती करा इथे जा)
+
+ किंवा 
+
+
+(२) आपले डिव्हाइस रीस्टार्ट करा. तो रीस्टार्ट झाल्यानंतर प्रत्येकगोष्ट पूर्णपणे लोड केली जाते, नंतर आणखी २-३मिनिटे प्रतीक्षा करा, नंतर  Musicolet उघडा आणि आपले गाणे शोधण्याचा प्रयत्न करा.
+"</string>
+    <string name="ans_why_embedded_lyrics_why_not_online_q">"
+Musicolet इंटरनेट परवानगी (उर्फ 'फुल नेटवर्क अ‍ॅक्सेस' परवानगी) नसलेल्या अॅप्सपैकी एक आहे. Musicolet ला कमीतकमी परवानगीसह तयार करण्याच्या  हेतुमुळे आम्ही त्याला अॅपमध्ये परवानगी दिली नाही. इंटरनेटच्या परवानगीशिवाय अँड्रॉइड अॅप इंटरनेटवर डेटा पाठवू किंवा प्राप्त करू शकत नाही.&lt;b>त्यामुळे वैशिष्ट्ये (जसे की स्वयं-प्राप्त बोल) ज्यासाठी इंटरनेट आवश्यक आहे ते शक्य नाही&lt;/b>.
+"</string>
+    <string name="ans_why_not_auto_fetch_albumart_q">"Musicolet इंटरनेट अॅक्सेस (उर्फ 'फुल नेटवर्क अ‍ॅक्सेस पर्मिशन') नसलेली अॅप्सपैकी एक आहे. Musicolet ला कमीतकमी परवानगीसह तयार करण्याच्या  हेतुमुळे आम्ही त्याला अॅपमध्ये अनुमती दिली नाही. इंटरनेटच्या परवानगीशिवाय अँड्रॉइड अॅप इंटरनेटवर डेटा पाठवू किंवा प्राप्त करू शकत नाही.&lt;b>त्यामुळे वैशिष्ट्ये (जसे की स्वयं-प्राप्त अल्बमआर्ट) ज्यासाठी इंटरनेट आवश्यक आहे ते शक्य नाही&lt;/b>.
+"</string>
+    <string name="app_closed_because_of_sleep_timer">Musicolet स्लीप टायमरमुळे बंद केला आहे. :)</string>
+    <string name="app_desc">Musicolet - एक साधी रचना असणारा परंंतु भरपुर वैशिष्ट्ये असलेला लाईटवेट मुझिक प्लेयर आहे. एकाधिक-रांग हा वैशिष्ट्य असणारा एकमेव अ‍ॅन्ड्रॉइड मुझिक प्लेयर आहे.</string>
+    <string name="app_really_need_your_permissions">अ‍ॅपला काम करण्यासाठी खरोखरच आपल्या परवानगीची आवश्यकता आहे!</string>
+    <string name="app_reqiures_permissions_to_run">Musicolet ला कार्य करण्यासाठी काही परवानगींची आवश्यकता आहे.</string>
+    <string name="appearance">दिखावट</string>
+    <string name="appling_changes">बदल लागू करत आहोत</string>
+    <string name="are_you_sure_q">आपल्याला खात्री आहे?</string>
+    <string name="arrange_tabs">टॅबची मांडणी करा</string>
+    <string name="artist">कलाकार</string>
+    <string name="artist_asc">कलाकार चढत्या क्रमाने</string>
+    <string name="artist_dsc">कलाकार उतरत्या क्रमाने</string>
+    <string name="artist_not_found">कलाकार टॅब आढळला नाही! प्रथम सेटिंग्जमधून कलाकार टॅब सक्षम करा.</string>
+    <string name="artists">कलाकार</string>
+    <string name="attention_e">लक्ष द्या!</string>
+    <string name="audio">ऑडिओ</string>
+    <string name="audio_formats_supported">Musicolet WMA/Opus/FLAC/ALAC यांना समर्थन देतो का?</string>
+    <string name="auto_close_app_setting">गाणी वाजवित नसल्यास स्वयंचलितपणे अॅप बंद करा</string>
+    <string name="auto_close_app_setting_explain">अॅप दृश्यमान नसल्यास आणि गाणी वाजवित नसल्यास विशिष्ट वेळानंतर अॅप बंद करा</string>
+    <string name="back">मागे</string>
+    <string name="background_c">पार्श्वभूमी:</string>
+    <string name="bass_boost">Bass मधे वाढ</string>
+    <string name="bitrate">बिट-दर</string>
+    <string name="blurred_bg_explain">आता प्ले करत असलेल्या स्क्रीनवर पार्श्वभूमी म्हणून इमर्सिव्ह अंधुक अल्बम आर्ट दर्शविते</string>
+    <string name="blurrend_bg_setting">सध्या वाजत असलेल्या स्क्रीनमध्ये अस्पष्ट पार्श्वभूमी</string>
+    <string name="broadcast_aa_explain">म्हणून हे तृतीय पक्षी अॅप आणि अ‍ॅन्ड्रॉइड प्रणाली लॉक स्क्रीनद्वारे वापरले जाऊ शकते.</string>
+    <string name="broadcast_album_art_setting">अल्बम आर्ट प्रसारित करा</string>
+    <string name="can_not_read_that_folder">तो फोल्डर वाचू शकत नाही!</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="cant_be_empty">रिक्त असू शकत नाही</string>
+    <string name="cant_edit_info_of_given_files">दिलेल्या फाइल(च्या) माहिती संपादित करू शकत नाही!</string>
+    <string name="caption_is_be_copied_to_clipboard">मथळा कॉपी केला आहे. आपल्याला फक्त पेस्ट करण्याची आवश्यकता आहे.</string>
+    <string name="center_aligned_text">संरेखित मजकूर मध्यभागी आणा</string>
+    <string name="change_album_art">अल्बम आर्ट बदला</string>
+    <string name="changes_will_apply_physically">बदल प्रत्येक ऑडिओ फाइलवर फिजिकली (वास्तविक स्टोरेजवर) लिहीले जातील. त्यामुळे त्याला काही वेळ लागू शकतो.</string>
+    <string name="choose_lang">भाषा निवडा</string>
+    <string name="clear">साफ करा</string>
+    <string name="clear_search_history">शोध इतिहास साफ करा</string>
+    <string name="close">बंद करा</string>
+    <string name="close_app">अ‍ॅप बंद करा</string>
+    <string name="close_lyrics">बोल बंद करा</string>
+    <string name="close_selection_process_after_an_option_is_selected">पर्याय निवडल्यानंतर निवड प्रक्रिया बंद करा</string>
+    <string name="composer">संगीतकार</string>
+    <string name="copy_to_a_queue">रांगेवर कॉपी करा</string>
+    <string name="cpu_efficient_scroll">CPU-कार्यक्षम स्क्रोलिंग</string>
+    <string name="credits">श्रेय आणि विशेष धन्यवाद</string>
+    <string name="current_queue">सध्याची रांग</string>
+    <string name="current_queue_x_y_counter">वर्तमान रांग (%1$d/%2$d)</string>
+    <string name="current_select_queue_eq">सध्या निवडलेल्या रांगेचे नाव =</string>
+    <string name="custom">कस्टम</string>
+    <string name="custom_order">वैयक्तिक क्रमवारी</string>
+    <string name="customize_song_order_playlist_x">%1$s या प्लेलिस्टमधील गाण्यांची क्रमवारी कस्टमाइज करा</string>
+    <string name="cutomize_song_order_yourself">स्वत: ला हवे तसे गाणे क्रमवारीने लावा</string>
+    <string name="d_10_minutes">१० मिनिटे</string>
+    <string name="d_10_seconds">१० सेकंद</string>
+    <string name="d_1_minutes">१ मिनिट</string>
+    <string name="d_2_minutes">२ मिनिटे</string>
+    <string name="d_30_seconds">३० सेकंद</string>
+    <string name="d_30p_length">कालावधीच्या ३०%</string>
+    <string name="d_50p_length">कालावधीच्या ५०%</string>
+    <string name="d_5_minutes">५ मिनिटे</string>
+    <string name="d_90p_length">कालावधीच्या ९०%</string>
+    <string name="dark">गडद</string>
+    <string name="date_add_asc">संग्रहामधे जोडलेली तारीख चढत्या क्रमाने</string>
+    <string name="date_add_dsc">संग्रहामधे जोडलेली तारीख उतरत्या क्रमाने</string>
+    <string name="date_added_to_library">संग्रहामध्ये जोडलेली तारीख</string>
+    <string name="date_last_played">अंतिम वेळेस वाजवलेली तारीख</string>
+    <string name="date_mod_asc">सुधारित केलेली तारीख चढत्या क्रमाने</string>
+    <string name="date_mod_dsc">सुधारित केलेली तारीख उतरत्या क्रमाने</string>
+    <string name="date_modified">सुधारणा तारीख</string>
+    <string name="date_play_asc">शेवटची वाजवलेली तारीख चढत्या क्रमाने</string>
+    <string name="date_play_dsc">शेवटची वाजवलेली तारीख उतरत्या क्रमाने</string>
+    <string name="delete">काढून टाका</string>
+    <string name="delete_permanently">कायमचे काढून टाका</string>
+    <string name="delete_this_backup">हे बॅकअप काढून टाका</string>
+    <string name="delete_this_external_playlist">ही बाह्य प्लेलिस्ट हटवा</string>
+    <string name="delete_this_preset">प्रीसेट काढून टाका</string>
+    <string name="deselct_all_songs_album">या अल्बममधील सर्व गाण्यांची निवड रद्द करा</string>
+    <string name="deselct_all_songs_genre">या शैलीतील सर्व गाण्याची निवड रद्द करा</string>
+    <string name="deselect_all_from_this_list">या सूचीमधील सर्व निवड रद्द करा</string>
+    <string name="deselect_all_songs_artist">या कलाकाराच्या सर्व गाण्यांची निवड रद्द करा</string>
+    <string name="deselect_all_songs_folder">या फोल्डरमधील सर्व गाण्यांची निवड रद्द करा</string>
+    <string name="deselect_all_songs_playlist">या प्लेलिस्टच्या सर्व गाण्यांची निवड रद्द करा</string>
+    <string name="deselect_all_songs_sub_folder">हा फोल्डर आणि याच्या सर्व उप-फोल्डर्समधील सर्व गाण्यांची निवड रद्द करा</string>
+    <string name="disclaimer_earphone_actions">टीप: काही डिव्हाइसेसवर ईअरफोनचे बटण कार्य करणार नाही! कारण वाचण्यासाठी क्लिक करा</string>
+    <string name="do_in_background">बॅकग्राऊंडमध्ये करा</string>
+    <string name="do_nothing">काहीही करू नका</string>
+    <string name="does_transmit_data_in_background">Musicolet इंटरनेटवर कोणतीही माहिती पाठवतो का?</string>
+    <string name="done">झाले</string>
+    <string name="double_press_action">ईअरफोनचे बटण दोनदा वेळा दाबल्यास</string>
+    <string name="dragger_explain">येथे धरा आणि क्रम बदलण्यासाठी वर/खाली ओढा</string>
+    <string name="duration">कालावधी</string>
+    <string name="duration_asc">कालावधी चढत्या क्रमाने</string>
+    <string name="duration_dsc">कालावधी उतरत्या क्रमाने</string>
+    <string name="earphone_button_descaimer_explain">काही निर्माते स्टॉक अ‍ॅंड्राइडवर त्यांच्या स्वतःच्या स्तरांचा कोड टाकत आहेत, अशा डिव्हाईसेस ईअरफोनचे बटण स्वत: हाताळतात आणि अॅपला बटण हाताळण्याची परवानगी देत नाहीत. म्हणून डिव्हाइस Musicolet ला पुढील/मागील गाणे वाजविण्यास सांगते. परंतू ईरफोनचे बटण दाबले आहे हे कधीच सांगू देत नाही. आम्ही याबद्दल काहीही करू शकत नाही.</string>
+    <string name="edit_album_info">अल्बमची माहिती बदला</string>
+    <string name="edit_artist_info">कलाकाराची माहिती बदला</string>
+    <string name="edit_genre_info">शैलीची माहिती बदला</string>
+    <string name="edit_info">माहिती संपादित करा</string>
+    <string name="edit_lyrics">बोल संपादित करा</string>
+    <string name="edit_song_info">गाण्याची माहिती बदला</string>
+    <string name="embedded_lyrics_appearance">एम्बेड केलेले बोलचा देखावा</string>
+    <string name="empty_queue_cannt_resume">ही रांग रिकामी आहे. ती पुन्हा सुरु करू शकत नाही.</string>
+    <string name="empty_queue_cannt_scroll_to_current_song">ती रांग रिकामी आहे! सध्या सक्रिय असलेल्या गाण्याच्या स्थानी पोहोचू शकत नाही!</string>
+    <string name="enable_document_app_first">"'डॉक्युमेंट्स' अॅप सापडला नाही. 'डॉक्युमेंट्स' अ‍ॅप डिसेबल केले असल्यास ते प्रथम अनेबल करा. ('फोन सेटिंग्ज' वर जा> 'इंस्टॉलड अॅप्स'> 'सर्व'> 'डॉक्युमेंट्स\" शोधा > ते अनेबल करा). नंतर पुन्हा प्रयत्न करा."</string>
+    <string name="end_of_current_queue">वर्तमान रांग समाप्त झाली आहे</string>
+    <string name="end_of_current_queue_shuffle">वर्तमान रांग समाप्त झाली आहे (शफल मोडमध्ये)</string>
+    <string name="end_of_first_queue">प्रथम रांग समाप्त झाली आहे</string>
+    <string name="end_of_last_queue">शेवटची रांग समाप्त झाली आहे</string>
+    <string name="end_of_last_queue_shuffle">शेवटची रांग समाप्त झाली आहे (शफल मोडमध्ये)</string>
+    <string name="enter_new_playlist_name">नवीन प्लेलिस्टचे नाव लिहा</string>
+    <string name="equalizer">इक्वलाइजर</string>
+    <string name="equalizer_not_working_q">इक्वलाइजर योग्यरित्या कार्य करत नाही?</string>
+    <string name="equalizer_to_use">इक्वलाइजर निवडा</string>
+    <string name="error_init_equalizer">इक्वलायझर प्रारंभ करताना त्रुटी आल्या</string>
+    <string name="error_taking_screenshot">स्क्रीनशॉट घेताना त्रुटी आल्या!</string>
+    <string name="error_while_reading_user_preset">वापरकर्त्याचे प्रीसेट वाचताना त्रुटी आल्या</string>
+    <string name="error_while_rescaning">स्कॅन करित असताना काहीतरी चुकीचे घडले</string>
+    <string name="error_while_setting_ringtone">रिंगटोन सेट करताना त्रुटी आल्या!</string>
+    <string name="exclude_duration_explanation">दिलेल्या कालावधी<b> पेक्षा कमी</b> कालावधीची गाणी आणि ऑडिओ क्लिप्स स्कॅनिंग मधून वगळल्या जातील.</string>
+    <string name="exclude_folder_from_scanning">स्कॅनिंगमधून फोल्डर वगळा</string>
+    <string name="exclude_small_duration_files">कमी कालावधीचे फायली वगळा</string>
+    <string name="exclude_song_folder_dialog_explanation">खाली दिलेल्या फोल्डरमधील गाणी स्कॅन केली जाणार नाहीत. या फोल्डरच्या<b> उप-फोल्डर्स</b> मधील गाणी<b> देखील स्कॅन केली जाणार नाहीत</b>.</string>
+    <string name="exclude_this_folder_from_scanning">हे फोल्डर स्कॅनिंगमधून वगळा</string>
+    <string name="exclude_time_zero_value_explain">या दोन्ही मुल्ये रिकाम्या किंवा 0: 0 ठेवल्यामुळे कोणतीही फाईल वगळली जणार नाही.</string>
+    <string name="excluded_folders_list_updated">वगळलेल्या फोल्डर्सची सूची अद्ययावत केली</string>
+    <string name="expandable_notif">विस्तृत करण्यायोग्य नोटिफिकेशन</string>
+    <string name="experimental">प्रायोगिक</string>
+    <string name="explanation_force_rescan">"&lt;b>Musicolet स्वत:हून नवीन गाणे स्कॅन करते?&lt;/b>
+होय. Musicolet प्रत्येक प्रारंभी नवीन गाण्यांसाठी जलद स्कॅन करते. 
+
+&lt;b>मग फोर्स-रिस्कॅनची आवश्यकता का आहे?&lt;/b>
+जलद आणि बॅटरी कार्यक्षम स्कॅनिंगसाठी, Musicolet अ‍ॅन्ड्रॉइडचे &lt;b>मीडियास्टोरेज फ्रेमवर्क&lt;/b> वापरते. अ‍ॅन्ड्रॉइडचे मीडियास्टोरेज फ्रेमवर्क आंतरिक आणि बाह्य संचयनामध्ये अस्तित्वात असलेल्या फाईल्सची चौकशीची आणि साठवण्याची एक शक्तिशाली पद्धत आहे. गॅलरीसह बरेच अॅप्स यावर अवलंबून असतात.
+
+परंतु, काहीवेळा अॅप्स (जसे की फाईल व्यवस्थापक, ब्राउझर्स, फाइल शेअरींग अॅप्स इ. जेथून नवीन गाणी डाउनलोड केलेले आहेत/कॉपी केले/हलविल्या आहेत) त्यांनी केलेल्या अलीकडील बदलांविषयी अ‍ॅन्ड्रॉइड मीडियास्टोरेज फ्रेमवर्कला सूचित करत नाहीत. त्यामुळे मीडियास्टोरेजला त्या बदलांविषयी माहिती नसेल. Musicolet नव्याने जोडलेल्या गाण्यांना शोधत नसल्याबद्दलचे हे एक कारण आहे. अन्य अॅप्स जर मीडियास्टोरेजच्या मार्गदर्शक सूचनांचे योग्यरित्या अनुसरण करत सहकार्य केल्यास, आपल्याला फोर्स-स्कॅन वापरण्याची आवश्यकता भासणार नाही. 
+
+
+तरीही, खाली दिलेले रिस्कॅन-बटण अ‍ॅन्ड्रॉइडच्या मीडियास्टोरेज फ्रेमवर्कला निवडलेला फोल्डर आणि त्याच्या उपफोल्डर मध्ये  पुन्हा संगीत स्कॅन करण्याची सक्ती करेल आणि मग तेंव्हा Musicolet नवीन जोडलेली गाणी शोधू शकेल.
+"</string>
+    <string name="export_playlist_backup_explain">&lt;small>Musicolet च्या खाजगी प्लेलिस्टची एक प्रत तयार करा आणि ती सार्वजनिकरित्या निर्यात करा. त्यामुळे नंतर आपण त्या निर्यात केलेल्या बॅकअपमधील गाणी आयात करू शकता. एकाच नावाचे निर्यात केलेले विद्यमान प्लेलिस्ट-बॅकअप, एका नवीन नावाने बदलले जाईल.&lt;/small></string>
+    <string name="export_playlist_for_backup">&lt;small>बॅकअपसाठी प्लेलिस्ट निर्यात करा&lt;/small></string>
+    <string name="export_playlists">बॅकअप म्हणून Musicolet ची प्लेलिस्ट निर्यात करा</string>
+    <string name="external_playlist_deleted">निवडलेली बाह्य प्लेलिस्ट यशस्वीरित्या काढून टाकली</string>
+    <string name="facebook">फेसबूक</string>
+    <string name="facts_about_queues">एकाधिक-रांगांबद्दल अधिक तथ्ये</string>
+    <string name="fade_in_when_play">प्ले केल्यावर हळूहळू आवाज वाढवा</string>
+    <string name="fade_out_when_pause">पॉज केल्यावर हळूहळू आवाज कमी करा</string>
+    <string name="fade_vol_effects_title">प्ले/पॉज केल्यावर हळूहळू आवाज वाढवा/कमी करा</string>
+    <string name="failed">अयशस्वी</string>
+    <string name="falied_to_delete_some_files">संचयनामधून काही फाईल वास्तवात हटविण्यास अयशस्वी!</string>
+    <string name="faqs_and_other_info">FAQs आणि इतर माहिती</string>
+    <string name="fast_forward">जलद पुढे जा</string>
+    <string name="fastforward_on_4_press_explain">ईअरफोनच्या बटणाच्या ४ किंवा त्यापेक्षा जास्तीच्या प्रेसवर, आपण फास्ट-फॉरवर्ड करू शकता</string>
+    <string name="favourites">आवडते</string>
+    <string name="file_doesnt_exist">फाइल अस्तित्वात नाही!</string>
+    <string name="file_name">फाइल शीर्षक</string>
+    <string name="file_name_dsc">फाईलचे नाव उतरत्या क्रमाने</string>
+    <string name="filename_asc">फाईलचे नाव चढत्या क्रमाने</string>
+    <string name="fit_to_square_for_instagram">इंस्टाग्राम साठी चौरसात फिट करा</string>
+    <string name="folder_exclude_warning">हे फोल्डर आणि त्याचे सब-फोल्डर्स स्कॅनिंग मधून वगळले जातील. या फोल्डरमधील गाणी लपविल्या जातील. आपण असे करू इच्छिता?</string>
+    <string name="folder_jpg_settings_explain">जर एम्बेड केलेलेअल्बमआर्ट एखाद्या गाण्यात आढळले नाही तर त्याच फोल्डरमधून folder.jpg, AlbumArt.jpg इत्यादी वापरा</string>
+    <string name="folder_linear">लिनीयर (एकाच वेळी सर्व फोल्डर्स)</string>
+    <string name="folder_tab_not_found">फोल्डर टॅब आढळला नाही! प्रथम सेटिंग्जमधून फोल्डर टॅब सक्षम करा.</string>
+    <string name="folders">फोल्डर्स</string>
+    <string name="follow_musicolet_on">Musicolet ला फॉलो करा:</string>
+    <string name="for_xiaomi_miui_user">Xiaomiच्या MIUI वापरकर्त्यांसाठी</string>
+    <string name="force_to_rescan">पुन्हा स्कॅनची सक्ती करा</string>
+    <string name="force_to_rescan_now">आता पुन्हा स्कॅनची सक्ती करा</string>
+    <string name="force_to_rescan_settings_explain">Musicolet मध्ये नव्याने जोडलेली गाणी गहाळ झाली असता उपयुक्त</string>
+    <string name="frequently_asked_questions_faqs">नेहमी विचारले जाणारे प्रश्न (FAQs)</string>
+    <string name="genre">शैली</string>
+    <string name="genre_tab_not_found">शैली टॅब आढळला नाही! प्रथम सेटिंग्जमधून शैली टॅब सक्षम करा.</string>
+    <string name="genres">शैली</string>
+    <string name="git_it_lets_do_it">समजले! चला ते करू.</string>
+    <string name="give_permissions">परवानग्या द्या</string>
+    <string name="give_us_permission_for_ringtone">आम्हाला परवानगी द्या त्यामुळे आम्ही आपले रिंगटोन बदलू शकू.</string>
+    <string name="got_it">समजले</string>
+    <string name="grid_view">ग्रिड दृश्य</string>
+    <string name="handsfree_and_speakers">हँड्सफ्री आणि स्पीकर्स</string>
+    <string name="help_and_info">मदत आणि माहिती</string>
+    <string name="hide_embedded_lyrics">अंर्तगत बोल लपवा</string>
+    <string name="hierarchical_folders">श्रेणीबद्ध (फोल्डरमध्ये फोल्डर)</string>
+    <string name="homescrenn_widget_settings">होमस्क्रीन विजेटचे दिखावट</string>
+    <string name="how_can_you_appreciate_our_work">मी आपल्या कार्याची प्रशंसाआणि मदत कशी करू शकतो?</string>
+    <string name="how_much_we_earn_from_musicolet">Musicolet मधून आपण कसे कमवता?</string>
+    <string name="i_understand_this">मी हे समजतो</string>
+    <string name="i_understand_this_use_x">समजले! %1$s वापरा</string>
+    <string name="if_d_10sec_replay_else_prev">जर सध्याचा गाणे 10 सेकंदांपेक्षा जास्त वेळ वाजवला असेल तर तेच गाणे पुन्हा वाजवा, अन्यथा मागील गाणे वाजवा</string>
+    <string name="import_playlist_dialog_title">बाह्य सार्वजनिक प्लेलिस्टमधील गाणी आयात करा</string>
+    <string name="import_playlists">बाह्य सार्वजनिक प्लेलिस्टमधील गाणी आयात करा</string>
+    <string name="in_expanded_notification">विस्तृत नोटिफिकेशनमध्ये…</string>
+    <string name="instagram">इंस्टाग्राम</string>
+    <string name="interface_">इंटरफेस</string>
+    <string name="jump_from_first_play_queue">जेंव्हा शेवटची रांग संपेल, तेंव्हा पहिल्या रांगेला जा आणि उलटे करा</string>
+    <string name="jump_to_next_queue">पुढील रांगेवर जा</string>
+    <string name="just_stop_there">तिथे थांबा</string>
+    <string name="lagfree_scroll_pref_explain">सूची स्क्रोल करीत नसेल, फक्त तेंव्हाच अल्बम आर्टस लोड करा. हे CPU चा कमी वापर करते आणि स्क्रोलिंग सोपे बनविते.</string>
+    <string name="language">भाषा</string>
+    <string name="language_not_supported_by_dev">"
+Musicolet इंग्रजी मध्ये तयार केले आहे. दुर्दैवाने आम्हाला आपली भाषा समजत नाही. :(
+&lt;br/>&lt;br/>&lt;b>आमच्या वापरकर्त्यांनी या भाषेत अॅप भाषांतरीत केला आहे&lt;/b>.
+&lt;br/>&lt;br/>आम्ही भाषांतराच्या अचूकतेची जबाबदारी घेत नाही. आमच्याशी  संपर्क करताना (ईमेल, प्लेस्टोर आणि अन्य प्लॅटफॉर्मद्वारे) कृपया शक्य असल्यास इंग्रजी वापरा.
+&lt;br/>&lt;br/>आपल्याला भाषांतरात काही चुका आढळल्यास, किंवा वर्तमान भाषांतराची गुणवत्ता सुधारण्यास आपण इच्छित असल्यास,आपण आम्हाला मदत करू शकता. त्यासाठी, 'मदत आणि माहिती' मेनूवर जा, नंतर 'Help us in translation' निवडा. 
+&lt;b>आपल्या समर्थनाबद्दल धन्यवाद.&lt;/b>
+"</string>
+    <string name="least_played_first">सर्वात कमी वाजविलेले प्रथम</string>
+    <string name="library_not_updated_completely">गाणी संग्रह पूर्णपणे अद्ययावत केला नाही!</string>
+    <string name="light">लाईट</string>
+    <string name="like_this_app_q">हा अ‍ॅप आवडला?</string>
+    <string name="list_with_thumbnail">थंबनेलसह लिस्ट</string>
+    <string name="list_without_thumbnail">थंबनेलशिवाय लिस्ट</string>
+    <string name="location">स्थान</string>
+    <string name="lock_screen">लॉक स्क्रीन</string>
+    <string name="looking_for_new_files">नवीन फायली शोधत आहोत</string>
+    <string name="lyricist">गीतकार</string>
+    <string name="main_menu">मेन मेन्यू</string>
+    <string name="match_system_bg_dark_text">प्रणाली पार्श्वभूमीसह + गडद मजकूर जुळवा</string>
+    <string name="match_system_bg_light_text">प्रणाली पार्श्वभूमीसह + फिकट मजकूर जुळवा</string>
+    <string name="max_queue_limit_reached_1st_deleted">कमाल रांग मर्यादा (=%1$d) गाठली आहे. प्रथम रांग हटविले जात आहे.</string>
+    <string name="minimum_duration_consider_playback">प्लेबॅकचा विचार करण्यासाठी किमान कालावधी</string>
+    <string name="minimum_duration_consider_playback_explain">एखादे गाणे वाजविलेले म्हणून विचारात घेण्यासाठी आधी प्लेबॅकचा किमान कालावधी आवश्यक आहे</string>
+    <string name="more_about_musicolet">Musicolet बद्दल अधिक</string>
+    <string name="most_played">सर्वाधिक वाजवलेली</string>
+    <string name="most_played_first">सर्वात जास्त वाजविलेले प्रथम</string>
+    <string name="multi_selection_controls">बहु-निवड नियंत्रण</string>
+    <string name="music_playback">मुझिक प्लेबॅक</string>
+    <string name="music_playback_suddenly_stops_while_multitasking">अन्य अॅप्स वापरत (मल्टीटास्किंग) असताना बॅकग्राउंडमध्ये गाणी वाजणे थांबते</string>
+    <string name="musicoler_ss_caption_1">"ऐकत आहे #%2$s चे #%1$s in #Musicolet…
+
+PlayStore मधून @musicolet मिळवा: j.mp/musicolet"</string>
+    <string name="musicoler_ss_caption_2">"\#musicolet मध्ये गाणे ऐकत आहे…
+
+PlayStore मधून @musicolet मिळवा: j.mp/musicolet"</string>
+    <string name="musicolet_equalizer">Musicolet इक्वलाइजर</string>
+    <string name="musicolet_free_forever_q">Musicolet कायम विनामूल्य असेल?</string>
+    <string name="musicolet_is_updated">Musicolet ला अद्ययावत केले!</string>
+    <string name="musicolet_lock_screen">Musicolet लॉक-स्क्रीन</string>
+    <string name="musicolet_lock_screen_desc">"Musicolet लॉक-स्क्रीन आपल्या डिफॉल्ट लॉक स्क्रीनवर मूलभूत संगीत नियंत्रण लागू करते.
+
+"<small>टीप: Musicolet लॉकस्क्रीन अनलॉकिंग आपले डिफॉल्ट लॉक-स्क्रीन अनलॉक करत नाही.</small></string>
+    <string name="musicolet_lockscreen">Musicolet लॉक स्क्रीन</string>
+    <string name="musicolet_notif">Musicolet ची पद्धत</string>
+    <string name="musicolet_oreo_notif">Musicolet + अ‍ॅन्ड्रॉइड ओरिओ पद्धत</string>
+    <string name="musicolet_requires_some_permissions">Musicolet ला काही परवानग्या आवश्यक आहेत!</string>
+    <string name="musicolet_simpli_perf_and_effi">Musicolet हा एक म्युझिक प्लेअर आहे जे साधेपणा, कामगिरी आणि कार्यक्षमता यांवर लक्ष केंद्रित करते.</string>
+    <string name="mute">म्यूट</string>
+    <string name="needsaccess">राईट अ‍ॅक्सेस आवश्यक आहे</string>
+    <string name="never">कधीच नाही</string>
+    <string name="never_close_automatically">स्वतःहून कधीही बंद करू नका</string>
+    <string name="new_name_here">नवीन नाव येथे</string>
+    <string name="new_playlist_name">नवीन प्लेलिस्टचे नाव</string>
+    <string name="new_queue">नवीन रांग</string>
+    <string name="next_song">पुढील गाणे</string>
+    <string name="no">नाही</string>
+    <string name="no_app_available_to_share">शेअर करण्यासाठी कोणताही अॅप उपलब्ध नाही!</string>
+    <string name="no_embedded_lyrics_found_this_song">या गाण्यात अंतर्गत बोल नाहीत.</string>
+    <string name="no_external_playlist_nor_backup_found">कोणतीही बाह्य प्लेलिस्ट सापडली नाही. आणि पूर्वी निर्यात केलेला Musicolet-प्लेलिस्टचा बॅकअपही नाही</string>
+    <string name="no_song_to_queue_b">[रांगेत कोणतेही गाणे नाही]</string>
+    <string name="not_all_device_support_system_eq">सर्वच अ‍ॅंड्रॉइड डिव्हायसेस प्रणाली इक्वलायझरला समर्थन देत नाहीत</string>
+    <string name="not_enough_cache_memory_ro_edit_info">गाणे माहिती संपादित करण्यासाठी डिव्हाइसवर पुरेसे कॅचे मेमरी उपलब्ध नाही!</string>
+    <string name="not_enough_ram_for_action">ही क्रिया करण्यासाठी पुरेसा RAM उपलब्ध नाही</string>
+    <string name="not_valid_folder">फोल्डर वैध नाही</string>
+    <string name="notif_appear">नोटिफिकेशन दिखावट</string>
+    <string name="notif_style_c">नोटिफिकेशन स्टाईल</string>
+    <string name="notif_warning">अ‍ॅन्ड्रॉइडमध्ये, नोटिफिकेशन रिमोटव्हिव्जसह केले जातात. अॅप रिमोटव्हिव तयार करते आणि त्यास systemUI मध्ये पाठविते. त्यानंतर ते SystemUI द्वारे प्रस्तुत आणि व्यवस्थापित केले जातात. ROM त्यांच्यावर स्वत: चे काही बदल करू शकतो. म्हणून हे कस्टमायझेशन काही डिव्हाइसेस किंवा काही ROM मध्ये कार्य करू शकत नाहीत.</string>
+    <string name="notif_warning_title">या पसंती काही डिव्हाइसेसवर कार्य करू शकत नाही.<u>अधिक वाचा.</u></string>
+    <string name="nowSelecttionProcessCloseOnAction">आता, आपण एखादी क्रिया निवडल्यानंतर निवड प्रक्रिया बंद केली जाईल</string>
+    <string name="nowSelecttionProcessWillNotCloseOnAction">आता, आपण निवडलेल्या गाण्यांवर एकापेक्षा अधिक क्रिया करू शकता. निवडलेली गाणी निवडलेलीच राहतील.</string>
+    <string name="now_playing">आता प्ले होत</string>
+    <string name="now_showing_filenames">आता सर्वत्र शीर्षकांऐवजी फाइल-नावे दर्शवित आहोत</string>
+    <string name="now_showing_titles">आता सर्वत्र फाइल-नावांऐवजी शीर्षके दर्शवित आहोत</string>
+    <string name="ok">ठीक आहे</string>
+    <string name="open_source_lic"><u>ओपन सोर्स लायसेंस</u></string>
+    <string name="options">पर्याय</string>
+    <string name="options_for_listed_songs">सूचीतील गाण्यांसाठी पर्याय</string>
+    <string name="options_for_songs_folder_subfolder">हा फोल्डर आणि त्याच्या सबफोल्डरमधील सर्व गाण्यांसाठी पर्याय</string>
+    <string name="options_for_songs_in_this_folder">या फोल्डरमधील गाण्यांसाठी पर्याय</string>
+    <string name="options_for_this_song">या गाण्यासाठी पर्याय</string>
+    <string name="paste">पेस्ट करा</string>
+    <string name="paste_or_write_lyrics_here">बोल येथे पेस्ट करा किंवा लिहा</string>
+    <string name="pause_when_disconnect">डिस्कनेक्ट झल्यास थांबा</string>
+    <string name="pause_when_disconnect_explain">हेडसेट, स्पीकर किंवा ब्ल्यूटूथ डिस्कनेक्ट झाल्यास वाजणे थांबवा</string>
+    <string name="permission_reqired">परवानगी आवश्यक आहे!</string>
+    <string name="play">वाजवा</string>
+    <string name="play_after_current_song">वर्तमान गाण्यानंतर वाजवा</string>
+    <string name="play_next_song">पुढील गाणे वाजवा</string>
+    <string name="play_or_pause">वाजवा किंवा थांबा</string>
+    <string name="play_queue">रांग</string>
+    <string name="play_speed">प्ले स्पीड</string>
+    <string name="played">वाजविला</string>
+    <string name="playlist_exported_Success">निवडलेली प्लेलिस्ट यशस्वीरित्या निर्यात केली</string>
+    <string name="playlist_order_saved">प्लेलिस्टची क्रमवारी जतन केली</string>
+    <string name="playlist_tab_cant_be_hidden">प्लेलिस्ट टॅब लपविला जाऊ शकत नाही</string>
+    <string name="playlists">प्लेलिस्ट्स</string>
+    <string name="please_wait">कृपया प्रतीक्षा करा</string>
+    <string name="preset_name">प्रीसेटचे नाव</string>
+    <string name="previous_song">मागील गाणे</string>
+    <string name="previous_song_behaviour_setting">मागील-गाणे बटणाचे वर्तन</string>
+    <string name="previous_song_behaviour_setting_explain">प्लेयर, नोटिफिकेशन, लॉकस्क्रीनवर किंवा headset मधे आपण मागील गाणे या बटणावर क्लिक केल्यानंतर काय करावे याचा निर्णय घेते.</string>
+    <string name="queue_instead_fav">आवडते बटणाऐवजी रांग शॉर्टकट</string>
+    <string name="queues">रांगा</string>
+    <string name="queues_and_playlists">रांगा आणि प्लेलिस्ट्स</string>
+    <string name="randomize">रॅंडमाइज</string>
+    <string name="rate_us_5_stars">आम्हाला 5 स्टार्स रेट द्या</string>
+    <string name="read_them_first_click_here">प्रथम त्यांना वाचा. येथे क्लिक करा.</string>
+    <string name="recently_added">अलीकडे जोडलेले</string>
+    <string name="reload_metadata_settings">संचयनामधून मेटाडेटा टॅग्ज पुन्हा लोड करा</string>
+    <string name="reload_metadata_settings_explain">हे संचयनातून मेटाडेटा टॅग्ज पुन्हा लोड करते, आणि सर्व रांगेतील आणि प्लेलिस्टमधील गाण्यांच्या टॅग्ज अद्ययावत करते.</string>
+    <string name="remove_album_art">अल्बम आर्ट काढा</string>
+    <string name="remove_from_favorites">आवडतेमधून काढून टाका</string>
+    <string name="remove_from_this_playlist">या प्लेलिस्टमधून काढून टाका</string>
+    <string name="remove_from_this_queue">याला रांगेमधून काढा</string>
+    <string name="remove_playlist">प्लेलिस्ट काढून टाका</string>
+    <string name="remove_this_queue">निवडलेल रांग काढून टाका</string>
+    <string name="rename">नवीन नाव द्या</string>
+    <string name="rename_playlist">प्लेलिस्टचे नाव बदला</string>
+    <string name="rename_queue">रांगचे नाव बदला</string>
+    <string name="rename_this_queue">या रांगेचे शीर्षक बदला</string>
+    <string name="repeat_options">पुनरावृत्तीसाठीचे पर्याय</string>
+    <string name="repeat_queue">तिच रांग पुन्हा वाजवा</string>
+    <string name="repeat_song">तेच गाण पुन्हा पुन्हा वाजवा</string>
+    <string name="reset">रिसेट</string>
+    <string name="reset_timer">टाईमर रिसेट करा</string>
+    <string name="respect_audio_focus_desable_alert">"आपण आत्ताच 'आदर-ऑडिओ-फोकस' सेटिंग बंद केली आहे. आता Musicolet ऑडिओ फोकसचा आदर करणार नाही. याचा अर्थ असा की जेव्हा इतर अॅप्स एखादे ऑडियो प्रारंभ करतात किंवा फोन कॉल दरम्यान, गाणी वाजणे थांबणार नाही."</string>
+    <string name="respect_audio_focus_explain">कॉल दरम्यान आणि जेंव्हा इतर अ‍ॅप्स ऑडिओ फोकस साठी विनंती करतात तेव्हा प्लेबॅक थांबवा. आपण काय करत आहात हे आपल्याला माहित नसल्यास यास अन-चेक करू नका!</string>
+    <string name="respect_audiofocus_settings">ऑडिओ फोकसचा आदर करा</string>
+    <string name="resume_playback">प्लेबॅक पुन्हा सुरू करा</string>
+    <string name="resume_this_queue">निवडलेल रांग वाजवा</string>
+    <string name="reverse">उलट</string>
+    <string name="rewind">रिवाइंड</string>
+    <string name="ringtone_is_set">रिंगटोन सेट केले आहे!</string>
+    <string name="ringtone_modify_sys_permission_explanantion">Musicolet कडे प्रणालीच्या सेटिंग्ज सुधारित करण्याची परवानगी नाही. या परवानगीशिवाय आम्ही (अ‍ॅप) आपले रिंगटोन बदलू शकत नाही. आपल्या फोनच्या सेटिंग्ज, अॅप्स सेटिंग्जवर जा, तेथे Musicolet ला शोधा आणि सर्व आवश्यक परवानग्या द्या. नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="s_new_playlist">नवीन प्लेलिस्ट</string>
+    <string name="saf_description_delete">"अ‍ॅन्ड्रॉइड प्रणालीच्या मर्यादेमुळे, वापरकर्त्याच्या परवानगीशिवाय बाह्य संचय (जसे की एसडी कार्ड, यूएसबी वगैरे) फाईल्स डिलीट किंवा बदलू शकत नाही. आम्हाला परवानगी द्या म्हणजे आम्ही वास्तवात फाईल्स डिलिट करू शकू.
+
+खाली दिलेल्या ४ सोप्या सूचनांचे अनुसरण करा (आपल्याला आवश्यक असल्यास प्रतिमा झूम करा):"</string>
+    <string name="saf_description_modify">"अ‍ॅन्ड्रॉइड प्रणालीच्या मर्यादेमुळे, वापरकर्त्याच्या परवानगीशिवाय बाह्य संचय (जसे की एसडी कार्ड, यूएसबी वगैरे) फाईल्स बदलू शकत नाही. आम्हाला फाईल्स बदलता यावी म्हणून परवानगी द्या. टॅग्स बदलण्यासाठी हे आवश्यक आहे.
+
+खाली दिलेल्या ४ सोप्या सूचनांचे अनुसरण करा (आपल्याला आवश्यक असल्यास प्रतिमा झूम करा):"</string>
+    <string name="save">जतन करा</string>
+    <string name="save_changes_q">बदल जतन करायचे?</string>
+    <string name="save_order">क्रमवारी जतन करा</string>
+    <string name="save_preset">प्रीसेट जतन करा</string>
+    <string name="save_this_queue">निवडलेल रांग जतन करा</string>
+    <string name="save_to_gallery">गॅलरीमध्ये जतन करा</string>
+    <string name="saved_in_gallary_musicolet">गॅलरीमध्ये Musicolet फोल्डरमध्ये जतन केले!</string>
+    <string name="scan_this_folder">या फोल्डरपासून स्कॅन सुरु करा</string>
+    <string name="screen_shot">स्क्रीन शॉट</string>
+    <string name="scrolled_to_current_song">या रांगेतील सध्या सक्रिय असलेल्या गाण्याच्या स्थानी पोहोचलो.</string>
+    <string name="search">शोध</string>
+    <string name="search_album_art_with">यांसह अल्बम आर्ट शोधा…</string>
+    <string name="search_lyrics">बोल शोधा</string>
+    <string name="search_lyrics_with">यासह बोल शोधा…</string>
+    <string name="search_title_album_artist">शीर्षक,अल्बम,कलाकाराने शोधा</string>
+    <string name="seekbar_to_seek_the_song">गाण्यात इच्छित स्थानी पोहोचण्यासाठी सीकबार</string>
+    <string name="select_a_playlist">प्लेलिस्ट निवडा</string>
+    <string name="select_all">सर्व निवडा</string>
+    <string name="select_all_from_this_list">या सूचीमधून सर्व निवडा</string>
+    <string name="select_all_songs_artist">या कलाकाराच्या सर्व गाण्यांची निवड करा</string>
+    <string name="select_all_songs_folder">या फोल्डरमधील सर्व गाण्यांची निवड करा</string>
+    <string name="select_all_songs_genre">या शैलीतील सर्व गाण्याची निवड करा</string>
+    <string name="select_all_songs_of_album">या अल्बममधील सर्व गाण्यांची निवड करा</string>
+    <string name="select_all_songs_playlist">या प्लेलिस्टचे सर्व गाणी निवडा</string>
+    <string name="select_all_songs_sub_folder">हा फोल्डर आणि याच्या सर्व उप-फोल्डर्समधील सर्व गाणी निवडा</string>
+    <string name="set_as_ringtone">रिंगटोन म्हणून सेट करा</string>
+    <string name="set_timer">टाइमर सेट करा</string>
+    <string name="settings">सेटिंग्ज</string>
+    <string name="share">शेअर</string>
+    <string name="share_screenshot">स्क्रीनशॉट शेअर करा</string>
+    <string name="share_song">गाणे शेअर करा</string>
+    <string name="share_with_friends">मित्रांसोबत शेअर करा</string>
+    <string name="sharing_too_many_files_warn">एकाच वेळी अनेक फाईल्स शेअर करणे ऑपरेटिंग प्रणालीद्वारे समर्थित नसू शकते.</string>
+    <string name="shorect_removed_menu">शॉर्टकट मेन्यूमधून काढून टाकला</string>
+    <string name="shortcut_added_menu">शॉर्टकट मेन्यूमधे जोडला</string>
+    <string name="show_advance_controls">अ‍ॅडव्हांस नियंत्रणे दाखवा</string>
+    <string name="show_embedded_lyrics">अंर्तगत बोल दाखवा</string>
+    <string name="show_explanation">प्रथम स्पष्टीकरण वाचा. इथे क्लिक करा.</string>
+    <string name="show_favorite_button">आवडते बटण दाखवा</string>
+    <string name="show_filename_instead_of_title_explain">गाण्याचे शीर्षक दाखवण्याऐवजी, त्यांची फाइल-नावे सर्वत्र दर्शवा</string>
+    <string name="shuffle_all">सर्व शफल करा</string>
+    <string name="shuffle_and_play">शफल करा आणि वाजवा</string>
+    <string name="shuffle_listed_songs">सूचीतील गाणी शफल करा</string>
+    <string name="shuffle_mode_off">शफल मोड बंद आहे</string>
+    <string name="shuffle_mode_on">शफल मोड चालू आहे</string>
+    <string name="shuffle_mode_on_off">शफल मोड चालू/बंद</string>
+    <string name="shuffle_mode_vs_randomize">शफल मोड vs रेन्डमाईज</string>
+    <string name="size">आकार</string>
+    <string name="sleep_timer">स्लीप टाइमर</string>
+    <string name="sleep_timer_explain_when_off">कोणतेही टाइमर सेट नाही. संगीत थांबविण्यासाठी टाइमर सेट करा आणि नंतर अॅप बंद करा…</string>
+    <string name="sleep_timer_explain_when_on">Musicolet संगीत वाजविणे थांबवेल आणि नंतर बंद होईल…</string>
+    <string name="song_info">गाण्याची माहिती</string>
+    <string name="song_lib_updated_success">गाणी संग्रह यशस्वीरित्या पूर्णपणे अद्ययावत केला!</string>
+    <string name="song_library_and_tags">गाणे संग्रह आणि टॅग्स</string>
+    <string name="song_library_section">गाण्याचा संग्रह</string>
+    <string name="sort_listed_songs">सूचीतील गाणी क्रमवारीने लावा</string>
+    <string name="sort_songs_by">यानुसार गाण्याची क्रमवारी लावा…</string>
+    <string name="sort_this_playlist">ही प्लेलिस्ट क्रमवारीने लावा</string>
+    <string name="sort_this_queue">निवडलेल्या रांगेत गाणी क्रमवारीने लावा</string>
+    <string name="still_not_finding_song_explanation">"
+&lt;b>आपण अद्याप आपले गाणे शोधू शकले नाही?&lt;/b>
+&lt;br/>आपण नव्याने जोडलेले गाणे रांग-टॅब मधील रांगांमध्ये शोधत नाही याची खात्री करा. त्यांना इतर कोणत्याही टॅबमध्ये शोधा. कारण रांगा प्लेलिस्टहून पूर्णपणे वेगळ्या आहेत.&lt;br/>&lt;br/>
+तसेच यांचीही खात्री करा: आपली गाणी आहेत ते फोल्डर किंवा &lt;b>त्याचे कोणतेही मूळ फोल्डर्स &lt;/b>&amp;#8230;&lt;br/>&lt;br/> 
+१) &amp;#8230;&lt;a href=#1>वगळलेले फोल्डर्स&lt;/a>च्या सूचीत समाविष्ट नाही (Musicolet>सेटिंग्ज>'गाणी संग्रह'>'फोल्डर वगळा' इथे पाहा)&lt;br/>&lt;br/>
+२) &amp;#8230;लपवलेले फोल्डर नाही आणि त्याचे नाव .(डॉट) ने सुरू होत नाही &lt;br/>&lt;br/>
+३) &amp;#8230;हा कोणत्याही अॅपचा वैयक्तिक फोल्डर नाही&lt;br/>&lt;br/>
+४) &amp;#8230;मध्ये '.nomedia' नावाची फाइल नाही (.nomedia फाइल्स सहसा फाइल व्यवस्थापकमध्ये लपलेल्या असतात)&lt;br/>&lt;br/>
+या समस्यांचे निराकरण केल्यानंतर पुन्हा स्कॅन करा.
+"</string>
+    <string name="still_not_finding_songs">वरील बटण टॅप करून आवश्यक ते फोल्डर पुन्हा स्कॅन करा. त्यानंतरसुध्दा आपल्याला आपली गाणी सापडत नसतील, &lt;b>तर&lt;u> येथे क्लिक करा&lt;/u>&lt;/b></string>
+    <string name="stock_notifi">स्टॉक नोटिफिकेशन</string>
+    <string name="stock_notifi_not_custmzbl">स्टॉक नोटिफिकेशन प्रणालीद्वारे प्रदान केल्या जातात त्यामुळे ते कस्टमायजेबल नसतात.</string>
+    <string name="summary_use_remaining_time">"गाणं वाजत असताना सध्याच्या वेळेऐवजी उर्वरित वेळ दर्शवा
+"</string>
+    <string name="support_developer">डेवेलोपरला सपोर्ट करा</string>
+    <string name="surround_sound">सभोवतालचा ध्वनी</string>
+    <string name="swipe_app_to_close_explain">जेंव्हा अलीकडील अॅप्समधून अॅप काढला जातो तेव्हा म्युझिक वाजविणे थांबवा आणि अॅप बंद करा</string>
+    <string name="switching_to_musicolet_eq">Musicolet ईक्वलाइजर वर स्विच करत आहे</string>
+    <string name="system_equalizer">प्रणाली इक्वलाइजर</string>
+    <string name="system_equlizer_not_supported_in_device">प्रणाली इक्वलायझर आपले डिव्हाइसद्वारे समर्थित नाही</string>
+    <string name="tabs_below_this_position_hidden">या स्थानाच्या खाली असलेले टॅब्ज लपविले जातील.</string>
+    <string name="tags_albumArt_embbededLyrics">टॅग्ज, अल्बमआर्ट, अंतर्गत बोल</string>
+    <string name="thank_you">धन्यवाद</string>
+    <string name="that_list_is_empty">ती सूची रिकामी आहे!</string>
+    <string name="theme">थीम</string>
+    <string name="this_queue_is_active">ही सध्या वाजत असलेली रांग आहे.</string>
+    <string name="this_queue_is_already_playing">ही रांग आधीपासूनच वाजवित आहोत</string>
+    <string name="this_queue_is_not_active">ही सध्या वाजत असलेली रांग नाही.</string>
+    <string name="this_queue_is_resumed">ही रांग पुन्हा सुरू केली</string>
+    <string name="title">शीर्षक</string>
+    <string name="title_asc">शीर्षक चढत्या क्रमाने</string>
+    <string name="title_dsc">शीर्षक उतरत्या क्रमाने</string>
+    <string name="toggle_favorite">आवडते जोडा/काढा</string>
+    <string name="too_much_songs_in_multiple_queues">एकाधिक-रांगेत भरपूर गाणी!</string>
+    <string name="track_asc">ट्रॅक क्रमांक चढत्या क्रमाने</string>
+    <string name="track_dsc">ट्रॅक क्रमांक उतरत्या क्रमाने</string>
+    <string name="track_number">गाणी क्रमांक</string>
+    <string name="triple_press_action">ईअरफोनचे बटण तीन वेळा दाबल्यास</string>
+    <string name="twitter">ट्विटर</string>
+    <string name="unknown_b">[अज्ञात]</string>
+    <string name="unlock">अनलॉक</string>
+    <string name="unnamed">नाव-नाही</string>
+    <string name="updating_library">संग्रह अद्ययावत करत आहे…</string>
+    <string name="use_big_fonts">मोठे फॉन्ट वापरा</string>
+    <string name="use_light_status_bar">स्टेटस बार फिकट करण्यासाठी प्रणालीला सांगा</string>
+    <string name="use_remaining_time">उर्वरित वेळ दर्शवा</string>
+    <string name="use_x">%1$s वापरा</string>
+    <string name="version_whatsnew">v %1$s<u> (काय नवीन आहे)</u></string>
+    <string name="view_album_art">अल्बम आर्ट दर्शवा</string>
+    <string name="volume">आवाज</string>
+    <string name="volume_slider">आवाज स्लायडर</string>
+    <string name="waring_reloading_metadata">"
+जर आपण &lt;b>Musicolet च्या बाहेर असलेल्या गाण्यांचे मेटाडेटा (ID3 टॅग) (अन्य अॅप्स किंवा PC चा वापर करून) संपादित  केले असेल&lt;/b>आणि आपल्याला त्यांनी केलेले बदल Musicolet मध्ये दिसत नसतील तरच आपण हे वैशिष्ट्य वापरावे.&lt;br/>&lt;br/>आपल्याला हे वैशिष्ट्य वापरण्याची आवश्यकता असल्यास, कृपया ही सूचना वाचा. आपण ज्या गाण्यांचे टॅग्ज संचयनातून पुन्हा लोड करू इच्छिता ते टॅग्जच्या &lt;a href=https://en.wikipedia.org/wiki/Character_encoding>कॅरॅक्टर 
+एनकोडिंग&lt;/a> साठी मानक (आंतरराष्ट्रीय स्तरावर स्वीकारलेले) वापरत आहेत याची खात्री असल्यास आपण या सूचनेकडे दुर्लक्ष करू शकता.&lt;br/>&lt;br/>
+&lt;small>Musicolet मेटाडेटा टॅग वाचण्यासाठी अ‍ॅन्ड्रॉइडच्या मीडियास्टोरेज फ्रेमवर्कवर अवलंबून असतो. परंतु काही गाण्यांचे टॅग संपादित केल्यानंतर, मीडियास्टोरेज योग्य एनकोडिंग शोधण्यात अपयशी ठरू शकते. जर मीडियास्टोरेजने गाण्यांचे चुकीचे कॅरॅक्टर एनकोडिंग शोधले तर &lt;b>टॅग वाचण्यायोग्य नसू शकतात&lt;/b>. तथापि, हे क्वचितच घडते, जर गाण्याचे निर्माते टॅगसाठी गैर-मानक एनकोडिंग (एनकोडिंग जे आंतरराष्ट्रीय पातळीवर स्वीकारलेले नाही) वापरले असतील तरच. असे झाल्यास,&lt;b>हा Musicolet चा दोष असणार नाही आणि त्यामुळे आम्हाला दोष देऊ नका;&lt;/b> आम्ही आपल्याला इशारा दिली आहे.&lt;/small>
+"</string>
+    <string name="warning_edit_tags_encoding">"
+जर आपल्याला खात्री आहे की आपण टॅग संपादित करण्यास इच्छुक असलेले गाणे (आंतरराष्ट्रीय स्तरावर मान्यता असलेले) मानक वापरते, तर तुम्ही टॅग बद्दलचा &lt;a href=https://en.wikipedia.org/wiki/Character_encoding>कॅरक्टर एनकोडिंग&lt;/a> हा इशारा दुर्लक्षित करू शकता.&lt;br/>&lt;br/>&lt;small>Musicolet मेटाडेटा टॅग वाचण्यासाठी अ‍ॅन्ड्रॉइडच्या मीडिया स्टोरेज  फ्रेमवर्कवर अवलंबून आहे. परंतु काही गाण्यांचे टॅग संपादित केल्यानंतर, मीडिया स्टोरेज योग्य एनकोडिंग शोधण्यात अयशस्वी होऊ शकते. जर मीडिया स्टोरेजने गाण्याचे चुकीचे कॅरक्टर एनकोडिंग शोधले तर &lt;b>टॅग न वाचण्यायोग्य असू शकतात&lt;/b>. तथापि, हे क्वचितच घडते, जर गाण्याच्या निर्मात्यानी टॅगसाठी गैर-मानक एनकोडिंग (एनकोडिंग जे आंतरराष्ट्रीयस्तरावर स्विकारले नाहीत) वापरले असेल तरच. असे घडल्यास, &lt;b>तो Musicolet चा दोष असणार नाही आणि आम्हाला दोष देऊ नका;
+ &lt;/b>आम्ही तुम्हाला इशारा दिला आहे.&lt;/small>
+"</string>
+    <string name="warning_editing_tags">संपादन टॅगबद्दल इशारा वाचण्यासाठी येथे क्लिक करा</string>
+    <string name="what_is_diff_queues_playlists">रांग काय आहे?</string>
+    <string name="what_is_multiple_queue_concept">"'एकाधिक-रांग' ही संकल्पना काय आहे?"</string>
+    <string name="whats_new">काय नवीन आहे</string>
+    <string name="when_a_song_ends">जेव्हा गाणे संपेल …</string>
+    <string name="when_queue_ends">जेंव्हा सध्याची रांग समाप्त होईल…</string>
+    <string name="where_are_widgets">मी होमस्क्रीन विजेट्स का शोधू शकत नाही?</string>
+    <string name="where_is_genre_tab">शैली टॅब कोठे आहे?</string>
+    <string name="why_cannt_edit_some_tags">काही गाण्यांच्या गाणे माहिती (टॅग) मधे बदल का करु शकत नाही?</string>
+    <string name="why_cant_find_newly_added_songs">मला काही गाणी का मिळत नाहीत?</string>
+    <string name="why_embedded_lyrics_why_not_online_q">गाण्याचे बोल आपोआप प्राप्त का होत नाही?</string>
+    <string name="why_not_auto_fetch_albumart_q">अल्बमआर्ट आपोआप प्राप्त का होत नाही?</string>
+    <string name="widget_4x1_advance_controls">Musicolet अॅडव्हान्स नियंत्रणे विजेट</string>
+    <string name="widget_4x1_simple">Musicolet साधा विजेट</string>
+    <string name="widget_4x3_with_queue">Musicolet नियंत्रणे + रांगेचा विजेट</string>
+    <string name="widget_theme_c">विजेटची थीम:</string>
+    <string name="widget_transparency_c">विजेटची पारदर्शकता:</string>
+    <string name="x_minute">%1$d मिनिट</string>
+    <string name="year">वर्ष</string>
+    <string name="year_asc">वर्ष चढत्या क्रमाने</string>
+    <string name="year_dsc">वर्ष उतरत्या क्रमाने</string>
+    <string name="yes">होय</string>
+    <string name="your_playlists">आपल्या प्लेलिस्ट्स</string>
+</resources>

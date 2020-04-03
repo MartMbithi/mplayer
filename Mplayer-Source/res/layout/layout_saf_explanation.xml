@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:fadeScrollbars="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <in.krosbits.android.widgets.SmartTextView android:id="@id/tv_description" android:layout_width="wrap_content" android:layout_height="wrap_content" app:textTintIndex="5" />
+        <uk.co.senab.photoview.PhotoView android:id="@id/icon" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/sd_operate_step" />
+    </LinearLayout>
+</ScrollView>

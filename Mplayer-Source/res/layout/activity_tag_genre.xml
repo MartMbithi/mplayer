@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <android.support.design.widget.TextInputLayout android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/activity_vertical_margin">
+            <android.support.v7.widget.AppCompatAutoCompleteTextView android:id="@id/et_genre" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/genre" android:ems="15" android:inputType="text" />
+        </android.support.design.widget.TextInputLayout>
+        <in.krosbits.android.widgets.SmartTextView android:textSize="12.0dip" android:id="@id/tv_infoText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" app:textTintIndex="6" />
+        <in.krosbits.android.widgets.SmartTextView android:textSize="11.0dip" android:layout_gravity="center_horizontal" android:background="?select_rectangle_background" android:padding="10.0dip" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="@string/warning_editing_tags" android:onClick="showEncodingWarning" app:textTintIndex="6" />
+    </LinearLayout>
+</ScrollView>

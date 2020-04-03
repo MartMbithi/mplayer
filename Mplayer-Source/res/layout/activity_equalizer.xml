@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.Toolbar android:id="@id/tb_toolbar" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="?actionBarSize">
+        <android.support.v7.widget.SwitchCompat android:layout_gravity="right" android:id="@id/sw_equalizer" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    </android.support.v7.widget.Toolbar>
+    <LinearLayout android:id="@id/ll_presetControls" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip">
+        <Spinner android:textSize="16.0sp" android:textStyle="bold" android:id="@id/sp_presets" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="8.0dip" android:layout_weight="1.0" style="@style/Widget.AppCompat.Spinner.Underlined" />
+        <in.krosbits.android.widgets.SmartImageView android:layout_gravity="center_vertical" android:id="@id/iv_savePreset" android:background="?select_rectangle_background" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_save" android:onClick="savePreset" android:contentDescription="@string/save_preset" app:imageTintIndex="5" />
+        <in.krosbits.android.widgets.SmartImageView android:layout_gravity="center_vertical" android:id="@id/iv_deletePreset" android:background="?select_rectangle_background" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_action_delete_dark" android:onClick="deletePreset" android:contentDescription="@string/delete_this_preset" app:imageTintIndex="5" />
+    </LinearLayout>
+    <HorizontalScrollView android:scrollbarSize="8.0dip" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" android:layout_weight="1.0" android:fadeScrollbars="false">
+        <LinearLayout android:orientation="horizontal" android:id="@id/ll_bandsContainer" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    </HorizontalScrollView>
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/ll_bass" android:paddingLeft="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <in.krosbits.android.widgets.SmartTextView android:gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/bass_boost" android:drawableLeft="@drawable/ic_speaker_dark" android:drawablePadding="5.0dip" android:layout_weight="1.0" app:compoundDrawableTintEmabled="true" app:compoundDrawableTintIndex="5" app:textTintIndex="5" />
+        <in.krosbits.android.widgets.AdvanceSeekbar android:id="@id/sb_bass" android:background="@android:color/transparent" android:layout_width="0.0dip" android:layout_height="40.0dip" android:maxHeight="40.0dip" android:max="1000" android:minWidth="40.0dip" android:layout_weight="1.0" />
+        <in.krosbits.android.widgets.SmartTextView android:gravity="center" android:id="@id/tv_bass" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:minWidth="40.0sp" android:text="100%" app:textTintIndex="5" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/ll_virtual" android:paddingLeft="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip">
+        <in.krosbits.android.widgets.SmartTextView android:gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/surround_sound" android:drawableLeft="@drawable/ic_surround_sound_dark" android:drawablePadding="5.0dip" android:layout_weight="1.0" app:compoundDrawableTintEmabled="true" app:compoundDrawableTintIndex="5" app:textTintIndex="5" />
+        <in.krosbits.android.widgets.AdvanceSeekbar android:id="@id/sb_virtual" android:background="@android:color/transparent" android:layout_width="0.0dip" android:layout_height="40.0dip" android:maxHeight="40.0dip" android:max="1000" android:minWidth="40.0dip" android:layout_weight="1.0" />
+        <in.krosbits.android.widgets.SmartTextView android:gravity="center" android:id="@id/tv_virtual" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:minWidth="40.0sp" android:text="100%" app:textTintIndex="5" />
+    </LinearLayout>
+</LinearLayout>

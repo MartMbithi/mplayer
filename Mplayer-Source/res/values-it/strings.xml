@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Black_AMOLED">Tema nero (AMOLED)</string>
+    <string name="DarkTheme">Tema scuro</string>
+    <string name="Folder_tab_structure">Struttura Menù Cartelle</string>
+    <string name="LightTheme">Tema chiaro</string>
+    <string name="_0_times_before">0 volte prima</string>
+    <string name="a_b_repeat">Ripeti tra A-B</string>
+    <string name="a_quick_tip_about_queue">Alcuni suggerimenti sul menù Code</string>
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
+    <string name="accent_color">Colori per risalto</string>
+    <string name="adapt_from_aa">Adatta colori dalla copertina Album</string>
+    <string name="adaptive_color_controls">Colori adattivi per i controlli</string>
+    <string name="add_folder">Aggiungi cartella</string>
+    <string name="add_its_songs_to_favorites">Aggiungi i suoi brani ai Favoriti</string>
+    <string name="add_its_songs_to_playlist">Aggiungi i suoi brani alla Playlist</string>
+    <string name="add_shortcut_in_main_menu">Aggiunto scorciatoia al Menù principale</string>
+    <string name="add_this_folder">Aggiungi questa cartella</string>
+    <string name="add_to_a_playlist">Aggiungi a una Playlist</string>
+    <string name="add_to_a_queue">Aggiungi ad una Coda</string>
+    <string name="add_to_currently_playing_queue">Aggiungi alla Coda attualmente in riproduzione</string>
+    <string name="add_to_favorites">Aggiungi ai preferiti</string>
+    <string name="advance">Avanzati</string>
+    <string name="aks_to_resume">Chiedi per riprendere</string>
+    <string name="album">Album</string>
+    <string name="album_art">Copertina Album</string>
+    <string name="album_asc">Album A->Z</string>
+    <string name="album_dsc">Album Z->A</string>
+    <string name="album_tab_not_found">Menù Album non trovato! Prima abilità il Menù Album dalle Impostazioni.</string>
+    <string name="album_view_mode">Modalità vista Album</string>
+    <string name="albums">Album</string>
+    <string name="all_songs">Tutti i brani</string>
+    <string name="allowed_delay_explain">"
+Per la 2° e la 3° pressione: 700 millisecondi
+
+ Per >4° pressione: 3 secondi (il ritardo maggiore concesso è per consentire un avanzamento veloce agevole.)
+
+Questo solo per informazione. Non si può cambiare niente qui.
+"</string>
+    <string name="allowed_delays_info">Premi qui per conoscere il ritardo ammesso tra due pressioni consecutive del pulsante degli auricolari</string>
+    <string name="allowed_delays_title">Ritardo ammesso tra due pressioni consecutive del pulsante degli auricolari</string>
+    <string name="alread_have_same_name_playlist">Playlist con lo stesso nome già esistente!</string>
+    <string name="already_a_queue_with_name_x">Coda con nome %1$s già esistente</string>
+    <string name="always_play_prev_song">Riproduci sempre il brano precedente</string>
+    <string name="ans_a_quick_tip_about_queue">"Nel menù Code, ogniqualvolta vuoi trovare quale brano è attualmente riprodotto nella Coda selezionata, premi semplicemente sul contatore dei brani. (Il contatore è tipo: Y/z dove Y è
+la posizione del brano in riproduzione in una Coda totale di z brani).
+
+Elimina brani dalla Coda tenendo premuto sulle 2 barre posizionate sulla sinistra e scorrendo a destra."</string>
+    <string name="ans_audio_formats_supported">"Musicolet usa i media decoder nativi installati nel tuo dispositivo, così se un formato audio è supportato dal tuo dispositivo, è supportato da Musicolet. Guarda &lt;a href='https://developer.android.com/guide/topics/media/media-formats.html'>Formati supportati&lt;/a>. (Può variare in base al modello del dispositivo)
+"</string>
+    <string name="ans_does_transmit_data_in_background">"
+No. Musicolet è una app al 100% offline. Non tramette quindi neanche statistiche di utilizzo o altri rapporti.
+
+Infatto, tecnicamente, non può proprio accedere ad Internet perché noi (intenzionalmente) non abbiamo inserito i permessi Internet. Senza i 'Permessi Internet' (detti 'Full Network Access Permission'), nessuna app android può accedere a Internet. Questo è il fatto.
+
+Per confermarlo puoi controllare le info dell'app Musicolet > 'Permessi' > 'Tutti i permessi'. O vai alla pagina di Musicolet del PlayStore e verificare i dettagli dei permessi in fondo alla pagina. Non ci troverai nessun permesso relativo ad Internet."</string>
+    <string name="ans_equalizer_not_working_q">"Musicolet usa i componenti AudioFX del sistema android per manipolare l'audio. Se il produttore del tuo dispositivo ha alterato questi componenti, e non ha seguito le linee guida di AOSP, l'Equalizzatore potrebbe non funzionare.
+
+Se l'Equalizzatore di Musicolet non funziona, puoi provare l'Equalizzatore di Sistema se è supportato dal tuo dispositivo. Per provarlo vai a 'Musicolet'>'Impostazioni'>'Audio'>'Equalizzatore da usare'."</string>
+    <string name="ans_facts_about_queues">"
+Puoi avere al massimo 20 Code. 
+
+Ricorda, troppe code, ciascuna con troppi brani, può ridurre le prestazioni e incrementare il tempo di apertura e chiusura dell'app. Ti raccomandiamo pertanto di rimuovere le vecchie Code se non sono più necessarie. 
+
+Se il nome di una Coda è \"Tutti i brani\" o \"Cartella123\" o \"Ultimi brani aggiunti\" o \"AlbumXYZ\" non diviene realmente \"Tutti i brani\" o \"Cartella123\" o \"Ultimi brani aggiunti\" o \"AlbumXYZ\". Ha solo lo stesso nome. Puoi rinominarle in qualunque modo. Dopo aver creato una Coda, quando aggiungi nuovi brani alla Libreria, questi non compaiono nella Coda. Per vedere una lista di brani aggiornata vai al rispettivo menù. Es. Per il vero \"AlbumXYZ\" vai al menù Album (non la Coda chiamata AlbumXYZ), per la vera \"Cartella123\" vai al menù Cartelle e per \"Tutti i brani\" e \"Ultimi brani aggiunti\" vai al menù Playlist, e così via. 
+
+Il nome di una Coda deve essere unico tra tutte le altre Code. 
+
+Non è possibile inserire un brano due volte in una Coda."</string>
+    <string name="ans_how_can_you_appreciate_our_work">"
++ Dandoci 5 stelle su Google PlayStore.
+
++ Parlando ai tuoi amici di questa fantastica app.
+
++ Mettendo un like sulla pagina &lt;a href=https://facebook.com/musicolet>Facebook&lt;/a> e seguendoci su &lt;a href=https://twitter.com/musicolet>Twitter&lt;/a> e &lt;a href=https://instagram.com/musicolet>Instagram&lt;/a>.
+"</string>
+    <string name="ans_music_playback_suddenlt_stops">"
+&lt;b>Risposta breve:&lt;/b> &lt;a href=https://youtu.be/J9-8Ct0n6c0>Guarda questo video&lt;/a>
+
+
+&lt;b>Risposta lunga ma opportuna:&lt;/b>
+le ROM MIUI di Xiaomi hanno una &lt;a href='https://en.wikipedia.org/wiki/Memory_management_(operating_systems)'>Gestione della memoria (gestione della RAM)&lt;/a>. Il multitasking delle MIUI tende a chiudere le app in background (ossia quelle che non sono visibili nello schermo) allo scopo di mantenere libera più RAM possibile.
+
+In molti casi questa strategia non è necessaria. Inoltre la Gestione della memoria di android Stock è molto buona. E' affidabile e perfetta.
+
+Ma tuttora MIUI usa la propria Gestione della memoria. La scelta fatta da MIUI per \"Quale app deve essere chiusa prima\" talvolta è mediocre.
+
+&lt;b>Per questi motivi quando stai ascoltano musica in background, mentre usi altre app, MIUI chiude Musicolet.&lt;/b>
+
+&lt;b>Soluzione?&lt;/b>
+Poiché è un problema ben conosciuto di MIUI, ci sono molte discussioni su molti forum in Internet. Alcuni utenti hanno trovato modi di aggirare il comportamento di MIUI cambiando alcune impostazioni dalle Opzioni sviluppatore.
+&lt;b>Ecco un video con una guida passo passo:&lt;/b> &lt;a href=https://youtu.be/J9-8Ct0n6c0>https://youtu.be/J9-8Ct0n6c0&lt;/a>
+"</string>
+    <string name="ans_shuffle_mode_vs_randomize">"
+La Modalità Shuffle non ti consente di prevedere il brano successivo finché non sarà effettivamente riprodotto. L'opzione 'Riproduci brano successivo' inoltre non funzionerà con la Modalità Shuffle attiva.
+
+
+Una alternativa alla Modalità Shuffle è quella Random. Disattiva Modalità Shuffle -> vai al Menù Code -> premi sull'icona Ordinamento -> Seleziona Random. I brani nella Coda attualmente selezionata saranno randomizzati (una specie di Shuffle), e ora puoi vedere il nuovo ordine random dei brani, a puoi sapere quale sarà il prossimo brano riprodotto."</string>
+    <string name="ans_what_is_diff_queues_playlists">"Una Coda è una lista temporanea di brani e indica in quale ordine sono riprodotti. Puoi trovare le Code nel 1° menù. Puoi cambiare l'ordine di un brano in una Coda semplicemente trascinandolo dalle 2 linee poste sulla sinistra."</string>
+    <string name="ans_what_is_multiple_queue_concept">"
+Musicolet è l'UNICO lettore musicale android che supporta le Code Multiple. 
+
+Vantaggi delle Code Multiple: 
+1. Puoi preparare una o più Code mentre ne ascolti un'altra. 
+
+2. Supponi di aver preparato una bella Coda e di non avere la funzione delle Code Multiple (es. se puoi creare solo 1 Coda come altre app musicali) e mentre esplori la tua Libreria accidentalmente selezioni un brano da una playlist/album/ricerca/ecc. Allora con solo 1 Coda o la vecchia sarà sostituita con la nuova lista di brani (cosa che accade con la maggior parte delle altre app musicali) o tutti i brani di quella playlist/album/ecc. saranno aggiunti alla tua Coda. E la tua bella Coda sarà rovinata. Con le Code Multiple di Musicolet questo non succederà mai. In un caso simile Musicolet creerà una nuova Coda e la tua vecchia rimarrà inalterata. 
+
+3. Musicolet inoltre, ricorda il brano in riproduzione di ogni Coda. 
+
+Puoi dare un nome temporaneo ad ogni Coda e rinominarle in qualunque momento. Puoi anche salvare una qualunque delle Code come playlist."</string>
+    <string name="ans_where_are_widgets">"
+&lt;b>\"Ogni volta che un'app android è installata sulla SD card o spostata sulla SD card, alcune funzionalità dell'app, inclusi i Widgets, vengono disabilitati.\"&lt;/b>
+
+Queste regole si applicano per le app android inclusa Musicolet. Così &lt;b>se vuoi usare widgets, devi tenere l'app Musicolet sulla memoria interna e non su SD card&lt;/b>.
+
+
+Potresti chiederti:
+
+&lt;b>Non l'ho installata sulla SD card. Si è installata automaticamente sulla SD card.&lt;/b>
+
+Risposta: Noi (gli sviluppatori) abbiamo solo 2 scelte: Consentire alle app di essere installate su SD card o No. Visto che molti utenti (avendo dispositivi con poca memoria interna) richiedono questa funzionalità, abbiamo reso l'app installabile su SD card.
+Ma 'Dove sarà installata un'app?' è deciso dal Sistema android. Non abbiamo alcun controllo su questo.
+
+
+&lt;b>Come spostare una app sulla Memoria interna?&lt;/b>
+
+Risposta: (a) Vai sul dispositivo a Impostazioni>Applicazioni (o Apps) (in alcuni dispositivi potrebbe essere in Impostazioni avanzate)>cerca 'Musicolet' e cliccaci>cerca e premi sul pulsante 'Muovi su Memoria interna' o (b) Google \"Come muovere app su memoria interna in [IL NOME DEL TUO DISPOSITIVO]\"
+"</string>
+    <string name="ans_where_is_genre_tab">"Vai a 'Musicolet'>'Impostazioni'>'Ordina Menù'. Se qui non trovi il menù Genere, allora purtroppo Genere non è supportato nel tuo dispositivo. Alcuni vecchie versioni di android hanno molti bug nella gestione dei Generi nel database mediastore. Poiché Musicolet dipende da esso, Genere non è possibile in questi dispositivi."</string>
+    <string name="ans_why_cannt_edit_some_tags">"
+Se il brano ha il tag ID3 corrotto, o non consente al tag ID3 di essere scritto o ha qualche problema, allora i tag di questi brani non possono essere modificati."</string>
+    <string name="ans_why_cant_find_newly_added_songs">"
+Assicurati di non trovare i brani recentemente aggiunti nelle Code nel Menù Code (1° menù). Li trovi in ogni altro Menù. Questo perché le Code sono una cosa completamente differente dalle Playlist.&lt;br/>
+Assicurati anche che: La cartella nella quale sono i tuoi brani o &lt;b> qualunque sua sottocartella&lt;/b>&amp;#8230;&lt;br/>
+1) &amp;#8230;non è inserita nella lista delle cartelle escluse (guarda Musicolet>Impostazioni>'Libreria brani'>'Escludi cartelle')&lt;br/>
+2) &amp;#8230;non è una cartella nascosta e il suo nome non inizia con .(punto)&lt;br/>
+3) &amp;#8230;non è una cartella privata di una qualche app&lt;br/>
+4) &amp;#8230;non contiene un file chiamato '.nomedia' (i file .nomedia sono di solito nascosti nei FileManagers)&lt;br/>&lt;br/>
+
+Se ancora non trovi i tuoi brani, leggi questo:&lt;br/>&lt;br/>
+Musicolet fa una rapida scansione dei nuovi brani ad ogni avvio. Per una scansione rapida ed efficiente per la batteria, usa l'Android &lt;b>MediaStorage framework&lt;/b>. L'Android MediaStorage framework è uno strumento potente per interrogare e tenere traccia dei file esistenti nelle memorie interne ed esterne. Molte app, inclusa la Galleria, dipendono da esso.
+
+Ma talvolta le app (come FileManager, browser, app di condivisione file, ecc. con le quali si sono scaricati/copiati/spostati nuovi brani) non notificano ad Android MediaStorage framework sui recenti cambiamenti fatti. Di fatto il MediaStorage ignora questi cambiamenti. Questa è la causa più frequente quando non si trovano i brani aggiunti di recente in Musicolet.
+Soluzione:
+(1) Forza una scansione. (Vai a Impostazioni Musicolet > Libreria brani > Forza una scansione)
+
+ o 
+
+
+(2) Riavvia il dispositivo. Dopo che si è riavviato e tutto si è caricato completamente, attendi altri 2-3 minuti quindi apri Musicolet e prova a cercare i tuoi nuovi brani.
+"</string>
+    <string name="ans_why_embedded_lyrics_why_not_online_q">"
+Musicolet è una delle rarissime app che non ha permessi Internet (detti 'Full Network Access Permission'). In ordine di realizzare Musicolet con permessi minimi non abbiamo intenzionalmente messo quei permessi nell'app. Senza i permessi Internet una app Android non può mandare/ricevere nessuna informazione su/da Internet. &lt;b>Così le funzioni (come auto completamento delle copertine Album), che richiedono accesso a Internet, non sono possibili&lt;/b>.
+"</string>
+    <string name="ans_why_not_auto_fetch_albumart_q">"
+Musicolet è una delle rarissime app che non ha permessi Internet (detti 'Full Network Access Permission'). In ordine di realizzare Musicolet con permessi minimi non abbiamo intenzionalmente messo quei permessi nell'app. Senza i permessi Internet una app Android non può mandare/ricevere nessuna informazione su/da Internet. &lt;b>Così le funzioni (come auto completamento delle copertine Album), che richiedono accesso a Internet, non sono possibili&lt;/b>.
+"</string>
+    <string name="app_closed_because_of_sleep_timer">Musicolet è chiuso a causa del timer spegnimento. :)</string>
+    <string name="app_desc">"Musicolet - Un Lettore Musicale leggero, dal design semplice ma con tantissime funzioni. L'unico lettore musicale android con Code multiple di riproduzione."</string>
+    <string name="app_really_need_your_permissions">"L'app necessita veramente dei tuoi permessi per funzionare!"</string>
+    <string name="app_reqiures_permissions_to_run">Musicolet richiede alcuni permessi per poter funzionare.</string>
+    <string name="appearance">Aspetto</string>
+    <string name="appling_changes">Sto applicando le modifiche</string>
+    <string name="are_you_sure_q">Sei sicuro?</string>
+    <string name="arrange_tabs">Ordina i menù</string>
+    <string name="artist">Artista</string>
+    <string name="artist_asc">Artista A->Z</string>
+    <string name="artist_dsc">Artista Z->A</string>
+    <string name="artist_not_found">Menù Artista non trovato! Prima abilità il Menù Artista dalle Impostazioni.</string>
+    <string name="artists">Artisti</string>
+    <string name="attention_e">Attenzione!</string>
+    <string name="audio">Audio</string>
+    <string name="audio_formats_supported">Musicolet supporta WMA/Opus/FLAC/ALAC?</string>
+    <string name="auto_close_app_setting">"Chiudi l'app automaticamente se non sta riproducendo musica"</string>
+    <string name="auto_close_app_setting_explain">"Chiudi l'app dopo un tempo specifico se l'app non è visibile e non sta riproducendo musica"</string>
+    <string name="back">Indietro</string>
+    <string name="background_c">Sfondo:</string>
+    <string name="bass_boost">Bass boost</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="blurred_bg_explain">Mostra le copertine album sfuocate a tutto schermo come sfondo nella schermata di riproduzione</string>
+    <string name="blurrend_bg_setting">Sfondo sfuocato nella schermata di riproduzione</string>
+    <string name="broadcast_aa_explain">Così che possa essere usato da app di terzi e dalla Schermata di blocco di sistema</string>
+    <string name="broadcast_album_art_setting">"Trasmetti la copertina dell'album"</string>
+    <string name="can_not_read_that_folder">Non posso leggere questa cartella!</string>
+    <string name="cancel">Cancella</string>
+    <string name="cant_be_empty">Non può essere vuoto</string>
+    <string name="cant_edit_info_of_given_files">Non posso modificare le info del/i file scelti!</string>
+    <string name="caption_is_be_copied_to_clipboard">Didascalia viene copiata. Hai solo bisogno di incollarlo.</string>
+    <string name="center_aligned_text">Testo allineato al centro</string>
+    <string name="change_album_art">"Cambia la copertina dell'album"</string>
+    <string name="changes_will_apply_physically">"Le modifiche verranno scritte su ogni file audio fisicamente (sulla memoria attuale). Potrebbe richiedere un po' di tempo."</string>
+    <string name="choose_lang">Scegli lingua</string>
+    <string name="clear">Cancella</string>
+    <string name="clear_search_history">Cancella lo storico delle ricerche</string>
+    <string name="close">Chiudi</string>
+    <string name="close_app">"Chiudi l'app"</string>
+    <string name="close_lyrics">Chiudi testi</string>
+    <string name="close_selection_process_after_an_option_is_selected">Chiudi il processo di selezione dopo che una opzione è stata selezionata</string>
+    <string name="composer">Compositore</string>
+    <string name="copy_to_a_queue">Copia in una Coda</string>
+    <string name="cpu_efficient_scroll">Scorrimento a basso carico CPU</string>
+    <string name="credits">Credit e Ringraziamenti speciali</string>
+    <string name="current_queue">Coda corrente</string>
+    <string name="current_queue_x_y_counter">Coda attuale (%1$d/%2$d)</string>
+    <string name="current_select_queue_eq">Nome della Coda attualmente selezionata =</string>
+    <string name="custom">Personalizzato</string>
+    <string name="custom_order">Ordine personalizzato</string>
+    <string name="customize_song_order_playlist_x">"Personalizza l'ordine dei brani nella Playlist %1$s"</string>
+    <string name="cutomize_song_order_yourself">"Personalizza tu stesso l'ordine dei brani"</string>
+    <string name="d_10_minutes">10 minuti</string>
+    <string name="d_10_seconds">10 secondi</string>
+    <string name="d_1_minutes">1 minuto</string>
+    <string name="d_2_minutes">2 minuti</string>
+    <string name="d_30_seconds">30 secondi</string>
+    <string name="d_30p_length">30% della durata</string>
+    <string name="d_50p_length">50% della durata</string>
+    <string name="d_5_minutes">5 minuti</string>
+    <string name="d_90p_length">90% della durata</string>
+    <string name="dark">Scuro</string>
+    <string name="date_add_asc">Data di inserimento crescente</string>
+    <string name="date_add_dsc">Data di inserimento decrescente</string>
+    <string name="date_added_to_library">Data di aggiunta alla Libreria</string>
+    <string name="date_last_played">Data ultima riproduzione</string>
+    <string name="date_mod_asc">Data di modifica crescente</string>
+    <string name="date_mod_dsc">Data di modifica decrescente</string>
+    <string name="date_modified">Data ultima modifica</string>
+    <string name="date_play_asc">Data ultima riproduzione crescente</string>
+    <string name="date_play_dsc">Data ultima riproduzione decrescente</string>
+    <string name="delete">Elimina</string>
+    <string name="delete_permanently">Cancella definitivamente</string>
+    <string name="delete_this_backup">Elimina questo backup</string>
+    <string name="delete_this_external_playlist">Elimina questa Playlist esterna</string>
+    <string name="delete_this_preset">Cancella questo preset</string>
+    <string name="deselct_all_songs_album">Deseleziona tutti i brani di questo Album</string>
+    <string name="deselct_all_songs_genre">Deseleziona tutti i brani di questo Genere</string>
+    <string name="deselect_all_from_this_list">"deseleziona tutti
+da questa lista"</string>
+    <string name="deselect_all_songs_artist">Deseleziona tutti i brani di questo Artista</string>
+    <string name="deselect_all_songs_folder">Deseleziona tutti i brani in questa cartella</string>
+    <string name="deselect_all_songs_playlist">Deseleziona tutti i brani di questa Playlist</string>
+    <string name="deselect_all_songs_sub_folder">Deseleziona tutti i brani in questa cartella e nelle sottocartelle</string>
+    <string name="disclaimer_earphone_actions">Nota: Il pulsante degli auricolari potrebbe non funzionare in alcuni dispositivi! Premi per leggere le ragioni.</string>
+    <string name="do_in_background">Fallo in backgroud</string>
+    <string name="do_nothing">Non fa niente</string>
+    <string name="does_transmit_data_in_background">Musicolet trasmette qualche informazione su Internet?</string>
+    <string name="done">Fatto</string>
+    <string name="double_press_action">"Azione a doppia pressione del pulsante dell'auricolare"</string>
+    <string name="dragger_explain">"Tieni premuto qui e trascina su/giù per cambiare l'ordine"</string>
+    <string name="duration">Durata</string>
+    <string name="duration_asc">Durata crescente</string>
+    <string name="duration_dsc">Durata decrescente</string>
+    <string name="earphone_button_descaimer_explain">Alcuni produttori aggiungono il proprio codice su android stock: questi dispositivi gestiscono da soli il pulsante degli auricolari e non consentono ad una app di intervenire. In questi casi il dispositivo comunica solamente a Musicolet di suonare il prossimo/precedente brano ma non comunica che il pulsante degli auricolari è stato premuto. Non possiamo fare niente in proposito.</string>
+    <string name="edit_album_info">Info modifica Album</string>
+    <string name="edit_artist_info">Info modifica Artista</string>
+    <string name="edit_genre_info">Info modifica Genere</string>
+    <string name="edit_info">Modifica le info</string>
+    <string name="edit_lyrics">Modifica Testi</string>
+    <string name="edit_song_info">Info modifica Brani</string>
+    <string name="embedded_lyrics_appearance">Aspetto dei testi incorporati</string>
+    <string name="empty_queue_cannt_resume">Questa Coda è vuota. Non posso riprendere la riproduzione.</string>
+    <string name="empty_queue_cannt_scroll_to_current_song">Questa Coda è vuota! Non posso scorrere al brano in riproduzione!</string>
+    <string name="enable_document_app_first">"App 'Documenti' non trovata. Prego, prima abilità l'app 'Documenti' se disabilitata. (Vai a 'Impostazioni telefono'>'App installate'>'Tutte'>trova 'Documenti'>Abilitala). Poi prova di nuovo."</string>
+    <string name="end_of_current_queue">Raggiunta la fine della Coda attuale</string>
+    <string name="end_of_current_queue_shuffle">Raggiunta la fine della Coda attuale (in Modalità Shuffle)</string>
+    <string name="end_of_first_queue">Raggiunta la fine della prima Coda</string>
+    <string name="end_of_last_queue">"Raggiunta la fine dell'ultima Coda"</string>
+    <string name="end_of_last_queue_shuffle">"Raggiunta la fine dell'ultima Coda (in Modalità Shuffle)"</string>
+    <string name="enter_new_playlist_name">Inserisci il nuovo nome della Playlist</string>
+    <string name="equalizer">Equalizzatore</string>
+    <string name="equalizer_not_working_q">"L'equalizzatore non sta funzionando correttamente?"</string>
+    <string name="equalizer_to_use">Equalizzatore da usare</string>
+    <string name="error_init_equalizer">"Errore di inizializzazione dell'Equalizzatore"</string>
+    <string name="error_taking_screenshot">Screenshot non riuscito!</string>
+    <string name="error_while_reading_user_preset">Errore nella lettura dei preset utente</string>
+    <string name="error_while_rescaning">Qualcosa è andato storto durante la scansione</string>
+    <string name="error_while_setting_ringtone">"Errore durante l'impostazione della suoneria!"</string>
+    <string name="exclude_duration_explanation">Brani e audio<b> più piccoli di</b> questa durata saranno esclusi dalla scansione.</string>
+    <string name="exclude_folder_from_scanning">Escludi cartella dalla scansione</string>
+    <string name="exclude_small_duration_files">Escludi file dalla durata breve</string>
+    <string name="exclude_song_folder_dialog_explanation">I brani nelle cartelle elencate sotto non saranno scansionati. Anche i brani nelle loro<b> sotto-cartelle</b><b> non saranno scansionati</b>.</string>
+    <string name="exclude_this_folder_from_scanning">Escludi questa cartella dalla scansione</string>
+    <string name="exclude_time_zero_value_explain">Tenere questi due valori vuoti a 0:0 non escluderà alcun file</string>
+    <string name="excluded_folders_list_updated">Lista delle cartelle escluse aggiornata</string>
+    <string name="expandable_notif">Notifiche espandibili</string>
+    <string name="experimental">Sperimentale</string>
+    <string name="explanation_force_rescan">"
+&lt;b>Musicolet scansiona i nuovi brani automaticamente?&lt;/b>
+Si. Musicolet fa una scansione rapida per i nuovi brani ad ogni avvio.
+
+&lt;b>Allora perché è necessario forzare la scansione?&lt;/b>
+Per una scansione rapida ed efficiente con la batteria, Musicolet usa il &lt;b>Framework Android MediaStorage&lt;/b>. Il framework Android MediaStorage è un potente strumento per interrogare e tenere traccia dei file esistenti nella memoria interna ed esterna. Molte app inclusa Galleria ne dipendono.
+
+Ma talvolta le app (come i file manager, browser, per la condivisione file, ecc. dalle quali hai scaricato/copiato/spostato/ nuovi brani) non notificano il framework Android MediaStorage sui recenti cambiamenti fatti. Questa è la motivazione più comune per non aver trovato i nuovi brani aggiunti in Musicolet. Se le altre app cooperano e seguono correttamente le linee guida di MediaStorage, allora non avrai necessità di forzare la scansione.
+
+
+In ogni modo, il pulsante Scansiona posizionato in basso forzerà il framework Android MediaStorage a scansionare brani contenuti nella cartella selezionata e nelle sue sottocartelle, così Android e quindi Musicolet può trovare i nuovi brani aggiunti.
+"</string>
+    <string name="export_playlist_backup_explain">&lt;small>Crea una copia delle Playlist private di Musicolet ed esportale come pubbliche. In questo modo potrai poi importare questi brani da questi backup. Backup esistenti con lo stesso nome saranno sostituiti da quelli nuovi.&lt;/small></string>
+    <string name="export_playlist_for_backup">&lt;small>Esporta le Playlist per backup&lt;/small></string>
+    <string name="export_playlists">Esporta le playlist di Musicolet per backup</string>
+    <string name="external_playlist_deleted">la Playlist esterna selezionata è stata eliminata con successo</string>
+    <string name="facebook">Facebook</string>
+    <string name="facts_about_queues">Ancora sulle Code Multiple</string>
+    <string name="fade_in_when_play">Sfuma il volume quando riproduci</string>
+    <string name="fade_out_when_pause">Sfuma il volume quando vai in pausa</string>
+    <string name="fade_vol_effects_title">Sfuma il volume quando riproduci/pausa</string>
+    <string name="failed">Fallito</string>
+    <string name="falied_to_delete_some_files">Eliminazione del/i file dalla memoria fallita!</string>
+    <string name="faqs_and_other_info">FAQ e altre info</string>
+    <string name="fast_forward">Avanti veloce</string>
+    <string name="fastforward_on_4_press_explain">"Ad ogni pressione del pulsante dell'auricolare >= 4, puoi fare Avanti-veloce"</string>
+    <string name="favourites">Preferiti</string>
+    <string name="file_doesnt_exist">Il file non esiste!</string>
+    <string name="file_name">Nome file</string>
+    <string name="file_name_dsc">Nome file Z->A</string>
+    <string name="filename_asc">Nome file A->Z</string>
+    <string name="fit_to_square_for_instagram">Adatta al riquadro per Instagram</string>
+    <string name="folder_exclude_warning">"Questa cartella e tutte le sue sottocartelle saranno escluse dalla scansione. Brani all'interno di queste cartelle saranno nascosti. Vuoi continuare?"</string>
+    <string name="folder_jpg_settings_explain">"Usa cartella.jpg, copertina.jpg ecc. nella stessa cartella se la copertina dell'album non è stata trovata incorporata nel brano."</string>
+    <string name="folder_linear">Lineare (tutte le cartelle in fila)</string>
+    <string name="folder_tab_not_found">Menù Cartelle non trovato! Prima abilità il Menù Cartelle dalle Impostazioni.</string>
+    <string name="folders">Cartelle</string>
+    <string name="follow_musicolet_on">Segui Musicolet su:</string>
+    <string name="for_xiaomi_miui_user">Per utenti della MIUI di Xiaomi</string>
+    <string name="force_to_rescan">Forza una scansione</string>
+    <string name="force_to_rescan_now">Forza una scansione</string>
+    <string name="force_to_rescan_settings_explain">Utile quando i brani aggiunti di recente non compaiono in Musicolet</string>
+    <string name="frequently_asked_questions_faqs">Domande frequenti (FAQ)</string>
+    <string name="genre">Genere</string>
+    <string name="genre_tab_not_found">Menù Genere non trovato! Prima abilità il Menù Genere dalle Impostazioni.</string>
+    <string name="genres">Genere</string>
+    <string name="git_it_lets_do_it">Fatto! Iniziamo.</string>
+    <string name="give_permissions">Dai i permessi</string>
+    <string name="give_us_permission_for_ringtone">Dacci il permesso così possiamo cambiare la tua suoneria.</string>
+    <string name="got_it">Fatto</string>
+    <string name="grid_view">Vista a griglia</string>
+    <string name="handsfree_and_speakers">Vivavoce e speaker</string>
+    <string name="help_and_info">Aiuto ed info</string>
+    <string name="hide_embedded_lyrics">Nascondi i testi incorporati</string>
+    <string name="hierarchical_folders">"Gerarchico (cartelle all'interno di cartelle)"</string>
+    <string name="homescrenn_widget_settings">Aspetto dei widget nella Schermata Home</string>
+    <string name="how_can_you_appreciate_our_work">Come posso supportare o apprezzare il vostro lavoro?</string>
+    <string name="i_understand_this">Compreso</string>
+    <string name="i_understand_this_use_x">Fatto! Usa %1$s</string>
+    <string name="if_d_10sec_replay_else_prev">"Se il brano corrente è riprodotto per più di 10 secondi allora riproduci nuovamente dall'inizio, altrimenti riproduci il brano precedente"</string>
+    <string name="import_playlist_dialog_title">Importa i brani da Playlist pubbliche esterne</string>
+    <string name="import_playlists">Importa i brani da playlist pubbliche esterne</string>
+    <string name="in_expanded_notification">Nelle notifiche espandibili…</string>
+    <string name="instagram">Instagram</string>
+    <string name="interface_">Interfaccia</string>
+    <string name="jump_from_first_play_queue">"Quando termina l'ultima coda, passa alla prima e viceversa"</string>
+    <string name="jump_to_next_queue">Passa alla prossima coda</string>
+    <string name="just_stop_there">Fermati qui</string>
+    <string name="lagfree_scroll_pref_explain">"Carica le copertine degli album solo quando l'elenco non sta scorrendo. Questo riduce il carico della CPU e rende fluido lo scorrimento."</string>
+    <string name="language">Lingua</string>
+    <string name="language_not_supported_by_dev">"
+Musicolet è sviluppato in inglese. Sfortunatamente non comprendiamo la tua lingua. :(
+&lt;br/>&lt;br/>&lt;b>L'app è tradotta in questa lingua dai nostri utenti&lt;/b>.
+&lt;br/>&lt;br/>Non ci assumiamo responsabilità sulla correttezza della traduzione. Per comunicare con noi (via mail, playstore e qualunque altro mezzo) ti preghiamo di usare l'inglese se possibile.
+&lt;br/>&lt;br/>Se trovi qualche traduzione errata, o vuoi migliorarne la qualità, puoi aiutarci. Per farlo vai al menù 'Aiuto e info', quindi seleziona 'Help us in translation'.&lt;b>Grazie per il tuo supporto.&lt;/b>
+"</string>
+    <string name="least_played_first">Meno riprodotti prima</string>
+    <string name="library_not_updated_completely">Libreria dei brani non completamente aggiornata!</string>
+    <string name="light">Chiaro</string>
+    <string name="like_this_app_q">Ti piace questa app?</string>
+    <string name="list_with_thumbnail">Elenco con copertine</string>
+    <string name="list_without_thumbnail">Elenco senza copertine</string>
+    <string name="location">Posizione</string>
+    <string name="lock_screen">Schermata di blocco</string>
+    <string name="looking_for_new_files">Cerco nuovi file</string>
+    <string name="lyricist">Paroliere</string>
+    <string name="main_menu">Menù principale</string>
+    <string name="match_system_bg_dark_text">Combina con lo sfondo di sistema + Testo Scuro</string>
+    <string name="match_system_bg_light_text">Combina con lo sfondo di sistema + Testo Chiaro</string>
+    <string name="max_queue_limit_reached_1st_deleted">Raggiunto il limite (=%1$d) di Code. La prima Coda è cancellata.</string>
+    <string name="min_duration_minutes_consider">Solo brani con durata maggiore o uguale a questo minutaggio saranno memorizzati:</string>
+    <string name="minimum_duration_consider_playback">Durata minima per considerarla una riproduzione</string>
+    <string name="minimum_duration_consider_playback_explain">Durata minima della riproduzione per considerare il brano come riprodotto</string>
+    <string name="more_about_musicolet">Ancora su Musicolet</string>
+    <string name="most_played">Più riprodotte</string>
+    <string name="most_played_first">Più riprodotti prima</string>
+    <string name="multi_selection_controls">Controlli multi-selezione</string>
+    <string name="music_playback">Riproduzione musicale</string>
+    <string name="music_playback_suddenly_stops_while_multitasking">Si interrompe la riproduzione della musica in background mentre si usano altre app (multitasking)</string>
+    <string name="musicoler_ss_caption_1">"Stai ascoltando #%1$s di #%2$s in #musicolet… 
+
+Scarica @Musicolet dal PlayStore: j.mp/musicolet"</string>
+    <string name="musicoler_ss_caption_2">"Stai ascoltando musica in #musicolet… 
+
+Scarica @Musicolet dal PlayStore: j.mp/musicolet"</string>
+    <string name="musicolet_equalizer">Equalizzatore di Musicolet</string>
+    <string name="musicolet_is_updated">Musicolet è aggiornato!</string>
+    <string name="musicolet_lock_screen">Schermata di Blocco Musicolet</string>
+    <string name="musicolet_lock_screen_desc">"La Schermata di blocco di Musicolet consente controlli riproduzione di base sulla Schermata di blocco predefinita.
+
+"<small>Nota: Sbloccare la Schermata di blocco di Musicolet non sblocca quella predefinita</small></string>
+    <string name="musicolet_lockscreen">Schermata di blocco Musicolet</string>
+    <string name="musicolet_notif">Stile Musicolet</string>
+    <string name="musicolet_oreo_notif">Stile Musicolet + Android Oreo</string>
+    <string name="musicolet_requires_some_permissions">Musicolet richiede alcuni permessi!</string>
+    <string name="musicolet_simpli_perf_and_effi">"Musicolet è un Lettore Musicale focalizzato sulla semplicità, le prestazioni e l'efficienza."</string>
+    <string name="mute">Muto</string>
+    <string name="needsaccess">Necessario permesso di scrittura sul dispositivo</string>
+    <string name="never">mai</string>
+    <string name="never_close_automatically">Non chiudere mai automaticamente</string>
+    <string name="new_name_here">Nuovo nome qui</string>
+    <string name="new_playlist_name">Nuovo nome della Playlist</string>
+    <string name="new_queue">Nuova Coda</string>
+    <string name="next_song">Prossimo brano</string>
+    <string name="no">No</string>
+    <string name="no_app_available_to_share">Nessuna app disponibile per la condivisione!</string>
+    <string name="no_embedded_lyrics_found_this_song">Nessun testo incorporato in questo brano.</string>
+    <string name="no_external_playlist_nor_backup_found">Nessuna Playlist esterna aggiornata. E nessun backup di Playlist di Musicolet trovato</string>
+    <string name="no_song_to_queue_b">[Nessun brano in Coda]</string>
+    <string name="not_all_device_support_system_eq">"Non tutti i dispositivi android supportano l'Equalizzatore di Sistema"</string>
+    <string name="not_enough_cache_memory_ro_edit_info">Memoria cache del dispositivo insufficiente per modificare le info del brano!</string>
+    <string name="not_enough_ram_for_action">Non abbastanza RAM libera per questa azione.</string>
+    <string name="not_valid_folder">Cartella non valida</string>
+    <string name="notif_appear">Aspetto notifiche</string>
+    <string name="notif_style_c">Notifica Stile:</string>
+    <string name="notif_warning">In android le notifiche sono fatte con RemoteViews. Una app crea le RemoteViews e le passa al sistema UI che poi le renderizza e le gestisce. La ROM può fare i propri cambiamenti su di esse. Per questo le personalizzazioni possono non funzionare in alcuni dispositivi o in alcune ROM.</string>
+    <string name="notif_warning_title">In alcuni dispositivi queste personalizzazioni possono non funzionare. <u>Premi qui</u>" per leggere il perché. "</string>
+    <string name="nowSelecttionProcessCloseOnAction">Ora il processo di selezione sarà chiuso una volta scelta una azione</string>
+    <string name="nowSelecttionProcessWillNotCloseOnAction">Ora puoi fare più di una azione sui brani selezionati. I brani selezionati rimarranno selezionati</string>
+    <string name="now_playing">In riproduzione</string>
+    <string name="now_showing_filenames">Ora saranno mostrati ovunque i Nomi dei file invece dei Titoli</string>
+    <string name="now_showing_titles">Ora saranno mostrati ovunque i Titoli invece dei Nomi dei file</string>
+    <string name="ok">OK</string>
+    <string name="open_source_lic"><u>Open source licenza</u></string>
+    <string name="options">Opzioni</string>
+    <string name="options_for_listed_songs">Opzioni per i brani elencati</string>
+    <string name="options_for_songs_folder_subfolder">Opzioni per tutti i brani selezionati in questa cartella e nelle sue sottocartelle</string>
+    <string name="options_for_songs_in_this_folder">Opzioni per i brani in questa cartella</string>
+    <string name="options_for_this_song">Opzioni per questo brano</string>
+    <string name="paste">Incolla</string>
+    <string name="paste_or_write_lyrics_here">Incolla o scrivi testi qui</string>
+    <string name="pause_when_disconnect">Interrompi quando disconnetti</string>
+    <string name="pause_when_disconnect_explain">Interrompi riproduzione quando cuffie, speaker o Bluetooth sono disconnessi</string>
+    <string name="permission_reqired">Permesso richiesto!</string>
+    <string name="play">Riproduci</string>
+    <string name="play_after_current_song">Riproduci dopo il brano corrente</string>
+    <string name="play_next_song">Riproduci prossimo brano</string>
+    <string name="play_or_pause">Riproduci o Pausa</string>
+    <string name="play_queue">Coda</string>
+    <string name="play_speed">Velocità di riproduzione</string>
+    <string name="played">Riprodotto</string>
+    <string name="playlist_exported_Success">La Playlist selezionata è stata esportata con successo</string>
+    <string name="playlist_order_saved">Ordine Playlist salvato</string>
+    <string name="playlist_tab_cant_be_hidden">Il Menù Playlist non può essere nascosto</string>
+    <string name="playlists">Playlist</string>
+    <string name="please_wait">Aspetta prego</string>
+    <string name="preset_name">Nome predefinito</string>
+    <string name="previous_song">Brano precedente</string>
+    <string name="previous_song_behaviour_setting">Funzionamento pulsante Brano precedente</string>
+    <string name="previous_song_behaviour_setting_explain">Decidi cosa fare quando premi il pulsante brano precedente dal lettore, dalle notifiche, dalla Schermata di blocco o dagli auricolari</string>
+    <string name="queue_instead_fav">Scorciatoia Code invece che pulsante Preferiti</string>
+    <string name="queues">Code</string>
+    <string name="queues_and_playlists">Code e Playlist</string>
+    <string name="randomize">Random</string>
+    <string name="rate_us_5_stars">Votaci 5 stelle</string>
+    <string name="read_them_first_click_here">Leggili prima. Premi qui.</string>
+    <string name="recently_added">Ultime aggiunte</string>
+    <string name="reload_metadata_settings">Ricarica i tag metadati dalla memoria</string>
+    <string name="reload_metadata_settings_explain">Questo ricarica i tag metadati dalla memoria e aggiorna i tag dei brani in tutte le Code e le Playlist.</string>
+    <string name="rem_pos_indie_songs">"Ricorda l'ultima posizione di tutti i brani"</string>
+    <string name="remove_album_art">"Rimuovi la copertina dell'album"</string>
+    <string name="remove_from_favorites">Rimuovi dai Preferiti</string>
+    <string name="remove_from_this_playlist">Rimuovi da questa Playlist</string>
+    <string name="remove_from_this_queue">Rimuovi da questa Coda</string>
+    <string name="remove_playlist">Rimuovi Playlist</string>
+    <string name="remove_this_queue">Rimuovi la Coda selezionata</string>
+    <string name="rename">Rinomina</string>
+    <string name="rename_playlist">Rinomina Playlist</string>
+    <string name="rename_queue">Rinomina Coda</string>
+    <string name="rename_this_queue">Rinomina questa Coda</string>
+    <string name="repeat_options">Opzioni di ripetizione</string>
+    <string name="repeat_queue">Ripeti la stessa coda</string>
+    <string name="repeat_song">Ripeti lo stesso brano</string>
+    <string name="reset">Reset</string>
+    <string name="reset_timer">Azzera il timer</string>
+    <string name="respect_audio_focus_desable_alert">"Hai appena disabilitato 'Rispetta il focus audio'. Questo significa che quando altre app inizieranno una riproduzione audio o durante una chiamata telefonica, la musica non sarà messa in pausa."</string>
+    <string name="respect_audio_focus_explain">"Pausa la riproduzione quando altre app richiedono l'audio e durante le chiamate. Non deselezionare se non sei sicuro di quel che fai!"</string>
+    <string name="respect_audiofocus_settings">Rispetta il focus audio</string>
+    <string name="resume_last_position_q">"Riprendi dall'ultima posizione (%1$s)?"</string>
+    <string name="resume_playback">Riprendi la riproduzione</string>
+    <string name="resume_this_queue">Riprendi la Coda selezionata</string>
+    <string name="resume_without_asking">Riprendi senza chiedere</string>
+    <string name="resumed_from_last_rem">"Riprendi dall'ultima posizione salvata"</string>
+    <string name="reverse">Inverso</string>
+    <string name="rewind">Riavvolgi</string>
+    <string name="ringtone_is_set">Suoneria impostata!</string>
+    <string name="ringtone_modify_sys_permission_explanantion">Musicolet non ha i permessi per modificare le Impostazioni di Sistema. Senza questi permessi non possiamo cambiare la tua suoneria. Vai alle Impostazione del telefono, App, trova Musicolet e dai tutti i permessi necessari. Poi prova nuovamente.</string>
+    <string name="s_new_playlist">Nuova Playlist</string>
+    <string name="saf_description_delete">"A causa delle limitazioni del sistema android, le app non possono cancellare/modificare file su memorie esterne secondarie (come SD card, USB, ecc,) senza i permessi utente. Concedi i permessi per poter cancellare i file.
+
+Segui questi 4 semplici passi (ingrandisci l'immagine se occorre):"</string>
+    <string name="saf_description_modify">"A causa delle limitazioni del sistema android, le app non possono modificare file su memorie esterne secondarie (come SD card, USB, ecc,) senza i permessi utente. Concedi i permessi per modificare i file. È necessario per modificare i tag.
+
+Segui questi 4 semplici passi (ingrandisci l'immagine se occorre):"</string>
+    <string name="save">Salva</string>
+    <string name="save_changes_q">Salva le modifiche?</string>
+    <string name="save_order">"Salva l'ordine"</string>
+    <string name="save_preset">Salva Preset</string>
+    <string name="save_this_queue">Salva la Coda selezionata</string>
+    <string name="save_to_gallery">Salva nella Galleria</string>
+    <string name="saved_in_gallary_musicolet">Salvato in Galleria nella cartella Musicolet!</string>
+    <string name="scan_this_folder">Inizia la scansione da questa cartella</string>
+    <string name="screen_shot">Screenshot</string>
+    <string name="scrolled_to_current_song">Scorri al brano attualmente in riproduzione in questa Coda.</string>
+    <string name="search">Ricerca</string>
+    <string name="search_album_art_with">Cerca le copertine degli Album con…</string>
+    <string name="search_lyrics">Ricerca testi</string>
+    <string name="search_lyrics_with">Cerca i testi con…</string>
+    <string name="search_menu_title">Ricerca</string>
+    <string name="search_title_album_artist">Ricerca per titolo, album, artista</string>
+    <string name="seekbar_to_seek_the_song">Barra di progresso per variare punto di ascolto</string>
+    <string name="select_a_playlist">Seleziona una Playlist</string>
+    <string name="select_all">Seleziona tutto</string>
+    <string name="select_all_from_this_list">"seleziona tutti
+da questa lista"</string>
+    <string name="select_all_songs_artist">Seleziona tutti i brani di questo Artista</string>
+    <string name="select_all_songs_folder">Seleziona tutti i brani in questa cartella</string>
+    <string name="select_all_songs_genre">Seleziona tutti i brani di questo Genere</string>
+    <string name="select_all_songs_of_album">Seleziona tutti i brani di questo Album</string>
+    <string name="select_all_songs_playlist">Seleziona tutti i brani di questa Playlist</string>
+    <string name="select_all_songs_sub_folder">Seleziona tutti i brani in questa cartella e nelle sottocartelle</string>
+    <string name="set_as_ringtone">Imposta come suoneria</string>
+    <string name="set_timer">Imposta il timer</string>
+    <string name="settings">Impostazioni</string>
+    <string name="share">Condividi</string>
+    <string name="share_screenshot">Condividi ScreenShot</string>
+    <string name="share_song">Condividi brano</string>
+    <string name="share_with_friends">Condividi con gli amici</string>
+    <string name="sharing_too_many_files_warn">Condividere troppo file contemporaneamente potrebbe non essere supportato dal sistema operativo</string>
+    <string name="shorect_removed_menu">Scorciatoia rimossa dal menù</string>
+    <string name="shortcut_added_menu">Scorciatoia aggiunta al menù</string>
+    <string name="show_advance_controls">Mostra controlli avanzati</string>
+    <string name="show_embedded_lyrics">Mostra testi incorporati</string>
+    <string name="show_explanation">Leggi prima la spiegazione. Premi qui.</string>
+    <string name="show_favorite_button">Mostra pulsanti preferiti</string>
+    <string name="show_filename_instead_of_title_explain">Invece del titolo del brano mostra il nome del file, ovunque</string>
+    <string name="shuffle_all">Shuffle tutto</string>
+    <string name="shuffle_and_play">Shuffle e riproduci</string>
+    <string name="shuffle_listed_songs">Shuffle brani elencati</string>
+    <string name="shuffle_mode_off">Modalità Shuffle disattivata</string>
+    <string name="shuffle_mode_on">Modalità Shuffle attivata</string>
+    <string name="shuffle_mode_on_off">Modalità Shuffle attiva/disattiva</string>
+    <string name="shuffle_mode_vs_randomize">Modalità Shuffle o Random</string>
+    <string name="size">Dimensione</string>
+    <string name="sleep_timer">Sleep timer</string>
+    <string name="sleep_timer_explain_when_off">"Nessun timer impostato. Imposta un timer per interrompere la musica e chiudere l'app dopo…"</string>
+    <string name="sleep_timer_explain_when_on">Musicolet interromperà la riproduzione e si chiuderà dopo…</string>
+    <string name="song_info">Info del brano</string>
+    <string name="song_lib_updated_success">Libreria dei brani aggiornata con successo!</string>
+    <string name="song_library_and_tags">Libreria brani e tag</string>
+    <string name="song_library_section">Libreria brani</string>
+    <string name="sort_listed_songs">Ordina i brani elencati</string>
+    <string name="sort_songs_by">Ordine i brani per…</string>
+    <string name="sort_this_playlist">Ordina questa Playlist</string>
+    <string name="sort_this_queue">Ordina brani nella Coda selezionata</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="still_not_finding_song_explanation">"
+&lt;b>Ancora non trovi i tuoi brani?&lt;/b>
+&lt;br/>Accertati che non stai cercando i nuovi brani aggiunti nelle Code nel menù Code. Cercali in ogni altro menù perché le Code sono una cosa completamente differente dalle Playlist.&lt;br/>&lt;br/>
+Inoltre accertati che: La cartella nella quale sono i tuoi brani o &lt;b> qualcuna delle sue cartelle superiori&lt;/b>&amp;#8230;&lt;br/>&lt;br/>
+1) &amp;#8230;non è aggiunta nella lista delle &lt;a href=#1>cartelle escluse&lt;/a>(vedi Musicolet>impostazioni>libreria brani>cartelle escluse)&lt;br/>&lt;br/>
+2) &amp;#8230;non è una cartella nascosta e il suo nome non inizia con .(punto)&lt;br/>&lt;br/>
+3) &amp;#8230;non è una cartella privata di qualche app&lt;br/>&lt;br/>
+4) &amp;#8230;non contiene un file chiamato '.nomedia' (i file .nomedia sono di solito nascosti nei FileManager)&lt;br/>&lt;br/>
+Dopo aver risolto questi problemi fai una Scansione.
+"</string>
+    <string name="still_not_finding_songs">Fai una scansione sulle cartelle volute premendo il pulsante posizionato sopra. Se dopo questo ancora non trovi i tuoi brani, &lt;b>&lt;u>allora premi qui.&lt;/u>&lt;/b></string>
+    <string name="stock_notifi">Notifiche stock</string>
+    <string name="stock_notifi_not_custmzbl">Le notifiche stock sono prodotte dal sistema per cui non sono personalizzabili.</string>
+    <string name="summary_use_remaining_time">Mostra il tempo rimanente invece che il tempo corrente mentre riproduci un brano</string>
+    <string name="support_developer">Supporta gli sviluppatori</string>
+    <string name="surround_sound">Suono Surround</string>
+    <string name="swipe_app_to_close_explain">"Arresta la riproduzione e chiudi l'app quando viene rimossa dalle app recenti"</string>
+    <string name="switching_to_musicolet_eq">"Passare all'Equalizzatore di Musicolet"</string>
+    <string name="system_equalizer">Equalizzatore di Sistema</string>
+    <string name="system_equlizer_not_supported_in_device">"L'Equalizzatore di Sistema non è supportato dal tuo dispositivo"</string>
+    <string name="tabs_below_this_position_hidden">Menù sotto questa posizione saranno nascosti.</string>
+    <string name="tags_albumArt_embbededLyrics">Tag, Copertine Album, Testi</string>
+    <string name="thank_you">Grazie</string>
+    <string name="that_list_is_empty">Questa lista è vuota!</string>
+    <string name="theme">Tema</string>
+    <string name="this_queue_is_active">Questa è la Coda attualmente riprodotta</string>
+    <string name="this_queue_is_already_playing">La Coda è già in riproduzione</string>
+    <string name="this_queue_is_not_active">Questa non è la Coda attualmente riprodotta</string>
+    <string name="this_queue_is_resumed">Questa Coda è nuovamente in riproduzione</string>
+    <string name="title">Titolo</string>
+    <string name="title_asc">Titoli A->Z</string>
+    <string name="title_dsc">Titoli Z->A</string>
+    <string name="toggle_favorite">Aggiungi/rimuovi dai favoriti</string>
+    <string name="too_much_songs_in_multiple_queues">Troppi brani nelle Code multiple!</string>
+    <string name="track_asc">Numero traccia crescente</string>
+    <string name="track_dsc">Numero traccia decrescente</string>
+    <string name="track_number">Numero traccia</string>
+    <string name="triple_press_action">"Azione a tripla pressione del pulsante dell'auricolare"</string>
+    <string name="twitter">Twitter</string>
+    <string name="unknown_b">[sconosciuto]</string>
+    <string name="unlock">Sblocco</string>
+    <string name="unnamed">Senza nome</string>
+    <string name="updating_library">Aggiornamento Libreria …</string>
+    <string name="use_big_fonts">Usa caratteri grandi</string>
+    <string name="use_light_status_bar">Chiedi al sistema per usare la barra di stato chiara</string>
+    <string name="use_remaining_time">Mostra il tempo rimanente</string>
+    <string name="use_x">Usa %1$s</string>
+    <string name="usefull_for_audiobook">"Utile per ricordare l'ultima posizione in brani lunghi come canzoni, podcast, audiolibri ecc."</string>
+    <string name="version_whatsnew">v %1$s<u>" (Cosa c'è di nuovo)"</u></string>
+    <string name="view_album_art">Vedi copertine Album</string>
+    <string name="volume">Volume</string>
+    <string name="volume_slider">Cursore volume</string>
+    <string name="waring_reloading_metadata">"
+Dovresti usare questa caratteristica solo se hai &lt;b>modificato metadata (tag ID3) di brani al di fuori di Musicolet (sia con altre app che con il PC)&lt;/b> e non vedi queste modifiche in Musicolet.&lt;br/>&lt;br/>Se hai bisogno di usare questa funzione, allora leggi questo avvertimento. Puoi ignorare questo avvertimento se sei sicuro che i brani, i cui tag vuoi ricaricare dalla memoria, usano standard (internazionalmente accettati) &lt;a href=https://en.wikipedia.org/wiki/Character_encoding>codifica caratteri&lt;/a> per i tag.&lt;br/>&lt;br/>
+&lt;small>Musicolet dipende dal Framework android MediaStorage per leggere i tag metadati. Ma dopo aver modificato i tag di alcuni brani, MediaStorage può fallire nell'individuare la codifica corretta. Se MediaStorage individua una Codifica caratteri dei brani non corretta allora &lt;b>i tag possono essere illeggibili&lt;/b>. Comunque avviene raramente che gli autori dei brani usino una codifica non standard  (codifica non internazionalmente accettata) per i tag. Se accade &lt;b>non sarà un difetto di Musicolet e non biasimarci.&lt;/b> Ti abbiamo avvertito.&lt;/small>
+"</string>
+    <string name="warning_edit_tags_encoding">"
+Puoi ignorare questo avvertimento se sei sicuro che i brani, i cui tag vuoi modificare, usano una &lt;a href=https://en.wikipedia.org/wiki/Character_encoding>codifica caratteri&lt;/a> standard (internazionalmente accettata) per i tag. &lt;br/>&lt;br/>
+&lt;small>Musicolet dipende dal Framework android MediaStorage per leggere i tag metadati. Ma dopo aver modificato i tag di alcuni brani, MediaStorage può fallire nell'individuare la codifica corretta. Se MediaStorage individua una Codifica caratteri dei brani non corretta allora &lt;b>i tag possono essere illeggibili&lt;/b>. Comunque avviene raramente che gli autori dei brani usino una codifica non standard  (codifica non internazionalmente accettata) per i tag. Se accade &lt;b>non sarà un difetto di Musicolet e non biasimarci.&lt;/b> Ti abbiamo avvertito.&lt;/small>
+"</string>
+    <string name="warning_editing_tags">Premi qui per leggere un avvertimento sulla modifica dei tag</string>
+    <string name="what_is_diff_queues_playlists">"Cos'è una coda?"</string>
+    <string name="what_is_multiple_queue_concept">Quale è il concetto delle Code Multiple?</string>
+    <string name="whats_new">Novità</string>
+    <string name="when_a_song_ends">Quando termina un brano…</string>
+    <string name="when_queue_ends">Al termine della coda attuale…</string>
+    <string name="where_are_widgets">Perché non trovo i Widget della Schermata Home</string>
+    <string name="where_is_genre_tab">Dove è il menù Genere?</string>
+    <string name="why_cannt_edit_some_tags">Perché le info del brano (tag) di alcuni brani non possono essere modificate?</string>
+    <string name="why_cant_find_newly_added_songs">Perché non trovo alcuni brani?</string>
+    <string name="why_embedded_lyrics_why_not_online_q">Perché non ottiene i testi automaticamente?</string>
+    <string name="why_not_auto_fetch_albumart_q">Perché non ottiene le copertine degli Album automaticamente?</string>
+    <string name="widget_4x1_advance_controls">Musicolet Widget Controlli avanzati</string>
+    <string name="widget_4x1_simple">Musicolet Widget semplice</string>
+    <string name="widget_4x3_with_queue">Musicolet Controlli + Code Widget</string>
+    <string name="widget_theme_c">Tema del widget:</string>
+    <string name="widget_transparency_c">Trasparenza del widget:</string>
+    <string name="x_minute">%1$d minuto</string>
+    <string name="year">Anno</string>
+    <string name="year_asc">Anno crescente</string>
+    <string name="year_dsc">Anno decrescente</string>
+    <string name="yes">Si</string>
+    <string name="your_playlists">Le tue playlist</string>
+</resources>

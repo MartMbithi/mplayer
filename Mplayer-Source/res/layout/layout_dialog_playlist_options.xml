@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/ll_container" android:paddingTop="5.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <in.krosbits.android.widgets.SmartTextView android:id="@id/ll_play_all" android:text="@string/play" android:drawableLeft="@drawable/ic_action_play_light" style="@style/DialogSelectableItemWithSmartIcon" />
+        <in.krosbits.android.widgets.SmartTextView android:id="@id/ll_play_next_all" android:text="@string/play_after_current_song" android:drawableLeft="@drawable/ic_action_next_dark" style="@style/DialogSelectableItemWithSmartIcon" />
+        <in.krosbits.android.widgets.SmartTextView android:id="@id/ll_add_to_current_queue_all" android:text="@string/add_to_currently_playing_queue" android:drawableLeft="@drawable/ic_action_queue_playing_dark" style="@style/DialogSelectableItemWithSmartIcon" />
+        <in.krosbits.android.widgets.SmartTextView android:id="@id/ll_add_to_a_queue_all" android:text="@string/add_to_a_queue" android:drawableLeft="@drawable/ic_queue" style="@style/DialogSelectableItemWithSmartIcon" />
+        <in.krosbits.android.widgets.SmartTextView android:id="@id/ll_add_to_a_playlist_all" android:text="@string/add_to_a_playlist" android:drawableLeft="@drawable/ic_playlist_add_dark" style="@style/DialogSelectableItemWithSmartIcon" />
+        <in.krosbits.android.widgets.SmartTextView android:id="@id/ll_share_all" android:text="@string/share" android:drawableLeft="@drawable/ic_share_black_30dp" style="@style/DialogSelectableItemWithSmartIcon" />
+        <in.krosbits.android.widgets.SmartTextView android:id="@id/ll_rename_playlist_all" android:text="@string/rename_playlist" android:drawableLeft="@drawable/ic_edit_dark" style="@style/DialogSelectableItemWithSmartIcon" />
+        <in.krosbits.android.widgets.SmartTextView android:id="@id/ll_remove_playlist_all" android:text="@string/remove_playlist" android:drawableLeft="@drawable/ic_remove_circle_dark" style="@style/DialogSelectableItemWithSmartIcon" />
+    </LinearLayout>
+</ScrollView>

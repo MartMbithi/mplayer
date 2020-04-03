@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="edit_album_all_songs_warn">
+        <item quantity="other">Los cambios realizados anteriormente se aplicarán a las canciones %1$d de este álbum.</item>
+        <item quantity="one">Los cambios realizados anteriormente se aplicarán a la canción %1$d de este álbum.</item>
+    </plurals>
+    <plurals name="edit_artist_all_songs_warn">
+        <item quantity="other">Los cambios realizados anteriormente se aplicarán a las canciones %1$d de este artista.</item>
+        <item quantity="one">Los cambios realizados anteriormente se aplicarán a la canción %1$d de este artista.</item>
+    </plurals>
+    <plurals name="edit_genre_all_songs_warn">
+        <item quantity="other">Los cambios realizados anteriormente se aplicarán a las canciones %1$d de este genero.</item>
+        <item quantity="one">Los cambios realizados anteriormente se aplicarán a la canción %1$d de este genero.</item>
+    </plurals>
+    <plurals name="options_for_x_album_songs">
+        <item quantity="other">Opciones para %1$d canciones de este álbum</item>
+        <item quantity="one">Opciones para %1$d canción de este álbum</item>
+    </plurals>
+    <plurals name="options_for_x_artist_songs">
+        <item quantity="other">Opciones para %1$d canciones de este artista</item>
+        <item quantity="one">Opciones para %1$d canción de este artista</item>
+    </plurals>
+    <plurals name="options_for_x_folder_songs">
+        <item quantity="other">Opciones para %1$d canciones de esta carpeta</item>
+        <item quantity="one">Opciones para %1$d canción de esta carpeta</item>
+    </plurals>
+    <plurals name="options_for_x_genre_songs">
+        <item quantity="other">Opciones para %1$d canciones de este género</item>
+        <item quantity="one">Opciones para %1$d canción de este género</item>
+    </plurals>
+    <plurals name="options_for_x_playlist_songs">
+        <item quantity="other">Opciones para todas las %1$d canciones de esta lista</item>
+        <item quantity="one">Opciones para todas las %1$d cancion de esta lista</item>
+    </plurals>
+    <plurals name="options_for_x_search_songs">
+        <item quantity="other">Opciones para %1$d canciones del resultado de búsqueda</item>
+        <item quantity="one">Opciones para %1$d canción de este resultado de búsqueda</item>
+    </plurals>
+    <plurals name="options_for_x_selected_songs">
+        <item quantity="other">Opciones para %1$d canciones seleccionadas</item>
+        <item quantity="one">Opciones para %1$d canción seleccionada</item>
+    </plurals>
+    <plurals name="share_X_songs_via">
+        <item quantity="other">Compartir %1$d canciones via…</item>
+        <item quantity="one">Compartir %1$d cancion via…</item>
+    </plurals>
+    <plurals name="x_albums">
+        <item quantity="other">%1$d albums</item>
+        <item quantity="one">%1$d album</item>
+    </plurals>
+    <plurals name="x_artists">
+        <item quantity="other">%1$d artistas</item>
+        <item quantity="one">%1$d artista</item>
+    </plurals>
+    <plurals name="x_files_deleted_successfully">
+        <item quantity="other">%1$d archivos eliminados de la memoria correctamente</item>
+        <item quantity="one">%1$d archivo eliminado de la memoria correctamente</item>
+    </plurals>
+    <plurals name="x_folders">
+        <item quantity="other">%1$d carpetas</item>
+        <item quantity="one">%1$d carpeta</item>
+    </plurals>
+    <plurals name="x_genres">
+        <item quantity="other">%1$d generos</item>
+        <item quantity="one">%1$d genero</item>
+    </plurals>
+    <plurals name="x_out_of_y_song_info_cannt_be_edited">
+        <item quantity="other">%1$d la %2$d información de las canciónes no se pueden editar!</item>
+        <item quantity="one">%1$d la %2$d información de la canción no se puede editar!</item>
+    </plurals>
+    <plurals name="x_outof_y_scanned">
+        <item quantity="other">%1$d de %2$d nuevo archivos escaneados</item>
+        <item quantity="one">%1$d un %2$d nuevo archivo escaneado</item>
+    </plurals>
+    <plurals name="x_song_add_queue_no">
+        <item quantity="other">%1$d canciones añadidas a la cola #%2$d</item>
+        <item quantity="one">%1$d canción añadida a la cola #%2$d</item>
+    </plurals>
+    <plurals name="x_song_remove_fav">
+        <item quantity="other">%1$d canciones eliminadas de favoritos</item>
+        <item quantity="one">%1$d canción eliminada de favoritos</item>
+    </plurals>
+    <plurals name="x_songs_add_current_queue">
+        <item quantity="other">%1$d canciones añadidas a la cola actual</item>
+        <item quantity="one">%1$d canción añadida a la cola actual</item>
+    </plurals>
+    <plurals name="x_songs_add_fav">
+        <item quantity="other">%1$d canciones añadidas a favoritos</item>
+        <item quantity="one">%1$d canción añadida a favoritos</item>
+    </plurals>
+    <plurals name="x_songs_added_after_current">
+        <item quantity="other">%1$d canciones añadidas después de a canción actual</item>
+        <item quantity="one">%1$d canción añadida después de a canción actual</item>
+    </plurals>
+    <plurals name="x_songs_added_to_playlist_y">
+        <item quantity="other">%1$d canciones nuevas añadidas a la lista de reproducción %2$s.</item>
+        <item quantity="one">%1$d canción nueva añadida a la lista de reproducción %2$s.</item>
+    </plurals>
+    <plurals name="x_songs_found">
+        <item quantity="other">%1$d canciones encontradas</item>
+        <item quantity="one">%1$d canción encontrada</item>
+    </plurals>
+    <plurals name="x_songs_in_this_external_playlist">
+        <item quantity="other">%1$d canciones encontradas en esta lista de reproducción externa</item>
+        <item quantity="one">%1$d cancion encontradas en esta lista de reproducción externa</item>
+    </plurals>
+    <plurals name="x_songs_in_this_folder">
+        <item quantity="other">%1$d canciones en esta carpeta</item>
+        <item quantity="one">%1$d cancion en esta carpeta</item>
+    </plurals>
+    <plurals name="x_songs_selected">
+        <item quantity="other">%1$d canciones seleccionadas</item>
+        <item quantity="one">%1$d canción seleccionada</item>
+    </plurals>
+    <plurals name="x_songs_will_be_deleted_sure">
+        <item quantity="other">%1$d canciones serán eliminada de tu dispositivo permanentemente. Esta acción no puede deshacerse.</item>
+        <item quantity="one">%1$d canción será eliminada de tu dispositivo permanentemente. Esta acción no puede deshacerse.</item>
+    </plurals>
+    <plurals name="x_times_before">
+        <item quantity="other">%1$d veces antes</item>
+        <item quantity="one">%1$d vez antes</item>
+    </plurals>
+    <plurals name="x_was_already_there">
+        <item quantity="other">%1$d ya están ahi</item>
+        <item quantity="one">%1$d ya esta ahi</item>
+    </plurals>
+</resources>
