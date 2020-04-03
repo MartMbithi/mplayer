@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/iv_preview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/cb_fit_to_square" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" android:contentDescription="@string/screen_shot" />
-    <CheckBox android:id="@id/cb_fit_to_square" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10.0dip" android:checked="true" android:text="@string/fit_to_square_for_instagram" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
-    <ProgressBar android:id="@id/progressBar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignLeft="@id/iv_preview" android:layout_alignTop="@id/iv_preview" android:layout_alignRight="@id/iv_preview" android:layout_alignBottom="@id/iv_preview" android:foregroundGravity="center" />
-</RelativeLayout>

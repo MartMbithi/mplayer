@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-    <TextView android:id="@id/tv_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="@string/exclude_duration_explanation" style="@style/AlertDialog.AppCompat" />
-    <EditText android:gravity="center" android:id="@id/et_durationMM" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:hint="mm" android:ems="3" android:singleLine="true" android:maxLength="2" android:layout_below="@id/tv_content" android:inputType="number" />
-    <TextView android:gravity="center" android:id="@id/tv_timer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="4.0dip" android:text=":" android:layout_toRightOf="@id/et_durationMM" android:layout_alignTop="@id/et_durationMM" android:layout_alignBottom="@id/et_durationMM" />
-    <EditText android:gravity="center" android:id="@id/et_durationSS" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="4.0dip" android:hint="ss" android:ems="3" android:singleLine="true" android:maxLength="2" android:layout_toRightOf="@id/et_durationMM" android:layout_alignTop="@id/et_durationMM" android:layout_alignBottom="@id/et_durationMM" android:inputType="number" />
-    <in.krosbits.android.widgets.SmartTextView android:textSize="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="@string/exclude_time_zero_value_explain" android:layout_below="@id/et_durationMM" app:textTintIndex="6" />
-</RelativeLayout>

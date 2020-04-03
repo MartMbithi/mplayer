@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:id="@id/fl_container" android:padding="@dimen/widget_margin" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@null"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:layout_gravity="center_vertical" android:id="@id/v_backgroundHack" android:layout_width="fill_parent" android:layout_height="64.0dip" android:src="@drawable/appwidget_dark_bg" android:scaleType="fitXY" android:contentDescription="@null" />
-    <LinearLayout android:gravity="center" android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="64.0dip">
-        <TextView android:textSize="16.0dip" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_name" android:drawableLeft="@mipmap/ic_launcher3" android:drawablePadding="5.0dip" />
-    </LinearLayout>
-</FrameLayout>
