@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Black_AMOLED">SİYAH (AMOLED)</string>
+    <string name="DarkTheme">Karanlık Tema</string>
+    <string name="Folder_tab_structure">Dosya sekmelerinin yapısı</string>
+    <string name="LightTheme">Aydınlık Tema</string>
+    <string name="_0_times_before">Daha önce 0 kez</string>
+    <string name="a_b_repeat">A-B tekrar et</string>
+    <string name="a_quick_tip_about_queue">Sıra sekmesi hakkında bazı ipuçları</string>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="accent_color">Vurgu Rengi</string>
+    <string name="adapt_from_aa">Albüm kapağındaki rengi uyarla</string>
+    <string name="adaptive_color_controls">Kontroller için ayarlanabilir renk</string>
+    <string name="add_folder">Klasör Ekle</string>
+    <string name="add_its_songs_to_favorites">Şarkıları favorilere ekle</string>
+    <string name="add_its_songs_to_playlist">Şarkılarını bir çalma listesine ekleyin</string>
+    <string name="add_shortcut_in_main_menu">Ana menüye kısayol ekle</string>
+    <string name="add_this_folder">Bu klasörü ekle</string>
+    <string name="add_to_a_playlist">Şarkı listesine ekle</string>
+    <string name="add_to_a_queue">Sıraya ekle</string>
+    <string name="add_to_currently_playing_queue">Şu anda çalınan sıraya ekle</string>
+    <string name="add_to_favorites">Favorilere Ekle</string>
+    <string name="advance">Gelişmiş</string>
+    <string name="aks_to_resume">Devam etmek için sor</string>
+    <string name="album">Albüm</string>
+    <string name="album_art">Albüm kapağı</string>
+    <string name="album_asc">Albüme göre artan</string>
+    <string name="album_dsc">Albüme göre azalan</string>
+    <string name="album_tab_not_found">Albüm sekmesi bulunamadı! Önce ayarlardan albüm sekmesini etkinleştirin.</string>
+    <string name="album_view_mode">Albüm Görünümü Modu</string>
+    <string name="albums">Albümler</string>
+    <string name="all_songs">Tüm şarkılar</string>
+    <string name="allowed_delay_explain">"
+2. basış ve 3. basış eylemleri için: 700 milisaniye
+
+>4üncü basış için: 3 saniye (burada büyük gecikmelere izin verildi, böylece şarkıyı rahatça ileri sarabilirsin.)
+
+Bu sadece bilgi içindir. Burada bir şey değiştiremezsiniz.
+"</string>
+    <string name="allowed_delays_info">Kulaklığın tuşuna iki art arda tıklama arasındaki izin verilmiş gecikmeleri öğrenmek için buraya tıklayın.</string>
+    <string name="allowed_delays_title">Kulaklık düğmesine çift basıldığında gecikmeler oluşsun</string>
+    <string name="alread_have_same_name_playlist">Zaten aynı ada sahip bir çalma listesi mevcut!</string>
+    <string name="already_a_queue_with_name_x">%1$s İsimli bir sıra zaten mevcut</string>
+    <string name="always_play_prev_song">Her zaman önceki şarkıyı çal</string>
+    <string name="ans_a_quick_tip_about_queue">"Sıra sekmesinde ne zaman seçilmiş sıradaki şimdi çalan şarkıyı bulmak istediğinizde sadece şarkı sayacına tıklayın. (Şarkı sayacı şuna benzer: Y/z Y şimdiki şarkının sıradaki konumu ve z sıradaki toplam şarkı sayısı.
+
+Solda verilen 2 çubuğu tutup sağa kaydırarak şarkıları sıradan kaldırabilirsiniz."</string>
+    <string name="ans_audio_formats_supported">"
+Musicolet cihazınız ile birlikte gelen ana medya kod çözücüsünü kullanır, bu yüzden parça cihazınız tarafından destekleniyorsa Musicolet tarafından da desteklenir. &lt;a href='https://developer.android.com/guide/topics/media/media-formats.html'>Desteklenen formatlar&lt;/a>a Bakın. (Cihaz modeline göre değişebilir)
+"</string>
+    <string name="ans_does_transmit_data_in_background">"
+Hayır. Musicolet %100 çevrimdışı bir uygulamadır. Kullanım istatistikleri ve diğer raporları bile aktarmaz.
+
+Aslında teknik olarak interneti bile kullanmaz. Çünkü biz (kasten) ona internet izni koymadık. 'İnternet izni' (ayrıca 'Tam internet erişimi' diye bilinir) olmadan hiçbir uygulama interneti kullanamaz. Bu bir gerçektir. 
+
+Bunu doğrulamak için Musicolet'in 'uygulama bilgisi' > 'İzinler' > 'Tüm İzinler' kısmını kontrol edin. Veya Musicolet'in PlayStore sayfasını ziyaret edin ve sayfanın altındaki 'izin detayları' kısmını kontrol edin. Burada, ağla ilgili izin bulamazsınız."</string>
+    <string name="ans_equalizer_not_working_q">"Musicolet android sisteminin AudioFX bileşenini sesi değiştirmek için kullanır. Eğer cihazınızın yapımcısı bu bileşenleri  AOSP'e uygun olmayan şekilde değiştirdiyse ekolayzer çalışmayabilir.
+
+Eğer Musicolet ekolayzeri çalışmıyorsa sistem ekolayzerini telefonunuz izin veriyorsa kullanabilirsiniz. Bunu denemek için 'Musicolet'->'Ayarlar'->'Ses'->'Ekolayzer seçeneğine gidin. "</string>
+    <string name="ans_facts_about_queues">"
+En fazla 20 sıraya sahip olabilirsiniz. 
+
+Unutmayın, çık fazla sıra, her birinde çok fazla şarkı, performansı düşürebilir ve uygulama açılış ve kapanış süresini uzatabilir. Bu yüzden eğer gerekli değilse eski sıraları silmeniz tavsiye edilir. 
+
+Eğer bir listenin ismi \"Tüm şarkılar\" , \"Dosya123\" , \"Son eklenen şarkılar\" veya \"AlbümXYZ\" ise gerçek \"Tüm şarkılar\" , \"Dosya123\" , \"Son eklenen şarkılar\" veya \"AlbümXYZ\" halini almaz. Sadece aynı isme sahiptir. İsmini herhangi bir şey yapabilirsiniz. Sırayı oluşturduktan sonra kütüphanenize yeni şarkılar eklerseniz yeni şarkılar herhangi bir sırada görünmez. Güncel şarkı listesini görmek için kendi sekmesine gidebilirsiniz yani \"AlbümXYZ\" için albümler sekmesine gidin (AlbumXYZ isimli sıraya değil), \"Dosya123\" için Dosyalar sekmesine gidin , \"Tüm şarkılar\" ve \"Son eklenen şarkılar\" için aynı şekilde Çalma listeleri sekmesine gidin. 
+
+Çalma listenin ismi diğer listelerden farklı olmalıdır. 
+
+Sıralarda aynı şarkılar iki kere olamaz"</string>
+    <string name="ans_how_can_you_appreciate_our_work">"
++ Bize Google PlayStore'da 5 yıldız vererek
+
++ Arkadaşlarınıza bu harika uygulamayı söyleyerek.
+
++ &lt;a href=https://facebook.com/musicolet>Facebook&lt;/a> Sayfamızı beğenerek ve &lt;a href=https://twitter.com/musicolet>Twitter&lt;/a> ve &lt;a href=https://instagram.com/musicolet>Instagram&lt;/a>'da bizi takip ederek .
+"</string>
+    <string name="ans_music_playback_suddenlt_stops">"
+&lt;b>Kısa cevap:&lt;/b> &lt;a href=https://youtu.be/J9-8Ct0n6c0>Bu videoyu izleyin&lt;/a>
+
+
+&lt;b>Uzun fakat tam cevap:&lt;/b>
+Xiaomi'lerin MIUI Rom'u çok kurallarına bağlıdır&lt;a href='https://en.wikipedia.org/wiki/Memory_management_(operating_systems)'> Hafıza yönetimi(RAM yönetimi)&lt;/a>. Çok görevli işlem yaparken MIUI arka planda çalışan uygulamaları(=Ekranda görünmeyen uygulamalar) daha fazla boş RAM bırakabilmek için kapatır.
+
+Çoğu zaman bu taktik gereksizdir. Ek olarak android'in bulundurduğu temel yönetim gerçekten iyidir. Güvenilirdir ve mükemmeldir. 
+
+Fakat yine de MIUI kendi hafıza yönetimini kullanır. MIUI tarafından verilen ''Önce hangi uygulama kapatılacak'' kararı bazen zayıftır.
+
+&lt;b>Bu nedenlerden ötürü siz arka planda müzik listelerken, başka uygulamaları kullanırken, MIUI Musicolet'i kapatır.&lt;/b>
+
+&lt;b>Çözüm?&lt;/b>
+MIUI'ın çok bilinen problemi olduğundan internetteki birçok forum üzerinde bunun hakkında çok fazla tartışma vardır. Bazı kullanıcılar geliştirici seçeneklerinden MIUI'ın davranışlarına ince ayar yapabilmektedirler.
+&lt;b>Burada adım adım yol gösteren bir video bulunmaktadır:&lt;/b>&lt;a href=https://youtu.be/J9-8Ct0n6c0>https://youtu.be/J9-8Ct0n6c0&lt;/a>
+"</string>
+    <string name="ans_shuffle_mode_vs_randomize">"
+Bir sonraki şarkıyı oynatana kadar karıştırma modu bir sonraki şarkıyı belirlemenize izin vermez. Karıştırma modu açıkken 'şimdiki şarkıdan sonra çal' özelliği de çalışmaz.
+
+Rastgele dağıtma modu karıştırma moduna alternatiftir. Karıştırma modunu kapatın -> sıralar sekmesine gidin -> sınıflandırma tuşuna tıklayın -> Rastgele dağıtmayı seçin. Şimdi seçilmiş sıradaki şarkıları karıştırabilirsiniz (bir tür karıştırma modu), ve şimdi yeni rastgele şarkı düzenlemesini görebileceksiniz, ve sonra çalacak olan şarkıyı öğrenebileceksiniz.  "</string>
+    <string name="ans_what_is_diff_queues_playlists">Sıra hangi şarkıların hangi düzenle çalınacağını belirleyen geçici bir listedir. Sıraları 1. sekmede bulabilirsiniz. Bir sıradaki şarkıların düzenini soldaki iki çubuk tarafından sürükleyerek değiştirebilirsiniz.</string>
+    <string name="ans_what_is_multiple_queue_concept">"
+Musicolet birden fazla sıra özelliğini taşıyan TEK müzik çalardır. 
+
+Birden fazla sıranın faydaları: 
+1. Başka bir sıradan müzik dinlerken birden fazla çalma sırası oluşturabilirsiniz. 
+
+2. Güzel bir liste hazırladığınızı varsayalım fakat birden fazla sıra özelliğiniz yok (yani diğer programlardaki gibi 1 listeniz var) ve kütüphanenizi keşfederken yanlışlıkla çalma listeleri/albümler/vb. listelerden bir şarkıya tıkladınız. Sonra 1 çalma listesiyle eski listeniz yeni çalma listenizle değişti. (diğer müzik çalarlarda genellikle bu olur) veya çalma listesinin/albümün/vb. tüm şarkıları listenize eklenir. Sizin özenle uğraştığınız liste mahvolur. Musicolet'in birden fazla çalma sırası ile bu asla olmaz. Bu gibi senaryolarda Musicolet yeni bir sıra oluşturur ve eski sıranıza dokunulmaz. 
+
+3. Musicolet her sıranın şimdiki çalınan şarkısını bile hatırlar. 
+
+Her listeye geçici isimler bile verebilirsiniz ve istediğiniz zaman yeniden adlandırabilirsiniz. Ayrıca istediğiniz sırayı çalma listesi olarak kaydedebilirsiniz."</string>
+    <string name="ans_where_are_widgets">"
+&lt;b>\"Ne zaman bir android uygulaması SD karta yüklendiğinde veya SD karttan kaldırıldığında wigdetlar dahil olmak üzere bazı fonksiyonlar devre dışı kalır.\"&lt;/b>
+
+Bu kural Musicolet dahil olmak üzere tüm android uygulamalarında geçerlidir. Bu yüzden &lt;b>wigdetleri kullanmak istiyorsanız, Musicolet uygulamasını SD kartta değil dahili hafızada tutmalısınız&lt;/b>.
+
+
+Eğer sorarsanız:
+
+&lt;b>SD karta yüklemedim. Otomatik olarak SD karta yüklendi.&lt;/b> 
+
+Cevap: Biz(uygulama geliştiricileri) 2 seçeneğe sahibiz: Uygulamanın SD karta yüklenebilmesine izin vermek ya da vermemek. Kullanıcıların çoğu (düşük hafızaya sahip cihazı olanlar) bu özelliği istediği için bu uygulamanın SD karta yüklenebilmesine izin verdik. Fakat 'Uygulamanın nereye yükleneceği' Android sistemi tarafından belirlenir. Bizim bunda bir kontrol hakkımız yok.
+
+
+&lt;b>Uygulama nasıl dahili hafızaya taşınır?&lt;/b> 
+
+Cevap: (a) Cihaz ayarlarına gidin > Uygulamalar ( bazı cihazlarda gelişmiş ayarlar seçeneğinde olabilir) > 'Musicolet'i bulun ve ona tıklayın > 'Dahili hafızaya aktar' seçeneğine tıklayın veya (b) Google^da \\''[Cihaz Adı]'da nasıl dahili hafızaya uygulama taşınır diye arayın.\\''
+"</string>
+    <string name="ans_where_is_genre_tab">"'Musicolet' -> 'ayarlar' -> 'sekmeleri ayarla' kısmına gidin. Tür sekmesini burada bulamadıysanız ne yazık ki tür sekmesi cihazınız tarafından desteklenmemektedir. Bazı eski versiyon android yazılımları mediastore db. ile tür kısmında program hatası yaşamaktadır. Musicolet buna dayalı olduğu için türler bazı cihazlarda çalışmamaktadır."</string>
+    <string name="ans_why_cannt_edit_some_tags">"
+Eğer şarkı bozulmuş ID3 etiketlere sahipse ona ID3 etiketi yazılmasına izin vermez. Veya başka sorunlar varsa bu tarz şarkıların etiketleri düzenlemez."</string>
+    <string name="ans_why_cant_find_newly_added_songs">"Yeni eklenen şarkıyı sıra sekmelerindeki sırada bulmadığınıza emin olun(1. sekme). Onları başka sekmelerde bulun. Çünkü sıralar çalma listelerinden tamamen farklıdır.&lt;br/>Ayrıca emin olun: Şarkılarınızın olduğu dosya veya &lt;b>herhangi bir ana dosya&lt;/b>&amp;#8230;&lt;br/> 
+1) &amp;#8230;dışlanan dosyalar listesi arasında olmadığına(görmek için Musicolet>ayarlar>'şarkı kütüphanesi'>'dışarıda bırakılan dosyalar')&lt;br/> 
+2)&amp;#8230;gizli bir dosya olmadığına ve başında.(nokta) olmadığına &lt;br/> 
+3)&amp;#8230;herhangi bir uygulamanın gizli dosyası olmadığına&lt;br/>
+4)&amp;#8230;'.nomedia' isminde dosya içermediğine (.nomedia dosyaları genelde Dosya yöneticilerinde gizli dosyadır)
+
+Eğer hala şarkılarınızı bulamıyorsanız bunu okuyun:&lt;br/>&lt;br/>Musicolet her başlangıçta yeni şarkılar için kısa bir arama yapar. Hızlı olması ve batarya verimliliğini artıran bir arama için androidin &lt;b>MediaStorage yapısını&lt;/b> kullanır. Androidde bulunan MediaStorage yapısı dahili ve harici hafızada bulunan dosyaların sorgulama ve kaydını tutan güçlü bir mekanizmadır. Galeri dahil olmak üzere birçok uygulama buna dayanır.
+
+Fakat bazen uygulamalar (yeni indirilen/kopyalanan/taşınan dosyaları içeren örneğin dosya yöneticisi, tarayıcılar, dosya paylaşım uygulamaları vb. uygulamalar) Android MediaStorage yapısını son değişmeler hakkında uyarmazlar. Bu yüzden MediaStorage yapısı yapılan son değişimlerden haberdar olmaz. Bu  Musicolet tarafından yeni eklenen şarkıların bulunamamasının genel nedenidir.
+Çözüm:
+(1) Tekrar taramaya zorlayın. (Musicolet ayarlarına gidin > Şarkı listesi > Tekrar taramaya zorla)
+
+ veya 
+
+(2) Cihazınızı yeniden başlatın. Tekrar başlattıktan sonra her şey tamamen yüklendiğinde 2-3 dakika bekleyin, sonra musicolet'i açın ve şarkılarınızı bulmayı deneyin."</string>
+    <string name="ans_why_embedded_lyrics_why_not_online_q">"
+Musicolet internet izni olmayan nadir uygulamalardandır (Tam İnternet Erişimi' olarak da bilinir). Musicolet'i en az izinli yapabilmek için bu izni uygulamaya bilerek koymadık. İnternet izni olmadan Android uygulamaları internete herhangi bir veriyi aktaramazalamaz. &lt;b>Bu yüzden internet izni gerektiren özellikleri  (sözleri otomatik eşleştirme gibi) kullanmak mümkün değildir&lt;/b>.
+"</string>
+    <string name="ans_why_not_auto_fetch_albumart_q">"
+Musicolet İnternet izni istemeyen nadir uygulamalardandır ('Tam İnternet Erişimi' olarak da bilinir). Musicolet'i minimum izin isteyen uygulamalardan yapmak için bu izni kasten uygulamaya koymadık. İnternet izni olmadan Android uygulaması herhangi bir bilgiyi internete gönderemez/alamaz. &lt;b>Bu yüzden internet izni isteyen özellikler (albüm kapağını otomatik eşlemek) mümkün değildir&lt;/b>.
+
+"</string>
+    <string name="app_closed_because_of_sleep_timer">Musicolet uyku zamanlayıcısı tarafından kapatıldı. :)</string>
+    <string name="app_desc">Musicolet - Hafif ve basit bir müzik çalar olmasına rağmen onlarca özelliğe sahiptir. Birden fazla parçayı kuyruğa alma özelliğini içeren tek android müzik çalardır.</string>
+    <string name="app_really_need_your_permissions">Uygulamanın çalışması için sizin izninize ihtiyacı var!</string>
+    <string name="app_reqiures_permissions_to_run">Musicolet çalışması için bazı izinler gerektiriyor.</string>
+    <string name="appearance">Görünüm</string>
+    <string name="appling_changes">Değişiklikler kaydediliyor</string>
+    <string name="are_you_sure_q">Emin misin?</string>
+    <string name="arrange_tabs">Sekmeleri ayarla</string>
+    <string name="artist">Şarkıcı</string>
+    <string name="artist_asc">Şarkıcıya göre artan</string>
+    <string name="artist_dsc">Şarkıcıya göre azalan</string>
+    <string name="artist_not_found">Sanatçı sekmesi bulunamadı! Önce ayarlardan sanatçı sekmesini etkinleştirin .</string>
+    <string name="artists">Şarkıcılar</string>
+    <string name="attention_e">Dikkat!</string>
+    <string name="audio">Ses</string>
+    <string name="audio_formats_supported">Musicolet WMA/Opus/FLAC/ALAC destekler mi?</string>
+    <string name="auto_close_app_setting">Müzik çalınmıyorsa otomatik olarak uygulamayı kapat</string>
+    <string name="auto_close_app_setting_explain">Uygulama görünür değilse ve müzik çalmıyorsa, belirli bir süre sonra uygulamayı kapatın</string>
+    <string name="back">Geri</string>
+    <string name="background_c">Arka plan:</string>
+    <string name="bass_boost">Bass yükseltici</string>
+    <string name="bitrate">Bit Hızı</string>
+    <string name="blurred_bg_explain">Şimdi yürütülüyor ekranında arka planı kaplayan bulanık albüm kapağı gösterilir.</string>
+    <string name="blurrend_bg_setting">Şimdi çalınıyor ekranında bulanık arka plan</string>
+    <string name="broadcast_aa_explain">Bu yüzden, 3. parti uygulaması ve android sistem kilit ekranı tarafından kullanılabilir.</string>
+    <string name="broadcast_album_art_setting">Albüm kapağını yayınla</string>
+    <string name="can_not_read_that_folder">Bu klasörü okunamıyor!</string>
+    <string name="cancel">İptal et</string>
+    <string name="cant_be_empty">Boş olamaz</string>
+    <string name="cant_edit_info_of_given_files">Verilen dosyaların bilgilerini düzenleyemezsiniz!</string>
+    <string name="caption_is_be_copied_to_clipboard">Yazı kopyalandı. Sadece yapıştırmanız gerekmektedir.</string>
+    <string name="center_aligned_text">Ortalanmış yazı</string>
+    <string name="change_album_art">Albüm kapağını değiştir</string>
+    <string name="changes_will_apply_physically">Değişiklikler her ses dosyasına fiziksel olarak uygulanacak (asıl depolamada). Bu yüzden biraz zaman alabilir.</string>
+    <string name="choose_lang">Dil seç</string>
+    <string name="clear">Temizle</string>
+    <string name="clear_search_history">Arama geçmişini temizle</string>
+    <string name="close">Kapat</string>
+    <string name="close_app">Uygulamayı Kapat</string>
+    <string name="close_lyrics">Sözleri kapat</string>
+    <string name="close_selection_process_after_an_option_is_selected">Bir seçenek seçildiğinde seçim işlemini kapat</string>
+    <string name="composer">Besteci</string>
+    <string name="copy_to_a_queue">Sırayı kopyala</string>
+    <string name="cpu_efficient_scroll">CPU-Verimli Kaydırma</string>
+    <string name="credits">Övgü ve özel teşekkür</string>
+    <string name="current_queue">Mevcut Sıra</string>
+    <string name="current_queue_x_y_counter">Şimdiki Sıra (%1$d/%2$d)</string>
+    <string name="current_select_queue_eq">Şu anda seçilen sıranın ismi =</string>
+    <string name="custom">Özel</string>
+    <string name="custom_order">Özel istek</string>
+    <string name="customize_song_order_playlist_x">%1$s çalma listesindeki şarkıların sırasını değiştir</string>
+    <string name="cutomize_song_order_yourself">Şarkı düzenini kendiniz özelleştirin</string>
+    <string name="d_10_minutes">10 dakika</string>
+    <string name="d_10_seconds">10 saniye</string>
+    <string name="d_1_minutes">1 dakika</string>
+    <string name="d_2_minutes">2 dakika</string>
+    <string name="d_30_seconds">30 saniye</string>
+    <string name="d_30p_length">"Sürenin %30'u"</string>
+    <string name="d_50p_length">"Sürenin %50'si"</string>
+    <string name="d_5_minutes">5 dakika</string>
+    <string name="d_90p_length">"Sürenin %90'ı"</string>
+    <string name="dark">Karanlık</string>
+    <string name="date_add_asc">Kütüphaneye eklenme zamanına göre artan</string>
+    <string name="date_add_dsc">Kütüphaneye eklenme zamanına göre azalan</string>
+    <string name="date_added_to_library">Kütüphaneye eklenme tarihi</string>
+    <string name="date_last_played">Son yürütülme tarihi</string>
+    <string name="date_mod_asc">Değiştirilme zamanına göre artan</string>
+    <string name="date_mod_dsc">Değiştirilme zamanına göre azalan</string>
+    <string name="date_modified">Değiştirilme tarihi</string>
+    <string name="date_play_asc">Son yürütülme zamanına göre artan</string>
+    <string name="date_play_dsc">Son yürütülme zamanına göre azalan</string>
+    <string name="delete">Sil</string>
+    <string name="delete_permanently">Kalıcı olarak sil</string>
+    <string name="delete_this_backup">Bu yedeklemeyi sil</string>
+    <string name="delete_this_external_playlist">Bu harici oynatma listesini sil</string>
+    <string name="delete_this_preset">Bu ön ayarı sil</string>
+    <string name="deselct_all_songs_album">Albümdeki tüm şarkıların seçimini kaldır</string>
+    <string name="deselct_all_songs_genre">Bu türün tüm şarkılarındaki seçimi kaldır</string>
+    <string name="deselect_all_from_this_list">"Listedeki tüm
+seçimleri kaldır"</string>
+    <string name="deselect_all_songs_artist">Bu şarkıcının şarkılarının seçimini kaldır</string>
+    <string name="deselect_all_songs_folder">Bu klasördeki tüm şarkıların seçimini kaldır</string>
+    <string name="deselect_all_songs_playlist">Bu çalma listesinin tüm şarkılarındaki seçimi kaldır</string>
+    <string name="deselect_all_songs_sub_folder">Bu klasördeki ve tüm alt klasörlerdeki tüm şarkıların seçimini kaldırın</string>
+    <string name="disclaimer_earphone_actions">Not: Kulaklık tuşu seçenekleri bazı cihazlarda çalışmayabilir! Nedenini okumak için tıklayın.</string>
+    <string name="do_in_background">Arka planda yap</string>
+    <string name="do_nothing">Hiçbir şey yapma</string>
+    <string name="does_transmit_data_in_background">Musicolet internet üzerinden dosya aktarıyor mu?</string>
+    <string name="done">Tamamlandı</string>
+    <string name="double_press_action">Kulaklık tuşuna çift tıklama aksiyonu</string>
+    <string name="dragger_explain">Buradan tutun ve komut değiştirmek için yukarı / aşağı sürükleyin</string>
+    <string name="duration">Süre</string>
+    <string name="duration_asc">Süreye göre artan</string>
+    <string name="duration_dsc">Süreye göre azalan</string>
+    <string name="earphone_button_descaimer_explain">"Bazı üreticiler stoklarında android'lerine kendi kod katmanlarını koyuyorlar, bu tür cihazlar kulaklığın düğmesini tek başına kullanıyor ve bir uygulamanın müdahale etmesine izin vermiyorlar. Bu durumda cihaz yalnızca Musicolet'e sonraki / önceki şarkıyı çalmasını söyler. Ancak kulaklığın düğmesine basıldığını asla söylemez. Bu konuda hiçbir şey yapamayız."</string>
+    <string name="edit_album_info">Albüm Bilgisini Düzenle</string>
+    <string name="edit_artist_info">Şarkıcı Bilgisini Düzenle</string>
+    <string name="edit_genre_info">Tür Bilgisini Düzenle</string>
+    <string name="edit_info">Bilgiyi dizenle</string>
+    <string name="edit_lyrics">Sözleri Düzenle</string>
+    <string name="edit_song_info">Şarkı Bilgisini Düzenle</string>
+    <string name="embedded_lyrics_appearance">Gömülü sözlerin görünümü</string>
+    <string name="empty_queue_cannt_resume">Bu sıra boş. Devam edilemedi.</string>
+    <string name="empty_queue_cannt_scroll_to_current_song">Bu sıra boş! Hali hazırda aktif olan şarkıyı kaydıramazsınız!</string>
+    <string name="enable_document_app_first">"'Belgeler' uygulaması bulunamadı. Lütfen eğer kapalıysa önce 'Belgeler' uygulamasına yetki verin. ('Telefon ayarları' > 'Yüklü uygulamalar' > 'Tümü' > 'Belgeler'i bulun > Aktifleştirin). Sonra tekrar deneyin."</string>
+    <string name="end_of_current_queue">Mevcut sıranın sonuna ulaşıldı</string>
+    <string name="end_of_current_queue_shuffle">Mevcut sıranın sonuna ulaşıldı (karıştırma modunda)</string>
+    <string name="end_of_first_queue">İlk sıranın sonuna ulaşıldı</string>
+    <string name="end_of_last_queue">Son sıranın sonuna ulaşıldı</string>
+    <string name="end_of_last_queue_shuffle">Son sıranın sonuna erişildi (karıştırma modunda)</string>
+    <string name="enter_new_playlist_name">Yeni oynatma listesini adını gir</string>
+    <string name="equalizer">Ekolayzer</string>
+    <string name="equalizer_not_working_q">Ekolayzır düzgün çalışmıyor mu?</string>
+    <string name="equalizer_to_use">Kullanılacak Ekolayzer</string>
+    <string name="error_init_equalizer">Ekolayzer başlatılırken hata oluştu</string>
+    <string name="error_taking_screenshot">Ekran görüntüsü alımında hata oluştu!</string>
+    <string name="error_while_reading_user_preset">Önceden ayarlanmış kullanıcıyı okurken hata meydana geldi</string>
+    <string name="error_while_rescaning">Tekrar taramada bir sorun oluştu</string>
+    <string name="error_while_setting_ringtone">Zil sesi ayarlanırken hata oluştu!</string>
+    <string name="exclude_duration_explanation">Şarkılar ve ses dosyaları bu süreden<b> küçük olan</b> taramaya dahil olmayacaktır.</string>
+    <string name="exclude_folder_from_scanning">Dosyaları taramaya dahil etme</string>
+    <string name="exclude_small_duration_files">Kısa süreli dosyaları dahil etme</string>
+    <string name="exclude_song_folder_dialog_explanation">Dosya içerisindeki aşağıda listelenen şarkılar taranmayacaktır. Bu dosyanın<b> alt dosyalarındaki</b> şarkılar<b> ayrıca taranmayacaktır</b>.</string>
+    <string name="exclude_this_folder_from_scanning">Bu klasörü taramadan hariç tut</string>
+    <string name="exclude_time_zero_value_explain">Bu iki değeri boş veya 0:0 olarak tutmak, herhangi bir dosyayı dışlamayacaktır.</string>
+    <string name="excluded_folders_list_updated">Dışlanan klasörlerin listesi güncellendi</string>
+    <string name="expandable_notif">Büyütülebilir bildirim</string>
+    <string name="experimental">Deneysel</string>
+    <string name="explanation_force_rescan">"
+&lt;b>Musicolet yeni şarkıları otomatik olarak tarar mı?&lt;/b>
+Evet Musicolet yeni şarkılar için her başlangıçta kısa bir arama yapar.
+
+&lt;b>Öyleyse neden tekrar aramaya zorla gerekli?&lt;/b>
+Hızlı ve batarya verimi yüksek bir arama için Musicolet Android'in &lt;b>MediaStorage yapısını&lt;/b> kullanır. Android içerisinde bulunan MediaStorage yapısı dahili ve harici hafızada bulunan dosyaların sorgulama ve kaydını tutan güçlü bir mekanizmadır. Galeri dahil olmak üzere birçok uygulama buna dayanır.
+
+Fakat bazen uygulamalar (yeni indirilen/kopyalanan/taşınan dosyaları içeren örneğin dosya yöneticisi, tarayıcılar, dosya paylaşım uygulamaları vb. uygulamalar) Android MediaStorage yapısını son değişmeler hakkında uyarmazlar. Bu yüzden MediaStorage yapısı yapılan son değişimlerden haberdar olmaz. Bu  Musicolet tarafından yeni eklenen şarkıların bulunamamasının genel nedenidir. Eğer diğer uygulamalar işbirliği yapıp MediaStorage'ın esaslarını göz önüne alırsa tekrar aramaya zorla seçeneğini kullanmaya ihtiyacınız olmaz.
+
+
+Her neyse aşağıda verilen tekrar arama tuşu Android'in MediaStorage yapısını seçili dosyaların ve alt klasörlerin taranmasına zorlayacaktır, bu sayede Android sonrasında Musicolet yeni eklenen şarkıları bulabilecektir.
+"</string>
+    <string name="export_playlist_backup_explain">"&lt;small>Musicolet'in özel çalma listelerinin kopyasını çıkar ve dışarı aktarın. Sonrasında dışarı aktarılmış bu yedekten içe aktarın. Bulunan dışarı aktarılmış yedek dosyasının isimleri çakışırsa yeni olanla değiştirilir.&lt;/small>"</string>
+    <string name="export_playlist_for_backup">&lt;small>Çalma listesini yedekle&lt;/small></string>
+    <string name="export_playlists">Yedekteki Musicolet çalma listelerini aktar</string>
+    <string name="external_playlist_deleted">Seçilen harici çalma listesi başarıyla silindi</string>
+    <string name="facebook">Facebook</string>
+    <string name="facts_about_queues">Çoklu sıralar hakkında daha fazla bilgi</string>
+    <string name="fade_in_when_play">Yürütmeye başlarken sesi artır</string>
+    <string name="fade_out_when_pause">Durdururken sesi azalt</string>
+    <string name="fade_vol_effects_title">Durdurur/yürütürken sesi söndür</string>
+    <string name="failed">Başarısız</string>
+    <string name="falied_to_delete_some_files">Bazı dosyalar fiziksel olarak depolama alanından silinemedi!</string>
+    <string name="faqs_and_other_info">SSS ve Diğer Bilgiler</string>
+    <string name="fast_forward">Hızlı İleri Sar</string>
+    <string name="fastforward_on_4_press_explain">Her kulaklığın tuşuna >= 4 basıldığında hızla ileri sarma işlemini yapabilirsiniz.</string>
+    <string name="favourites">Favoriler</string>
+    <string name="file_doesnt_exist">Dosya mevcut değil!</string>
+    <string name="file_name">Dosya adı</string>
+    <string name="file_name_dsc">Azalan dosya adı</string>
+    <string name="filename_asc">Dosya adına göre artan</string>
+    <string name="fit_to_square_for_instagram">Instagram için kareye sığdır</string>
+    <string name="folder_exclude_warning">Bu klasör ve tüm alt klasörler taramaya dahil olmayacaktır. Bu klasörlerdeki şarkılar gizlenecek. Devam etmek istiyor musunuz?</string>
+    <string name="folder_jpg_settings_explain">Eğer gömülü Albüm Kapağı bulunamazsa aynı dosyadaki folder.jpg, AlbumArt.jpg vb. isimli kapağı kullan</string>
+    <string name="folder_linear">Doğrusal (bütün klasörler bir arada)</string>
+    <string name="folder_tab_not_found">Klasör sekmesi bulunamadı! Önce ayarlardan klasör sekmesini etkinleştirin.</string>
+    <string name="folders">Dosyalar</string>
+    <string name="follow_musicolet_on">"Musicolet'i takip edin:"</string>
+    <string name="for_xiaomi_miui_user">"Xiaomi'nin MIUI kullanıcıları için"</string>
+    <string name="force_to_rescan">Tekrar taramaya zorla</string>
+    <string name="force_to_rescan_now">Şimdi tekrar taramaya zorla</string>
+    <string name="force_to_rescan_settings_explain">"Musicolet'e yeni eklenen şarkıların eksik olması yararlıdır"</string>
+    <string name="frequently_asked_questions_faqs">Sık Sorulan Sorular (SSS)</string>
+    <string name="genre">Tür</string>
+    <string name="genre_tab_not_found">Tür sekmesi bulunamadı! Önce ayarlardan tür sekmesini etkinleştirin.</string>
+    <string name="genres">Türler</string>
+    <string name="git_it_lets_do_it">Anladım! Haydi yapalım şunu.</string>
+    <string name="give_permissions">İzin ver</string>
+    <string name="give_us_permission_for_ringtone">Zil sesini değiştirebilmek için bize izin verin.</string>
+    <string name="got_it">Anladım</string>
+    <string name="grid_view">Tablo Görünümü</string>
+    <string name="handsfree_and_speakers">Eller Serbest ve Hoparlörler</string>
+    <string name="help_and_info">Yardım ve Bilgi</string>
+    <string name="hide_embedded_lyrics">Gömülü şarkı sözlerini sakla</string>
+    <string name="hierarchical_folders">Hiyerarşik (klasörler içindeki klasörler)</string>
+    <string name="homescrenn_widget_settings">Ana Ekran Widget Görünümü</string>
+    <string name="how_can_you_appreciate_our_work">Nasıl teşekkür edebilir veya destek olabilirim?</string>
+    <string name="i_understand_this">Bunu anladım</string>
+    <string name="i_understand_this_use_x">Anlaşıldı! %1$s kullan</string>
+    <string name="if_d_10sec_replay_else_prev">Eğer şimdi çalınan şarkı 10 saniyeden fazla çalındıysa şarkıyı tekrar et, yoksa önceki şarkıyı yürüt</string>
+    <string name="import_playlist_dialog_title">Herkese açık çalma listesinden şarkıları al</string>
+    <string name="import_playlists">Harici şarkı listelerinden şarkıları içe aktarın</string>
+    <string name="in_expanded_notification">Büyütülmüş bildirimde…</string>
+    <string name="instagram">Instagram</string>
+    <string name="interface_">Arayüz</string>
+    <string name="jump_from_first_play_queue">Son sıra bitince ilk sıraya atla veya tam tersini uygula</string>
+    <string name="jump_to_next_queue">Sonraki sıraya atla</string>
+    <string name="just_stop_there">Orada dur</string>
+    <string name="lagfree_scroll_pref_explain">Albüm kapaklarını sadece liste kaydırılmıyorken indir. CPU kullanımını azaltır ve sorunsuz kaydırmayı sağlar.</string>
+    <string name="language">Dil</string>
+    <string name="language_not_supported_by_dev">"
+Musicolet İngilizce geliştirildi. Ne yazık ki dilinizi anlamıyoruz :(
+&lt;br/>&lt;br/>&lt;b>Uygulama bu dile kullanıcılar tarafından çevirildi&lt;/b>.
+&lt;br/>&lt;br/>Çevirinin doğruluğu hakkında sorumluluk kabul etmiyoruz. Bizimle iletişime geçerken (email, playstore veya başka bir platform) eğer mümkünse lütfen İngilizce kullanın.
+&lt;br/>&lt;br/>Eğer yanlış bir çeviri bulursanız, veya şimdiki çeviri kalitesini geliştirmek isterseniz bize yardım edebilirsiniz. Bunun için, 'Yardım ve Bilgi' menüsüne gidin ve 'Help us in translate' seçeneğini kullanın. &lt;b>Desteğiniz için teşekkürler.&lt;/b>
+"</string>
+    <string name="least_played_first">İlk en az çalınan</string>
+    <string name="library_not_updated_completely">Şarkı kütüphanesi tamamen güncellenemedi!</string>
+    <string name="light">Parlak</string>
+    <string name="like_this_app_q">Bu uygulamayı beğendin mi?</string>
+    <string name="list_with_thumbnail">Resimli liste</string>
+    <string name="list_without_thumbnail">Küçük resimsiz liste</string>
+    <string name="location">Yer</string>
+    <string name="lock_screen">Kilit Ekranı</string>
+    <string name="looking_for_new_files">Yeni dosyalara bakılıyor</string>
+    <string name="lyricist">Yazar</string>
+    <string name="main_menu">Ana Menü</string>
+    <string name="match_system_bg_dark_text">Sisten arkaplanı + Karanlık metni eşleştir</string>
+    <string name="match_system_bg_light_text">Sisten arkaplanı + Parlak metni eşleştir</string>
+    <string name="max_queue_limit_reached_1st_deleted">En fazla sıra limiti sayısına ulaşıldı(=%1$d). İlk sıra silindi.</string>
+    <string name="min_duration_minutes_consider">Sadece bu süreden daha uzun veya bu süreye eşit olan olan şarkıların süreleri hatırlanır:</string>
+    <string name="minimum_duration_consider_playback">Oynatılmış sayılması için gerekli minimum süre</string>
+    <string name="minimum_duration_consider_playback_explain">Bir şarkının oynatıldığı kabul edilmesi için kabul edilen minimum süre</string>
+    <string name="more_about_musicolet">Musicolet hakkında daha fazla</string>
+    <string name="most_played">En çok çalınan</string>
+    <string name="most_played_first">İlk en çok çalınan</string>
+    <string name="multi_selection_controls">Çoklu Seçim Seçenekleri</string>
+    <string name="music_playback">Müzik çalma</string>
+    <string name="music_playback_suddenly_stops_while_multitasking">Başka uygulamaları kullanırken müzik arka planda oynatmayı durduruyor (çoklu görev)</string>
+    <string name="musicoler_ss_caption_1">"\#musicolet ile #%1$s - #%2$s dinliyorum…
+
+PlayStore'dan @musicolet'i İndirin: j.mp/musicolet"</string>
+    <string name="musicoler_ss_caption_2">"\#musicolet ile dinliyorum…
+
+PlayStore'dan @musicolet'i İndirin: j.mp/musicolet"</string>
+    <string name="musicolet_equalizer">Musicolet Ekolayzer</string>
+    <string name="musicolet_is_updated">Musicolet güncellendi!</string>
+    <string name="musicolet_lock_screen">Musicolet Kilit Ekranı</string>
+    <string name="musicolet_lock_screen_desc">"Musicolet ekran kilidi ana ekran kilidinizin üzerine temel müzik kontrollerini ekler. 
+
+"<small>Not: Musicolet ekran kilidini açmak ana ekran kilidinizi açmaz.</small></string>
+    <string name="musicolet_lockscreen">Musicolet Kilit Ekranı</string>
+    <string name="musicolet_notif">Musicolet stili</string>
+    <string name="musicolet_oreo_notif">Musicolet + AndroidOreo Stili</string>
+    <string name="musicolet_requires_some_permissions">Musicolet birçok izin gerektiriyor!</string>
+    <string name="musicolet_simpli_perf_and_effi">Musicolet basitliğe, performansa ve verime odaklanan müzik çalardır.</string>
+    <string name="mute">Sessiz</string>
+    <string name="needsaccess">Yazma izni gerekli</string>
+    <string name="never">asla</string>
+    <string name="never_close_automatically">Asla otomatik olarak kapatma</string>
+    <string name="new_name_here">Yeni İsmi buraya</string>
+    <string name="new_playlist_name">Yeni oynatma listesinin İsmi</string>
+    <string name="new_queue">Yeni Sıra</string>
+    <string name="next_song">Sonraki Şarkı</string>
+    <string name="no">Hayır</string>
+    <string name="no_app_available_to_share">Paylaşılacak hiçbir uygulama yok!</string>
+    <string name="no_embedded_lyrics_found_this_song">Bu şarkıda gömülü sözler yok</string>
+    <string name="no_external_playlist_nor_backup_found">Harici bir oynatma listesi bulunamadı. Ve daha önce dışa aktarılan Musicolet oynatma listesinin yedek kopyası bulunamadı</string>
+    <string name="no_song_to_queue_b">[Sırada hiç şarkı yok]</string>
+    <string name="not_all_device_support_system_eq">Bütün android cihazlar sistem ekolayzerini desteklemiyor</string>
+    <string name="not_enough_cache_memory_ro_edit_info">Şarkı bilgisini düzenlemek için cihazda yeterli önbellek yok!</string>
+    <string name="not_enough_ram_for_action">Bu işlemi gerçekleştirmek için yeterli RAM mevcut değil.</string>
+    <string name="not_valid_folder">Geçerli bir klasör değil</string>
+    <string name="notif_appear">Bildirim görünümü</string>
+    <string name="notif_style_c">Bildirim Şekli:</string>
+    <string name="notif_warning">Androidde bildirimler RemoteViews ile yapılır. Uygulamada RemoteViews oluşturur ve systemUI geçiş yapar. Ondan sonra SystemUI tarafından yorumlanır ve düzenlenir. ROM onlarda kendi değişikliklerini yapar. Bu yüzden bazı kişiselleştirmeler bazı cihazlarda veya ROMlarda çalışmayabilir.</string>
+    <string name="notif_warning_title">Bazı cihazlarda kişiselleştirmeler çalışmayabilir. Nedenini okumak için<u> Buraya tıklayın</u>.</string>
+    <string name="nowSelecttionProcessCloseOnAction">Şimdi seçim işlemi bir işi seçtiğinizde kapanacak</string>
+    <string name="nowSelecttionProcessWillNotCloseOnAction">Şimdi seçili şarkılara birden fazla işlem uygulayabilirsiniz. Seçili şarkılar seçili kalacaktır.</string>
+    <string name="now_playing">Şimdi yürütülüyor</string>
+    <string name="now_showing_filenames">Şimdi her yerde başlıklar yerine dosya İsimleri gösteriliyor</string>
+    <string name="now_showing_titles">Şimdi her yerde dosya İsimleri yerine başlıklar gösteriliyor</string>
+    <string name="ok">TAMAM</string>
+    <string name="open_source_lic"><u>Açık Kaynak Lisansları</u></string>
+    <string name="options">Seçenekler</string>
+    <string name="options_for_listed_songs">Listelenmiş şarkılar için seçenekler</string>
+    <string name="options_for_songs_folder_subfolder">Bu klasördeki tüm şarkıların ve alt klasörünün seçenekleri</string>
+    <string name="options_for_songs_in_this_folder">Bu klasördeki şarkılar için seçenekler</string>
+    <string name="options_for_this_song">Bu şarkı için seçenekler</string>
+    <string name="paste">Yapıştır</string>
+    <string name="paste_or_write_lyrics_here">Sözleri buraya yaz veya yapıştır</string>
+    <string name="pause_when_disconnect">Bağlantı Kesildiğinde Duraklat</string>
+    <string name="pause_when_disconnect_explain">Kulaklık, hoparlör veya bluetooth aygıtı çıkartıldığında müziği durdur</string>
+    <string name="permission_reqired">İzin gerekli!</string>
+    <string name="play">Yürüt</string>
+    <string name="play_after_current_song">Geçerli şarkının ardından çal</string>
+    <string name="play_next_song">Sonraki şarkıyı çal</string>
+    <string name="play_or_pause">Çal veya Duraklat</string>
+    <string name="play_queue">Sıra</string>
+    <string name="play_speed">Oynatma hızı</string>
+    <string name="played">Yürütüldü</string>
+    <string name="playlist_exported_Success">Seçili oynatma listesi başarıyla dışa aktarıldı</string>
+    <string name="playlist_order_saved">Çalma listesi komutu kaydedildi</string>
+    <string name="playlist_tab_cant_be_hidden">Oynatma listesi sekmesi görünmez olamaz</string>
+    <string name="playlists">Çalma listeleri</string>
+    <string name="please_wait">Lütfen bekleyin</string>
+    <string name="preset_name">Ön ayar ismi</string>
+    <string name="previous_song">Önceki Şarkı</string>
+    <string name="previous_song_behaviour_setting">Önceki şarkı düğmesi davranışı</string>
+    <string name="previous_song_behaviour_setting_explain">Oynatıcı, bildirim, kilit ekranı veya kulaklıktan önceki şarkı düğmesini tıkladığınızda ne yapacağınıza karar verir</string>
+    <string name="queue_instead_fav">Favori butonu yerine sıra kısayolu</string>
+    <string name="queues">Sıralar</string>
+    <string name="queues_and_playlists">Sıralar ve Çalma Listeleri</string>
+    <string name="randomize">Rastgele</string>
+    <string name="rate_us_5_stars">Bize 5 yıldız ver</string>
+    <string name="read_them_first_click_here">İlk bunları okuyun. Buraya tıklayın.</string>
+    <string name="recently_added">Son eklenen</string>
+    <string name="reload_metadata_settings">Depolamadan klavuz veri etiketlerini yeniden yükle</string>
+    <string name="reload_metadata_settings_explain">Depodan klavuz veri etiketlerini yeniden yükler ve tüm Kuyruklardaki ve Çalma Listelerindeki şarkıların etiketlerini günceller.</string>
+    <string name="rem_pos_indie_songs">Tüm şarkıların son konumunu hatırla</string>
+    <string name="remove_album_art">Albüm kapağını kaldır</string>
+    <string name="remove_from_favorites">Favorilerden kaldır</string>
+    <string name="remove_from_this_playlist">Bu şarkı listesinden sil</string>
+    <string name="remove_from_this_queue">Bu sıradan sil</string>
+    <string name="remove_playlist">Şarkı listesini sil</string>
+    <string name="remove_this_queue">Seçilen sırayı sil</string>
+    <string name="rename">Yeniden adlandır</string>
+    <string name="rename_playlist">Şarkı listesinin ismini değiştir</string>
+    <string name="rename_queue">Sırayı İsimlendir</string>
+    <string name="rename_this_queue">Sıranın ismini değiştir</string>
+    <string name="repeat_options">Tekrarlama Seçenekleri</string>
+    <string name="repeat_queue">Aynı sırayı tekrarla</string>
+    <string name="repeat_song">Aynı şarkıyı tekrarla</string>
+    <string name="reset">Sıfırla</string>
+    <string name="reset_timer">Zamanlayıcıyı sıfırla</string>
+    <string name="respect_audio_focus_desable_alert">"Siz sadece 'ses odağına uy' seçeneğini kapadınız. Şimdi musicolet ses odağına uymayacak. Bu başka bir uygulama bir ses başlattığında veya telefon aramalarında müziğin durdurulmaması anlamına gelir."</string>
+    <string name="respect_audio_focus_explain">Diğer uygulamalar sesli odağı talep ederken ve çağrı sırasında duraklatın. Ne yaptığınızı bilmiyorsanız burayı ellemeyiniz!</string>
+    <string name="respect_audiofocus_settings">Ses odağına uy</string>
+    <string name="resume_last_position_q">Son konumdan devam et (%1$s)?</string>
+    <string name="resume_playback">Çalmaya devam et</string>
+    <string name="resume_this_queue">Seçilen sıraya devam et</string>
+    <string name="resume_without_asking">Sormadan devam et</string>
+    <string name="resumed_from_last_rem">Son konumdan devam edildi</string>
+    <string name="reverse">Ters</string>
+    <string name="rewind">Geri sar</string>
+    <string name="ringtone_is_set">Zil sesi ayarlandı!</string>
+    <string name="ringtone_modify_sys_permission_explanantion">"Musicolet sistem seçeneklerini değiştirme hakkına sahip değildir. Bu izin olmadan zil sesi değiştirilemez. Telefonunuzun ayarlar, uygulama ayarları seçeneğine gidin; Musicolet'i bulun ve gerekli izinleri verin. Sonra tekrar deneyin."</string>
+    <string name="s_new_playlist">Yeni Çalma Listesi</string>
+    <string name="saf_description_delete">"Android sistemi kısıtlamaları nedeniyle uygulamalar ikincil harici depolamadan (SD kart, USB gibi) kullanıcı izni olmadan dosyaları silemez/değiştiremez. Esas dosyayı silebilmek için bize izin verin.
+
+Sadece şu 4 basit adımı takip edin (ihtiyacınız olursa resmi büyütün):"</string>
+    <string name="saf_description_modify">"Sistem limitleri dolayısıyla uygulamalar kullanıcı izni olmadan ikincil harici hafızadaki (SD kart, USB gibi) dosyaları değiştiremez. Bize dosyaları değiştirebilmemiz için izin verin. Etiketleri düzenlemek için bu gereklidir.
+
+Sadece şu 4 basit adımı takip edin (ihtiyacınız olursa görüntüyü yaklaştırın):"</string>
+    <string name="save">Kaydet</string>
+    <string name="save_changes_q">Değişiklikleri kaydet?</string>
+    <string name="save_order">Komutu kaydet</string>
+    <string name="save_preset">Ön ayarı kaydet</string>
+    <string name="save_this_queue">Seçilen sırayı kaydet</string>
+    <string name="save_to_gallery">Galeriye kaydet</string>
+    <string name="saved_in_gallary_musicolet">Galerideki Musicolet klasörüne kaydedildi!</string>
+    <string name="scan_this_folder">Taramaya bu klasörden başla</string>
+    <string name="screen_shot">Ekran görüntüsü</string>
+    <string name="scrolled_to_current_song">Bu sıradaki şu anda aktif olan şarkının konumuna kaydırıldı.</string>
+    <string name="search">Ara</string>
+    <string name="search_album_art_with">Albüm kapağını bununla ara…</string>
+    <string name="search_lyrics">Sözleri Ara</string>
+    <string name="search_lyrics_with">Bunu kullanarak şarkı sözü arama…</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="search_title_album_artist">Şarkı ismine, sanatçısına veya albümüne göre ara</string>
+    <string name="seekbar_to_seek_the_song">Şarkının konumunu ayarlamak için arama çubuğu</string>
+    <string name="select_a_playlist">Oynatma listesi seç</string>
+    <string name="select_all">Hepsini seç</string>
+    <string name="select_all_from_this_list">"Bu listedeki
+hepsini seç"</string>
+    <string name="select_all_songs_artist">Bu şarkıcının tüm şarkılarını seç</string>
+    <string name="select_all_songs_folder">Bu klasördeki tüm şarkıları seçin</string>
+    <string name="select_all_songs_genre">Bu türün tüm şarkılarını seç</string>
+    <string name="select_all_songs_of_album">Bu albümdeki tüm şarkıları seç</string>
+    <string name="select_all_songs_playlist">Bu çalma listesinin tüm şarkılarını seç</string>
+    <string name="select_all_songs_sub_folder">Bu klasördeki ve tüm alt klasörlerdeki tüm şarkıları seçin</string>
+    <string name="set_as_ringtone">Zil sesi olarak ayarla</string>
+    <string name="set_timer">Zamanlayıcıyı ayarla</string>
+    <string name="settings">Ayarlar</string>
+    <string name="share">Paylaş</string>
+    <string name="share_screenshot">Ekran Görüntüsü Paylaş</string>
+    <string name="share_song">Şarkıyı paylaş</string>
+    <string name="share_with_friends">Arkadaşlarınla paylaş</string>
+    <string name="sharing_too_many_files_warn">Bir kerede çok fazla dosya paylaşmak işletim sistemi tarafından desteklenmiyor olabilir</string>
+    <string name="shorect_removed_menu">Kısayol menüden kaldırıldı</string>
+    <string name="shortcut_added_menu">Kısayol menüye eklendi</string>
+    <string name="show_advance_controls">Gelişmiş ayarları göster</string>
+    <string name="show_embedded_lyrics">Gömülü şarkı sözlerini göster</string>
+    <string name="show_explanation">Önce açıklamayı oku. Buraya tıkla.</string>
+    <string name="show_favorite_button">Favori butonunu göster</string>
+    <string name="show_filename_instead_of_title_explain">Şarkıların başlığını göstermek yerine her yerde dosya adlarını gösterin</string>
+    <string name="shuffle_all">Hepsini karıştır</string>
+    <string name="shuffle_and_play">Karıştır ve oynat</string>
+    <string name="shuffle_listed_songs">Listelenmiş şarkıları karıştır</string>
+    <string name="shuffle_mode_off">Karıştırma modu kapalı</string>
+    <string name="shuffle_mode_on">Karıştırma Modu Açık</string>
+    <string name="shuffle_mode_on_off">Karıştırma modu Açık/Kapalı</string>
+    <string name="shuffle_mode_vs_randomize">Karıştırmak veya rastgele dağıtmak</string>
+    <string name="size">Boyut</string>
+    <string name="sleep_timer">Uyku Zamanlayıcısı</string>
+    <string name="sleep_timer_explain_when_off">Zamanlayıcı ayarlanmadı. … dan sonra müziği durdurmak ve uygulamayı kapatmak için zamanlayıcıyı ayarlayın.</string>
+    <string name="sleep_timer_explain_when_on">Musicolet müzik çalmayı durdurur ve bu saatten sonra kapanır…</string>
+    <string name="song_info">Şarkı bilgisi</string>
+    <string name="song_lib_updated_success">Şarkı kütüphanesi tamamen güncellendi!</string>
+    <string name="song_library_and_tags">Şarkı kütüphanesi ve etiketler</string>
+    <string name="song_library_section">Şarkı kütüphanesi</string>
+    <string name="sort_listed_songs">Listelenmiş Şarkıları Filtrele</string>
+    <string name="sort_songs_by">Şarkıları buna göre sırala…</string>
+    <string name="sort_this_playlist">Bu çalma listesini filtrele</string>
+    <string name="sort_this_queue">Seçilen sıradaki şarkıları sırala</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="still_not_finding_song_explanation">"
+&lt;b>Hala şarkılarınızı bulamıyor musunuz?&lt;/b>
+&lt;br/>Yeni eklenen şarkıyı sıra sekmelerinde bulamadığınıza emin olun. Onları başka sekmelerde bulun. Çünkü sıralar çalma listelerinden tamamen farklıdır.&lt;br/>&lt;br/>
+Ayrıca emin olun: Şarkılarınızın olduğu dosya veya &lt;b>herhangi bir ana dosya&lt;/b>&amp;#8230;&lt;br/>&lt;br/>
+1) &amp;#8230;&lt;a href=#1>dışlanan dosyalar&lt;/a> listesi arasında olmadığına (görmek için Musicolet>ayarlar>'şarkı kütüphanesi'>'dahil edilmeyen dosyalar')&lt;br/>&lt;br/> 
+2) &amp;#8230;gizli bir dosya olmadığına ve başında.(nokta) olmadığına &lt;br/>&lt;br/> 
+3) &amp;#8230;herhangi bir uygulamanın gizli dosyası olmadığına&lt;br/>&lt;br/> 
+4) &amp;#8230;'.nomedia' isminde dosya içermediğine (.nomedia dosyaları genelde Dosya yöneticilerinde gizli dosyadır)&lt;br/>&lt;br/>
+Sorunları çözdükten sonra yeniden tarama yapın.
+"</string>
+    <string name="still_not_finding_songs">Gereken dosyada yukarıda verilen tuşa basarak tekrar arama yapın. Bundan sonra hala şarkılarınızı bulamıyorsanız &lt;b>&lt;u>buraya tıklayın.&lt;/u>&lt;/b></string>
+    <string name="stock_notifi">Telefonda bulunan bildirimler</string>
+    <string name="stock_notifi_not_custmzbl">Mevcut bildirimler sistem tarafından sağlanır bu yüzden kişiselleştirilemezler.</string>
+    <string name="summary_use_remaining_time">Şarkı çalarken şimdiki zaman yerine kalan süreyi göster</string>
+    <string name="support_developer">Geliştiriciyi destekle</string>
+    <string name="surround_sound">Surround Ses</string>
+    <string name="swipe_app_to_close_explain">Son uygulamalar kısmından temizlendiğinde uygulamayı kapat ve müziği durdur.</string>
+    <string name="switching_to_musicolet_eq">Musicolet ekolayzırına geçIş yapılıyor</string>
+    <string name="system_equalizer">Sistem Ekolayzer</string>
+    <string name="system_equlizer_not_supported_in_device">Sistem ekolayzırı aygıtınız tarafından desteklenmiyor</string>
+    <string name="tabs_below_this_position_hidden">Bu konumun altındaki etiketler saklanacak.</string>
+    <string name="tags_albumArt_embbededLyrics">Etiketler, Albüm Kapağı, Gömülü Şarkı Sözleri</string>
+    <string name="thank_you">Teşekkürler</string>
+    <string name="that_list_is_empty">Bu sıra bomboş!</string>
+    <string name="theme">Tema</string>
+    <string name="this_queue_is_active">Bu şimdi çalınıyor sırası</string>
+    <string name="this_queue_is_already_playing">Bu sıra zaten oynatılıyor</string>
+    <string name="this_queue_is_not_active">Bu o an çalınan kuyruk değildir.</string>
+    <string name="this_queue_is_resumed">Sıraya devam ediliyor</string>
+    <string name="title">Başlık</string>
+    <string name="title_asc">Başlığa göre artan</string>
+    <string name="title_dsc">Başlığa göre azalan</string>
+    <string name="toggle_favorite">Favorilere Ekle/Çıkar</string>
+    <string name="too_much_songs_in_multiple_queues">Bu sırada birden çok şarkı var!</string>
+    <string name="track_asc">Parça numarasına göre artan</string>
+    <string name="track_dsc">Parça numarasına göre azalan</string>
+    <string name="track_number">Parça Numarası</string>
+    <string name="triple_press_action">Kulaklık tuşunun üç tıklama aksiyonu</string>
+    <string name="twitter">Twitter</string>
+    <string name="unknown_b">[bilinmeyen]</string>
+    <string name="unlock">Kilidi Aç</string>
+    <string name="unnamed">İsimlendirilmemiş</string>
+    <string name="updating_library">Kütüphane güncelleniyor…</string>
+    <string name="use_big_fonts">Büyük yazı tipi kullan</string>
+    <string name="use_light_status_bar">Sisteme açık renk görev çubuğu kullanmak için sor</string>
+    <string name="use_remaining_time">Kalan süreyi göster</string>
+    <string name="use_x">%1$s kullan</string>
+    <string name="usefull_for_audiobook">Büyük şarkılar, ortam akışlarında veya sesli kitaplar vb. büyük dosyalarda son konumu hatırlamada yararlıdır.</string>
+    <string name="version_whatsnew">v %1$s<u> (Neler yeni)</u></string>
+    <string name="view_album_art">Albüm kapağını gör</string>
+    <string name="volume">Ses</string>
+    <string name="volume_slider">Ses kontrolörü</string>
+    <string name="waring_reloading_metadata">"
+Bu özelliği sadece &lt;b>Musicolet dışında(bilgisayar veya başka uygulamalardan ikisinden birini kullanarak)&lt;/b> düzenlenmiş klavuz verilerini(ID3 etiketlerini) Musicolet'de göremiyorsanız kullanın.&lt;br/>&lt;br/>Eğer bu özelliği kullanmak isterseniz lütfen şu uyarıyı okuyun. Bu uyarıyı eğer düzenlemek istediğiniz şarkıların etiketlerinin standart (uluslararası açıdan kabul edilen) olduğuna eminseniz göz ardı edebilirsiniz, etiketler için &lt;a href=https://en.wikipedia.org/wiki/Character_encoding>karakter kodlaması&lt;/a>.&lt;br/>&lt;br/>
+&lt;small>Musicolet klavuz verisini okumak için Android içerisinde bulunan MediaStorage yapısını kullanır. Fakat bazı şarkıların etiketlerini düzenledikten sonra MediaStorage düzgün kodlamayı belirlemekte hatalar yaşayabilir. Eğer MediaStorage yanlış karakter kodlamasını belirlerse &lt;b>etiketler okunamayabilir&lt;/b>. Fakat, bu nadiren olur, eğer şarkıyı oluşturanlar etiketler için standart olmayan(uluslararası olarak kabul edilmeyen kodlama) kodlamayı kullandıysa ortaya çıkar. Eğer bu olursa, &lt;b>bu Musicolet'in hatası değildir ve bizi suçlamayın;&lt;/b> Biz sizi uyardık.&lt;/small>
+"</string>
+    <string name="warning_edit_tags_encoding">"
+Bu uyarıyı eğer düzenlemek istediğiniz şarkıların etiketlerinin standart (uluslararası açıdan kabul edilen) olduğuna eminseniz göz ardı edebilirsiniz etiketler için &lt;a href=https://en.wikipedia.org/wiki/Character_encoding>karakter kodlaması&lt;/a>.&lt;br/>&lt;br/>
+&lt;small>Musicolet klavuz verisini okumak için Android'in MediaStorage yapısını kullanır. Fakat bazı şarkıların etiketlerini düzenledikten sonra MediaStorage düzgün kodlamayı belirlemekte hatalar yaşayabilir. Eğer MediaStorage yanlış karakter kodlamasını belirlerse &lt;b>etiketler okunamayabilir&lt;/b>. Fakat, bu nadiren olur, eğer şarkıyı oluşturanlar etiketler için standart olmayan kodlamayı kullandıysa (uluslararası olarak kabul edilmeyen kodlama). Eğer bu olursa, &lt;b>bu Musicolet'in hatası değildir ve bizi suçlamayın;&lt;/b> Biz sizi uyardık.&lt;/small>
+"</string>
+    <string name="warning_editing_tags">Etiketleri düzenleme hakkında bir uyarı okumak için buraya tıklayın</string>
+    <string name="what_is_diff_queues_playlists">Sıra nedir?</string>
+    <string name="what_is_multiple_queue_concept">Birden fazla kuyruk kavramı nedir?</string>
+    <string name="whats_new">Yenilikler</string>
+    <string name="when_a_song_ends">Şarkı sona erdiğinde…</string>
+    <string name="when_queue_ends">Geçerli sıra bittiğinde…</string>
+    <string name="where_are_widgets">Neden Ana Ekran Widgetlarını bulamıyorum?</string>
+    <string name="where_is_genre_tab">Müzik Türü sekmesi nerede?</string>
+    <string name="why_cannt_edit_some_tags">Neden bazı şarkıların şarkı bilgisi (etiketleri) değiştirilemiyor?</string>
+    <string name="why_cant_find_newly_added_songs">Neden bazı şarkıları bulamıyorum?</string>
+    <string name="why_embedded_lyrics_why_not_online_q">Neden şarkı sözleri otomatik olarak gelmiyor?</string>
+    <string name="why_not_auto_fetch_albumart_q">Neden albüm kapakları otomatik olarak gelmiyor?</string>
+    <string name="widget_4x1_advance_controls">"Musicolet Gelişmiş Kontrol Widget'ı"</string>
+    <string name="widget_4x1_simple">Musicolet Basit Widget</string>
+    <string name="widget_4x3_with_queue">"Musicolet Kontrolleri + Sıra widget'ı"</string>
+    <string name="widget_theme_c">Widget teması:</string>
+    <string name="widget_transparency_c">Widget Saydamlığı:</string>
+    <string name="x_minute">%1$d dakika</string>
+    <string name="year">Yıl</string>
+    <string name="year_asc">Yıla göre artan</string>
+    <string name="year_dsc">Yıla göre azalan</string>
+    <string name="yes">Evet</string>
+    <string name="your_playlists">Çalma listelerin</string>
+</resources>

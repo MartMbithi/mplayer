@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/rl_titleBar" android:background="?colorPrimary" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <in.krosbits.android.widgets.SmartImageView android:id="@id/iv_back" android:background="?select_rectangle_background" android:padding="10.0dip" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/ic_back_dark" android:contentDescription="@string/back" app:imageTintIndex="5" />
+        <in.krosbits.android.widgets.SmartTextView android:textSize="14.0dip" android:textStyle="bold" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/tv_folderTitle" android:layout_width="0.0dip" android:layout_height="50.0dip" android:layout_marginLeft="5.0dip" android:maxLines="1" android:layout_weight="1.0" app:textTintIndex="5" />
+        <in.krosbits.android.widgets.SmartImageView android:id="@id/iv_options" android:background="?select_rectangle_background" android:padding="13.0dip" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/ic_more_horiz_filled_dark" android:contentDescription="@string/options_for_songs_folder_subfolder" app:imageTintIndex="5" />
+    </LinearLayout>
+    <android.support.v7.widget.RecyclerView android:id="@id/rv_folderSongs" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/rl_titleBar" android:layout_alignParentBottom="true" />
+    <in.krosbits.android.widgets.RecyclerViewScrollBar android:id="@id/rsb_folderSongs" android:layout_width="10.0dip" android:layout_height="fill_parent" android:layout_alignTop="@id/rv_folderSongs" android:layout_alignRight="@id/rv_folderSongs" android:layout_alignBottom="@id/rv_folderSongs" />
+</RelativeLayout>

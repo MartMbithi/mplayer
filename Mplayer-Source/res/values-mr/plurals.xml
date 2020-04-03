@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="edit_album_all_songs_warn">
+        <item quantity="other">वर केलेले बदल या अल्बमच्या %1$d गाण्यांना लागू केली जाईल.</item>
+        <item quantity="one">वर केलेले बदल या अल्बमच्या %1$d गाण्याला लागू केली जाईल.</item>
+    </plurals>
+    <plurals name="edit_artist_all_songs_warn">
+        <item quantity="other">वर केलेले बदल या कलाकाराच्या %1$d गाण्यांना लागू केली जाईल.</item>
+        <item quantity="one">वर केलेले बदल या कलाकाराच्या %1$d गाण्याला लागू केली जाईल.</item>
+    </plurals>
+    <plurals name="edit_genre_all_songs_warn">
+        <item quantity="other">वर केलेले बदल या शैलीच्या %1$d गाण्यांना लागू केली जाईल.</item>
+        <item quantity="one">वर केलेले बदल या शैलीच्या %1$d गाण्याला लागू केली जाईल.</item>
+    </plurals>
+    <plurals name="options_for_x_album_songs">
+        <item quantity="other">या अल्बमच्या %1$d गाण्यांसाठी पर्याय</item>
+        <item quantity="one">या अल्बमच्या %1$d गाण्यासाठी पर्याय</item>
+    </plurals>
+    <plurals name="options_for_x_artist_songs">
+        <item quantity="other">या कलाकाराच्या %1$d गाण्यांसाठी पर्याय</item>
+        <item quantity="one">या कलाकाराच्या %1$d गाण्यासाठी पर्याय</item>
+    </plurals>
+    <plurals name="options_for_x_folder_songs">
+        <item quantity="other">या फोल्डरच्या %1$d गाण्यांसाठी पर्याय</item>
+        <item quantity="one">या फोल्डरच्या %1$d गाण्यासाठी पर्याय</item>
+    </plurals>
+    <plurals name="options_for_x_genre_songs">
+        <item quantity="other">या शैलीच्या %1$d गाण्यांसाठी पर्याय</item>
+        <item quantity="one">या शैलीच्या %1$d गाण्यासाठी पर्याय</item>
+    </plurals>
+    <plurals name="options_for_x_playlist_songs">
+        <item quantity="other">या सूचीच्या %1$d गाण्यांसाठी पर्याय</item>
+        <item quantity="one">या सूचीच्या %1$d गाण्यासाठी पर्याय</item>
+    </plurals>
+    <plurals name="options_for_x_search_songs">
+        <item quantity="other">शोधलेल्या %1$d गाण्यांसाठी पर्याय</item>
+        <item quantity="one">शोधलेल्या %1$d गाण्यासाठी पर्याय</item>
+    </plurals>
+    <plurals name="options_for_x_selected_songs">
+        <item quantity="other">निवडलेल्या %1$d गाण्यांसाठी पर्याय</item>
+        <item quantity="one">निवडलेल्या %1$d गाण्यासाठी पर्याय</item>
+    </plurals>
+    <plurals name="share_X_songs_via">
+        <item quantity="other">याद्वारे हे %1$d गाणी शेअर करा…</item>
+        <item quantity="one">याद्वारे हे %1$d गाणे शेअर करा…</item>
+    </plurals>
+    <plurals name="x_albums">
+        <item quantity="other">%1$d अल्बम्स</item>
+        <item quantity="one">%1$d अल्बम</item>
+    </plurals>
+    <plurals name="x_artists">
+        <item quantity="other">%1$d कलाकार</item>
+        <item quantity="one">%1$d कलाकार</item>
+    </plurals>
+    <plurals name="x_files_deleted_successfully">
+        <item quantity="other">%1$d फाइल्स यशस्वीरित्या संचयनावरुन हटविले</item>
+        <item quantity="one">%1$d फाइल यशस्वीरित्या संचयनावरुन हटविले</item>
+    </plurals>
+    <plurals name="x_folders">
+        <item quantity="other">%1$d फोल्डर्स</item>
+        <item quantity="one">%1$d फोल्डर</item>
+    </plurals>
+    <plurals name="x_genres">
+        <item quantity="other">%1$d शैली</item>
+        <item quantity="one">%1$d शैली</item>
+    </plurals>
+    <plurals name="x_out_of_y_song_info_cannt_be_edited">
+        <item quantity="other">%2$d पैकी %1$d गाण्याची माहिती संपादित करु शकत नाही!</item>
+        <item quantity="one">%2$d पैकी %1$d गाण्याची माहिती संपादित करु शकत नाही!</item>
+    </plurals>
+    <plurals name="x_outof_y_scanned">
+        <item quantity="other">%2$d नवीन फाइल्स पैकी %1$d स्कॅन केली</item>
+        <item quantity="one">%2$d नवीन फाइल पैकी %1$d स्कॅन केले</item>
+    </plurals>
+    <plurals name="x_song_add_queue_no">
+        <item quantity="other">%1$d गाणी रांग #%2$d मध्ये जोडली</item>
+        <item quantity="one">%1$d गाणे रांग #%2$d मध्ये जोडले</item>
+    </plurals>
+    <plurals name="x_song_remove_fav">
+        <item quantity="other">%1$d गाणी आवडतेमधून काढली</item>
+        <item quantity="one">%1$d गाणे आवडतेमधून काढले</item>
+    </plurals>
+    <plurals name="x_songs_add_current_queue">
+        <item quantity="other">%1$d गाणी वर्तमान वाजत असलेल्या रांगेत जोडली</item>
+        <item quantity="one">%1$d गाणे वर्तमान वाजत असलेल्या रांगेत जोडले</item>
+    </plurals>
+    <plurals name="x_songs_add_fav">
+        <item quantity="other">%1$d गाणी आवडतेमध्ये जोडली</item>
+        <item quantity="one">%1$d गाणे आवडतेमध्ये जोडले</item>
+    </plurals>
+    <plurals name="x_songs_added_after_current">
+        <item quantity="other">%1$d गाणी वर्तमान गाण्यानंतर जोडली</item>
+        <item quantity="one">%1$d गाणे वर्तमान गाण्यानंतर जोडला</item>
+    </plurals>
+    <plurals name="x_songs_added_to_playlist_y">
+        <item quantity="other">%1$d नवीन गाणी प्लेलिस्ट %2$s ला जोडली.</item>
+        <item quantity="one">%1$d नवीन गाणे प्लेलिस्ट %2$s ला जोडले.</item>
+    </plurals>
+    <plurals name="x_songs_found">
+        <item quantity="other">%1$d गाणी सापडली</item>
+        <item quantity="one">%1$d गाणे सापडले</item>
+    </plurals>
+    <plurals name="x_songs_in_this_external_playlist">
+        <item quantity="other">%1$d गाणी या बाह्य प्लेलिस्टमध्ये आढळली</item>
+        <item quantity="one">%1$d गाणे या बाह्य प्लेलिस्टमध्ये आढळले</item>
+    </plurals>
+    <plurals name="x_songs_in_this_folder">
+        <item quantity="other">या फोल्डरमध्ये %1$d गाणी</item>
+        <item quantity="one">या फोल्डरमध्ये %1$d गाणे</item>
+    </plurals>
+    <plurals name="x_songs_selected">
+        <item quantity="other">%1$d गाणी निवडली</item>
+        <item quantity="one">%1$d गाणे निवडले</item>
+    </plurals>
+    <plurals name="x_songs_will_be_deleted_sure">
+        <item quantity="other">आपल्या डिव्हाइसवरून %1$d गाणी कायमचे हटविले जातील. हे पूर्ववत केले जाऊ शकत नाही.</item>
+        <item quantity="one">आपल्या डिव्हाइसवरून %1$d गाणे कायमचे हटविले जाईल. हे पूर्ववत केले जाऊ शकत नाही.</item>
+    </plurals>
+    <plurals name="x_times_before">
+        <item quantity="other">%1$d वेळेस आधी</item>
+        <item quantity="one">%1$d वेळ आधी</item>
+    </plurals>
+    <plurals name="x_was_already_there">
+        <item quantity="other">%1$d आधीपासूनच तेथे होते.</item>
+        <item quantity="one">%1$d आधीपासूनच तेथे होता.</item>
+    </plurals>
+</resources>

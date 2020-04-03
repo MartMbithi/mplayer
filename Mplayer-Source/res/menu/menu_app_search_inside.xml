@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_tresdots" android:id="@id/mi_main_menu" android:title="@string/main_menu" app:showAsAction="always">
+        <menu>
+            <group>
+                <item android:icon="@drawable/ic_search_dark" android:id="@id/mi_search" android:title="@string/search" />
+                <item android:icon="@drawable/ic_equalizer_dark" android:id="@id/mi_equalizer" android:title="@string/equalizer" />
+                <item android:icon="@drawable/ic_sleep_timer_dark" android:id="@id/mi_sleep_timer" android:title="@string/sleep_timer" />
+            </group>
+            <group>
+                <item android:icon="@drawable/ic_autorenew_black_24dp" android:id="@id/mi_forceRescan" android:visible="false" android:title="@string/force_to_rescan" app:showAsAction="never" />
+                <item android:icon="@drawable/ic_settings_dark" android:id="@id/mi_settings" android:title="@string/settings" app:showAsAction="never" />
+                <item android:icon="@drawable/ic_about_dark" android:id="@id/mi_about" android:title="@string/help_and_info" app:showAsAction="never" />
+            </group>
+            <group>
+                <item android:icon="@drawable/ic_power_dark" android:id="@id/mi_exit" android:title="@string/close_app" app:showAsAction="never" />
+            </group>
+        </menu>
+    </item>
+</menu>

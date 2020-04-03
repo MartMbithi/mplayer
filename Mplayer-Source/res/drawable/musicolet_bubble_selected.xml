@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/glowig_ring" android:left="-15.0dip" android:top="-15.0dip" android:right="-15.0dip" android:bottom="-15.0dip" />
+    <item android:drawable="@drawable/musicolet_mono_24dp" />
+</layer-list>

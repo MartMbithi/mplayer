@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Black_AMOLED">Czarny (AMOLED)</string>
+    <string name="DarkTheme">Ciemny motyw</string>
+    <string name="Folder_tab_structure">Struktura karty folderów</string>
+    <string name="LightTheme">Jasny motyw</string>
+    <string name="_0_times_before">0 razy wcześniej</string>
+    <string name="a_b_repeat">Powtarzanie A-B</string>
+    <string name="a_quick_tip_about_queue">Wskazówki odnośnie karty kolejek</string>
+    <string name="abc_action_bar_home_description">Przejdź do strony głównej</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Przejdź wyżej</string>
+    <string name="abc_action_menu_overflow_description">Więcej opcji</string>
+    <string name="abc_action_mode_done">Gotowe</string>
+    <string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
+    <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
+    <string name="abc_capital_off">WYŁ.</string>
+    <string name="abc_capital_on">WŁ.</string>
+    <string name="abc_search_hint">Szukaj…</string>
+    <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
+    <string name="abc_searchview_description_query">Wyszukiwane hasło</string>
+    <string name="abc_searchview_description_search">Szukaj</string>
+    <string name="abc_searchview_description_submit">Wyślij zapytanie</string>
+    <string name="abc_searchview_description_voice">Wyszukiwanie głosowe</string>
+    <string name="abc_shareactionprovider_share_with">Udostępnij dla</string>
+    <string name="abc_shareactionprovider_share_with_application">Udostępnij dla %s</string>
+    <string name="abc_toolbar_collapse_description">Zwiń</string>
+    <string name="accent_color">Akcent kolorystyczny</string>
+    <string name="adapt_from_aa">Wykorzystaj kolor z okładki albumu</string>
+    <string name="adaptive_color_controls">Dopasowany kolor dla kontrolek</string>
+    <string name="add_folder">Dodaj folder</string>
+    <string name="add_its_songs_to_favorites">Dodaj jej utwory do ulubionych</string>
+    <string name="add_its_songs_to_playlist">Dodaj jej utwory do listy odtwarzania</string>
+    <string name="add_shortcut_in_main_menu">Dodaj skrót do głównego menu</string>
+    <string name="add_this_folder">Dodaj ten folder</string>
+    <string name="add_to_a_playlist">Dodaj do listy odtwarzania</string>
+    <string name="add_to_a_queue">Dodaj do kolejki</string>
+    <string name="add_to_currently_playing_queue">Dodaj do obecnie odtwarzanej kolejki</string>
+    <string name="add_to_favorites">Dodaj do ulubionych</string>
+    <string name="advance">Zaawansowane</string>
+    <string name="aks_to_resume">Zapytaj, aby wznowić</string>
+    <string name="album">Album</string>
+    <string name="album_art">Okładka albumu</string>
+    <string name="album_asc">Album, A-Z</string>
+    <string name="album_dsc">Album, Z-A</string>
+    <string name="album_tab_not_found">Brak karty z albumami! Aktywuj kartę albumów w ustawieniach.</string>
+    <string name="album_view_mode">Sposób podglądu albumów</string>
+    <string name="albums">Albumy</string>
+    <string name="all_songs">Wszystkie utwory</string>
+    <string name="allowed_delay_explain">"
+Dla drugiego i trzeciego naciśnięcia: 700 milisekund
+
+Dla naciśnięcia >4: 3 sekundy (dopuszczone jest długie opóźnienie, aby wygodnie dało się szybko przewijać utwór do przodu.)
+
+To tylko jako uwaga. Nie możesz tutaj niczego zmienić.
+"</string>
+    <string name="allowed_delays_info">Kliknij tutaj, aby poznać przyjęte opóźnienia między dwoma kolejnymi naciśnięciami przycisku słuchawki</string>
+    <string name="allowed_delays_title">Przyjęte opóźnienia pomiędzy dwoma kolejnymi naciśnięciami przycisku słuchawki</string>
+    <string name="alread_have_same_name_playlist">Już istnieje lista odtwarzania z tą samą nazwą!</string>
+    <string name="already_a_queue_with_name_x">Już istnieje kolejka o nazwie %1$s</string>
+    <string name="always_play_prev_song">Zawsze odtwarzaj poprzedni utwór</string>
+    <string name="ans_a_quick_tip_about_queue">"Jeśli chcesz wiedzieć, który utwór z wybranej kolejki jest aktualnie odtwarzany, naciśnij licznik utworów na karcie kolejek. (Licznik utworów wygląda następująco: Y/Z, gdzie Y to pozycja bieżącego utworu w kolejce składającej się z Z utworów).
+
+
+Aby usunąć utwór z kolejki, przeciągnij go w prawo za dwie kreski po lewej stronie."</string>
+    <string name="ans_audio_formats_supported">"
+Musicolet wykorzystuje dekodery mediów, które oryginalnie zainstalowano na urządzeniu, tak więc jeżeli dany format audio jest obsługiwany przez urządzenie, to jest też wspierany przez Musicoleta. Zobacz &lt;a href='https://developer.android.com/guide/topics/media/media-formats.html'>obsługiwane formaty&lt;/a>. (W zależności od modelu, mogą być pewne różnice)
+"</string>
+    <string name="ans_does_transmit_data_in_background">"
+Nie. Musicolet to aplikacja, która działa 100% offline. Nie przesyła nawet takich informacji jak statystyki użytkowania czy inne raporty.
+
+W istocie, z technicznego punktu widzenia aplikacja w ogóle nie może korzystać z internetu. Nie daliśmy jej (celowo) możliwości 
+sięgania po stosowne uprawnienie. Bez „uprawnienia do łączenia się z internetem\" (znanego też jako „uprawnienie do pełnego dostępu do sieci\") żadna aplikacja na Androida nie może korzystać z internetu. Takie są fakty.
+
+Aby się o tym przekonać można zajrzeć do informacji o aplikacji Musicolet > „uprawnienia\" > „wszystkie uprawnienia\". Albo wejść na stronę Musicoleta w Sklepie Google Play i sprawdzić „szczegóły uprawnień\" na dole strony. Nie ma tam żadnych uprawnień związanych z dostępem do sieci."</string>
+    <string name="ans_equalizer_not_working_q">"Do manipulacji dźwiękiem Musicolet wykorzystuje komponenty AudioFX systemu Android. Jeśli producent urządzenia zmienił te komponenty i nie idzie za wytycznymi AOSP, korektor może nie działać.
+
+Jeśli korektor Musicoleta nie działa, można spróbować systemowego korektora, o ile urządzenie go posiada. Aby to sprawdzić, idź: „Musicolet\" > „ustawienia\" > „audio\" > „używany korektor graficzny\"."</string>
+    <string name="ans_facts_about_queues">"
+Można mieć maksymalnie 20 kolejek. 
+
+Pamiętaj, że zbyt wiele kolejek z dużą ilością utworów może ograniczać wydajność oraz wydłużać czasy: otwierania i zamykania aplikacji. Zaleca się usuwanie starszych kolejek jeśli nie są już potrzebne. 
+
+Jeśli nazwa kolejki brzmi „Wszystkie utwory\", „Folder123\", „Ostatnio dodane utwory\" albo „AlbumXYZ\", to nie odwołuje się tym samym do faktycznych „Wszystkich utworów\", „Folderu123\", „Ostatnio dodanych utworów\" ani „AlbumuXYZ\". Po prostu ma identyczną nazwę. Możesz ją nazwać jak chcesz. Po stworzeniu kolejki, kiedy dodasz do fonoteki jakieś nowe utwory, te nie pojawią się w żadnej kolejce. Aby zobaczyć faktyczną, aktualizowaną listę utworów przejdź do stosownych kart. Tzn. aby zobaczyć faktyczny „AlbumXYZ\" przejdź do karty albumów (nie szukaj go w kolejce nazwanej „AlbumXYZ\"), aby zobaczyć rzeczywisty „Folder123\" przejdź do karty folderów, „Wszystkie utwory\" oraz „Ostatnio dodane utwory\" znajdziesz na karcie list odtwarzania, itp. 
+
+Każda kolejka musi mieć unikalną nazwę, różną od nazw innych kolejek. 
+
+Nie ma możliwości dublowania utworów w kolejce."</string>
+    <string name="ans_how_can_you_appreciate_our_work">"
++ Przyznając nam 5 gwiazdek w sklepie Google Play,
+
++ Mówiąc znajomym o tej niesamowitej aplikacji,
+
++ Poprzez polubienie naszej strony na &lt;a href=https://facebook.com/musicolet>Facebooku&lt;/a> i śledzenie nas na &lt;a href=https://twitter.com/musicolet>Twitterze&lt;/a> oraz &lt;a href=https://instagram.com/musicolet>Instagramie&lt;/a>.
+"</string>
+    <string name="ans_music_playback_suddenlt_stops">"
+&lt;b>Krótka odpowiedź:&lt;/b> &lt;a href=https://youtu.be/J9-8Ct0n6c0>zobacz ten film&lt;/a>
+
+
+&lt;b>Długa, ale konkretna odpowiedź:&lt;/b>
+ROMy Xiaomi MIUI stosują bardzo agresywne &lt;a href='https://en.wikipedia.org/wiki/Memory_management_(operating_systems)'>zarządzanie pamięcią (zarządzanie RAMem)&lt;/a>. Podczas wykonywania wielu zadań MIUI wyłącza aplikacje w tle (=aplikacje, których nie widać na ekranie) w celu zwiększenia wolnej pamięci RAM.
+
+W większości przypadków taka strategia jest niepotrzebna. Ponadto wbudowany Android naprawdę dobrze sobie radzi z zarządzaniem pamięcią. Robi to niezawodnie i perfekcyjnie.
+
+Niestety, MIUI stosuje własny system zarządzania pamięcią. Decyzja MIUI dotycząca tego, „która aplikacja zostanie wyłączona jako pierwsza\" bywa czasami niewłaściwa.
+
+&lt;b>Z tego powodu Musicolet jest wyłączany przez MIUI, kiedy słuchasz muzyki w tle podczas korzystania z innych aplikacji.&lt;/b>
+
+&lt;b>Rozwiązanie?&lt;/b>
+Ponieważ opisany problem z MIUI jest dobrze znany, na wielu forach w internecie toczy się sporo dyskusji na ten temat. Niektórzy użytkownicy znaleźli sposoby aby poprawić działanie MIUI poprzez zmianę ustawień z opcji dewelopera.
+&lt;b>Tutaj można znaleźć film ze szczegółowymi wskazówkami:&lt;/b> &lt;a href=https://youtu.be/J9-8Ct0n6c0>https://youtu.be/J9-8Ct0n6c0&lt;/a>
+"</string>
+    <string name="ans_shuffle_mode_vs_randomize">"
+Tryb tasowania nie pozwala przewidzieć kolejnego utworu zanim ten będzie faktycznie odtwarzany. Opcja „odtwarzaj po bieżącym utworze\" także nie będzie działać, kiedy tryb tasowania jest włączony.
+
+Alternatywą dla trybu tasowania jest losowanie. Wyłącz tryb tasowania > przejdź do karty kolejek > kliknij na ikonę sortowania > zaznacz „losowanie\". W ten sposób utwory z aktualnej kolejki zostaną ułożone w losowej kolejności (co przypomina tryb tasowania), a Ty zobaczysz nowe, losowe ułożenie utworów i poznasz, który utwór będzie odtwarzany jako następny."</string>
+    <string name="ans_what_is_diff_queues_playlists">Kolejka to tymczasowa lista utworów, która określa kolejność, w jakiej utwory są odtwarzane. Kolejki znajdują się na pierwszej karcie. Można zmieniać pozycję utworu w kolejce poprzez przeciąganie go za dwie kreski po lewej stronie.</string>
+    <string name="ans_what_is_multiple_queue_concept">"
+Musicolet jest JEDYNYM odtwarzaczem muzyki na Androida, który obsługuje szereg kolejek jednocześnie. 
+
+Zalety wielu kolejek: 
+1. Podczas słuchania utworów z jednej kolejki można przygotować dodatkowe kolejki odtwarzania. 
+
+2. Załóżmy, że utworzyłeś fajną kolejkę, ale nie masz możliwości tworzenia wielu kolejek (tzn. jeśli możesz utworzyć tylko 1 kolejkę, co ma miejsce w innych aplikacjach muzycznych) i podczas przeglądania fonoteki przypadkowo kliknąłeś jakiś utwór z listy odtwarzania/albumów/wyszukiwania/itd. Wtedy, przy jednej dostępnej kolejce, dotychczasowa kolejka zostanie zastąpiona nową listą utworów (co ma miejsce w przypadku większości innych aplikacji muzycznych) albo wszystkie utwory z odwiedzanej listy odtwarzania/albumu/itd. zostaną dodane do oryginalnej kolejki. W ten sposób stracisz kolejkę, która powstała wcześniej. Dzięki obsłudze wielu kolejek, Musicolet nie dopuszcza do takich sytuacji. W wypadku jak powyżej Musicolet utworzy nową kolejkę, a wcześniejsza pozostanie nienaruszona. 
+
+3. Musicolet pamięta też aktualnie odtwarzane utwory każdej kolejki. 
+
+Co więcej, można nadać tymczasową nazwę każdej kolejce i w dowolnej chwili zmienić na inną. Można też zapisać dowolną kolejkę jako listę odtwarzania."</string>
+    <string name="ans_where_are_widgets">"
+&lt;b>„Gdy jakaś aplikacja na Androida zostaje zainstalowana na karcie SD lub przeniesiona na kartę SD, część funkcjonalności aplikacji, włączając w to widżety, zostaje zablokowana.\"&lt;/b>
+
+Ta zasada dotyczy aplikacji na androida, do których zalicza się Musicolet. Tak więc, &lt;b>jeśli chcesz używać widżetów, Musicolet powinien zostać zainstalowany w pamięci wewnętrznej, a nie na karcie SD&lt;/b>.
+
+
+Możesz zauważyć:
+
+&lt;b>Nie instalowałem aplikacji na karcie SD. Została tam zainstalowana automatycznie.&lt;/b>
+
+Odpowiedź: Mamy (my, tzn. twórcy aplikacji) tylko dwa wyjścia: zgodzić się na instalację aplikacji na karcie SD, lub nie. Ponieważ wielu użytkowników (posiadających urządzenia z małą pamięcią wewnętrzną) prosiło o tę możliwość, zgodziliśmy się, aby aplikacja mogła być instalowana na karcie SD.
+Ale decyzję, gdzie aplikacja zostanie faktycznie zainstalowana podejmuje system Android. Nie mamy na to żadnego wpływu.
+
+
+&lt;b>Jak przenieść aplikację do pamięci wewnętrznej?&lt;/b>
+
+Odpowiedź: (a) Przejdź do ustawień urządzenia > aplikacje (w niektórych urządzeniach trzeba zajrzeć do ustawień zaawansowanych) > odszukaj aplikację „Musicolet\" i kliknij ją > odszukaj i kliknij przycisk z napisem  „przenieś do pamięci wewnętrznej\", albo (b) Google „Jak przenieść aplikację do pamięci wewnętrznej w [TUTAJ NAZWA TWOJEGO URZĄDZENIA]\"
+"</string>
+    <string name="ans_where_is_genre_tab">Idź do: „Musicolet\" > „ustawienia\" > „ustal kolejność kart\". Jeśli nie znajdziesz tutaj karty gatunków, to niestety oznacza, że gatunki nie są obsługiwane na Twoim urządzeniu. W niektórych starszych wersjach Androida jest masa błędów związanych z gatunkami w mediastore db. Ponieważ Musicolet jest od tego ostatniego uzależniony, obsługa gatunków na takich urządzeniach jest niemożliwa.</string>
+    <string name="ans_why_cannt_edit_some_tags">"
+Jeżeli utwór zawiera uszkodzone znaczniki ID3 albo nie zezwala na zapis znaczników ID3 albo powstały inne problemy, wtedy znaczników takiego utworu nie będzie można edytować."</string>
+    <string name="ans_why_cant_find_newly_added_songs">"
+Zobacz, czy nie szukasz nowo dodanego utworu w kolejce na karcie kolejek (pierwsza karta). Szukaj na pozostałych kartach, ponieważ kolejki zdecydowanie różnią się od list odtwarzania.&lt;br/>
+
+Upewnij się też, że: folder, w którym znajdują się twoje utwory lub &lt;b>któryś z jego folderów nadrzędnych&lt;/b>&amp;#8230;&lt;br/>
+
+1) &amp;#8230;nie został dodany do listy folderów wykluczonych ze skanowania (patrz: Musicolet > ustawienia > fonoteka > wyklucz folder')&lt;br/>
+
+2) &amp;#8230;nie został ukryty, a jego nazwa nie zaczyna się od .(kropki)&lt;br/>
+
+3) &amp;#8230;nie jest prywatnym folderem jakiejś aplikacji&lt;br/>
+
+4) &amp;#8230;nie zawiera pliku o nazwie „,nomedia\" (pliki .nomedia są zazwyczaj ukryte w menedżerach plików)&lt;br/>&lt;br/>
+
+Jeżeli nadal nie możesz znaleźć swoich utworów, przeczytaj poniżej:&lt;br/>&lt;br/>
+Musicolet wykonuje szybkie skanowanie w poszukiwaniu nowych utworów przy każdym uruchomieniu. Aby skanowanie odbywało się szybko i oszczędzało baterię, aplikacja wykorzystuje &lt;b>komponent MediaStorage&lt;/b> Androida. MediaStorage to potężny mechanizm, który służy w Androidzie do przeszukiwania i prowadzenia rejestru plików w pamięci wewnętrznej i zewnętrznej. Zależy od niego wiele aplikacji, włączając w to Galerię.
+
+Niestety, czasami aplikacje (jak menedżer plików, przeglądarki, aplikacje udostępniające pliki itd., z których pobrano/skopiowano/przeniesiono nowe utwory) nie informują komponentu MediaStorage Androida o zmianach, które ostatnio wprowadziły. W rezultacie MediaStorage nie będzie nic o nich wiedział. To częsta przyczyna problemów z odnajdywaniem nowych utworów w Musicolecie.
+Rozwiązanie:
+(1) Wymuś powtórne skanowanie. (Przejdź do ustawień aplikacji Musicolet > fonoteka > wymuś powtórne skanowanie)
+
+ lub 
+
+
+(2) Zrestartuj swoje urządzenie. Gdy zostanie zrestartowane i wszystko będzie w pełni zainstalowane, odczekaj kolejne 2-3 minuty, a potem otwórz Musicoleta i spróbuj odszukać swoje utwory.
+"</string>
+    <string name="ans_why_embedded_lyrics_why_not_online_q">"
+Musicolet jest jedną z tych rzadkich aplikacji, które nie mają uprawnienia do korzystania z internetu (czyli „uprawnienia do pełnego dostępu do sieci\"). Aby ograniczyć do minimum liczbę uprawnień, jakich wymaga Musicolet, celowo nie uwzględniliśmy tego konkretnego uprawnienia. Bez tego żadna aplikacja na Androida nie może przesyłać/odbierać danych z internetu. &lt;b>Stąd brak funkcji, które wymagają dostępu do internetu (takich jak automatyczne pobieranie tekstów utworów)&lt;/b>.
+"</string>
+    <string name="ans_why_not_auto_fetch_albumart_q">"
+Musicolet jest jedną z tych rzadkich aplikacji, które nie mają uprawnienia do korzystania z internetu (czyli „uprawnienia do pełnego dostępu do sieci\"). Aby ograniczyć do minimum liczbę uprawnień, jakich wymaga Musicolet, celowo nie uwzględniliśmy tego konkretnego uprawnienia. Bez tego żadna aplikacja na Androida nie może przesyłać/odbierać danych z internetu. &lt;b>Stąd brak funkcji, które wymagają dostępu do internetu (takich jak automatyczne pobieranie okładek albumów)&lt;/b>.
+"</string>
+    <string name="app_closed_because_of_sleep_timer">Wyłącznik czasowy zamknął Musicoleta. :)</string>
+    <string name="app_desc">Musicolet - lekki odtwarzacz muzyczny z prostym designem, lecz dużą ilością funkcji. Jedyny odtwarzacz muzyczny na Androida z obsługą wielu kolejek.</string>
+    <string name="app_really_need_your_permissions">Nadanie uprawnienia jest naprawdę niezbędne, aby aplikacja działała!</string>
+    <string name="app_reqiures_permissions_to_run">Musicolet wymaga jakiegoś uprawnienia aby działać</string>
+    <string name="appearance">Wygląd</string>
+    <string name="appling_changes">Wprowadzanie zmian</string>
+    <string name="are_you_sure_q">Jesteś pewien?</string>
+    <string name="arrange_tabs">Ustal kolejność kart</string>
+    <string name="artist">Wykonawca</string>
+    <string name="artist_asc">Wykonawca, A-Z</string>
+    <string name="artist_dsc">Wykonawca, Z-A</string>
+    <string name="artist_not_found">Brak karty z wykonawcami! Aktywuj kartę wykonawców w ustawieniach.</string>
+    <string name="artists">Wykonawcy</string>
+    <string name="attention_e">Uwaga!</string>
+    <string name="audio">Audio</string>
+    <string name="audio_formats_supported">Czy Musicolet obsługuje WMA/Opus/FLAC/ALAC?</string>
+    <string name="auto_close_app_setting">Zamknij aplikację automatycznie jeśli muzyka nie jest odtwarzana</string>
+    <string name="auto_close_app_setting_explain">Zamknij aplikację po określonym czasie jeśli aplikacja jest niewidoczna i nie odtwarza muzyki</string>
+    <string name="back">Wstecz</string>
+    <string name="background_c">Tło:</string>
+    <string name="bass_boost">Wzmocnienie basów</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="blurred_bg_explain">Pokazuje rozmytą okładkę albumu jako tło ekranu z aktualnie odtwarzanym utworem</string>
+    <string name="blurrend_bg_setting">Rozmyte tło na ekranie z aktualnie odtwarzanym utworem</string>
+    <string name="broadcast_aa_explain">Dzięki temu będzie do wykorzystania przez inną aplikację i ekran blokady systemu Android</string>
+    <string name="broadcast_album_art_setting">Prześlij okładkę albumu</string>
+    <string name="can_not_read_that_folder">Tego folderu nie da się odczytać!</string>
+    <string name="cancel">Anuluj</string>
+    <string name="cant_be_empty">Trzeba coś wpisać</string>
+    <string name="cant_edit_info_of_given_files">Nie można edytować informacji danego pliku/plików!</string>
+    <string name="caption_is_be_copied_to_clipboard">Podpis został skopiowany. Teraz wystarczy go wkleić.</string>
+    <string name="center_aligned_text">Umieść wyrównany tekst na środku</string>
+    <string name="change_album_art">Zmień okładkę albumu</string>
+    <string name="changes_will_apply_physically">Zmiany zostaną fizycznie zapisane na każdym pliku audio (w faktycznej pamięci urządzenia). Tak więc trochę to potrwa.</string>
+    <string name="choose_lang">Wybierz język</string>
+    <string name="clear">Wyczyść</string>
+    <string name="clear_search_history">Wyczyść historię wyszukiwania</string>
+    <string name="close">Zamknij</string>
+    <string name="close_app">Zamknij aplikację</string>
+    <string name="close_lyrics">Zamknij tekst utworu</string>
+    <string name="close_selection_process_after_an_option_is_selected">Zakończ proces wybierania po wyborze działania</string>
+    <string name="composer">Kompozytor</string>
+    <string name="copy_to_a_queue">Kopiuj do kolejki</string>
+    <string name="cpu_efficient_scroll">Przewijanie z odciążeniem CPU</string>
+    <string name="credits">Credits i podziękowania</string>
+    <string name="current_queue">Bieżąca kolejka</string>
+    <string name="current_queue_x_y_counter">Bieżąca kolejka (%1$d/%2$d)</string>
+    <string name="current_select_queue_eq">Nazwa aktualnie wybranej kolejki =</string>
+    <string name="custom">Własne ustawienie</string>
+    <string name="custom_order">Kolejność użytkownika</string>
+    <string name="customize_song_order_playlist_x">Ustal kolejność utworów na liście odtwarzania %1$s</string>
+    <string name="cutomize_song_order_yourself">Sam ustal kolejność utworów</string>
+    <string name="d_10_minutes">10 minut</string>
+    <string name="d_10_seconds">10 sekund</string>
+    <string name="d_1_minutes">1 minuta</string>
+    <string name="d_2_minutes">2 minuty</string>
+    <string name="d_30_seconds">30 sekund</string>
+    <string name="d_30p_length">30% czasu trwania utworu</string>
+    <string name="d_50p_length">50% czasu trwania utworu</string>
+    <string name="d_5_minutes">5 minut</string>
+    <string name="d_90p_length">90% czasu trwania utworu</string>
+    <string name="dark">Ciemne</string>
+    <string name="date_add_asc">Data dodania do fonoteki, rosnąco</string>
+    <string name="date_add_dsc">Data dodania do fonoteki, malejąco</string>
+    <string name="date_added_to_library">Data dodania do fonoteki</string>
+    <string name="date_last_played">Data ostatniego odtwarzania</string>
+    <string name="date_mod_asc">Data modyfikacji, rosnąco</string>
+    <string name="date_mod_dsc">Data modyfikacji, malejąco</string>
+    <string name="date_modified">Data modyfikacji</string>
+    <string name="date_play_asc">Data ostatniego odtwarzania, rosnąco</string>
+    <string name="date_play_dsc">Data ostatniego odtwarzania, malejąco</string>
+    <string name="delete">Usuń</string>
+    <string name="delete_permanently">Trwale usuń</string>
+    <string name="delete_this_backup">Usuń tę kopię zapasową</string>
+    <string name="delete_this_external_playlist">Usuń tę zewnętrzną listę odtwarzania</string>
+    <string name="delete_this_preset">Usuń to ustawienie</string>
+    <string name="deselct_all_songs_album">Odznacz wszystkie utwory z tego albumu</string>
+    <string name="deselct_all_songs_genre">Odznacz wszystkie utwory tego gatunku</string>
+    <string name="deselect_all_from_this_list">"odznacz wszystko
+z tej listy"</string>
+    <string name="deselect_all_songs_artist">Odznacz wszystkie utwory tego wykonawcy</string>
+    <string name="deselect_all_songs_folder">Odznacz wszystkie utwory w tym folderze</string>
+    <string name="deselect_all_songs_playlist">Odznacz wszystkie utwory z tej listy odtwarzania</string>
+    <string name="deselect_all_songs_sub_folder">Odznacz wszystkie utwory w tym folderze i wszystkich podfolderach</string>
+    <string name="disclaimer_earphone_actions">Uwaga: ustawienia przycisków słuchawek mogą nie działać na niektórych urządzeniach. Kliknij aby przeczytać wyjaśnienie.</string>
+    <string name="do_in_background">Wykonaj w tle</string>
+    <string name="do_nothing">Nic nie rób</string>
+    <string name="does_transmit_data_in_background">Czy Musicolet przesyła jakiekolwiek dane przez internet?</string>
+    <string name="done">Zrobione</string>
+    <string name="double_press_action">Działanie dwukrotnego naciśnięcia przycisku słuchawki</string>
+    <string name="dragger_explain">Przytrzymaj tutaj i przeciągnij w górę/w dół aby zmienić kolejność</string>
+    <string name="duration">Czas trwania</string>
+    <string name="duration_asc">Długość, rosnąco</string>
+    <string name="duration_dsc">Długość, malejąco</string>
+    <string name="earphone_button_descaimer_explain">Niektórzy producenci umieszczają na wbudowanym Androidzie własną nakładkę z kodem; takie urządzenia obsługują przyciski słuchawek według własnych zasad i nie pozwalają, aby aplikacje przejęły sterowanie. Tak więc, urządzenie nakazuje Musicoletowi odtwarzać następny/poprzedni utwór, ale nigdy nie sygnalizuje, że przycisk słuchawki jest naciśnięty. Nie możemy nic z tym zrobć.</string>
+    <string name="edit_album_info">Edytuj informację o albumie</string>
+    <string name="edit_artist_info">Edytuj informację o wykonawcy</string>
+    <string name="edit_genre_info">Edytuj informację o gatunku</string>
+    <string name="edit_info">Edytuj informacje</string>
+    <string name="edit_lyrics">Edytuj tekst utworu</string>
+    <string name="edit_song_info">Edytuj informacje o utworze</string>
+    <string name="embedded_lyrics_appearance">Wygląd tekstu osadzonego w utworze</string>
+    <string name="empty_queue_cannt_resume">Ta kolejka jest pusta. Nie można jej wznowić.</string>
+    <string name="empty_queue_cannt_scroll_to_current_song">Kolejka jest pusta! Nie można przewinąć do bieżącego utworu!</string>
+    <string name="enable_document_app_first">Nie znaleziono aplikacji „Dokumenty\". Proszę włączyć aplikację „Dokumenty\" jeżeli jest wyłączona. (Idź do: „ustawienia telefonu\" > „zainstalowane aplikacje\" > „wszystkie\" > znajdź „Dokumenty\" > włącz je). Potem spróbuj ponownie.</string>
+    <string name="end_of_current_queue">Bieżąca kolejka dobiegła końca</string>
+    <string name="end_of_current_queue_shuffle">Bieżąca kolejka dobiegła końca (w trybie tasowania)</string>
+    <string name="end_of_first_queue">Pierwsza kolejka dobiegła końca</string>
+    <string name="end_of_last_queue">Ostatnia kolejka dobiegła końca</string>
+    <string name="end_of_last_queue_shuffle">Ostatnia kolejka dobiegła końca (w trybie tasowania)</string>
+    <string name="enter_new_playlist_name">Wprowadź nazwę nowej listy odtwarzania</string>
+    <string name="equalizer">Korektor graficzny</string>
+    <string name="equalizer_not_working_q">Korektor graficzny nie działa prawidłowo?</string>
+    <string name="equalizer_to_use">Używany korektor graficzny</string>
+    <string name="error_init_equalizer">Błąd podczas inicjalizacji korektora</string>
+    <string name="error_taking_screenshot">Błąd podczas wykonywania zrzutu ekranu!</string>
+    <string name="error_while_reading_user_preset">Błąd podczas odczytu ustawienia użytkownika</string>
+    <string name="error_while_rescaning">Podczas powtórnego skanowania pojawiły się problemy</string>
+    <string name="error_while_setting_ringtone">Błąd podczas ustawiania dzwonka!</string>
+    <string name="exclude_duration_explanation">Utwory i klipy audio o długości<b> krótszej niż</b> podana poniżej będą wykluczone ze skanowania.</string>
+    <string name="exclude_folder_from_scanning">Wyklucz folder ze skanowania</string>
+    <string name="exclude_small_duration_files">Wyklucz pliki o krótkim czasie odtwarzania</string>
+    <string name="exclude_song_folder_dialog_explanation">Skanowanie pominie utwory w poniższych folderach. Utwory w<b> podfolderach</b> tych folderów<b> też nie będą skanowane</b>.</string>
+    <string name="exclude_this_folder_from_scanning">Wyklucz ten folder ze skanowania</string>
+    <string name="exclude_time_zero_value_explain">Puste pola lub wartości 0:0 nie wykluczą plików ze skanowania</string>
+    <string name="excluded_folders_list_updated">Zaktualizowano listę folderów do wykluczenia</string>
+    <string name="expandable_notif">Rozwijana forma powiadomienia</string>
+    <string name="experimental">Eksperymentalne</string>
+    <string name="explanation_force_rescan">"
+&lt;b>Czy Musicolet automatycznie skanuje urządzenie w poszukiwaniu nowych utworów?&lt;/b>
+Tak. Musicolet wyszukuje nowe utwory podczas szybkiego skanowania przy każdym uruchomieniu.
+
+&lt;b>To dlaczego trzeba wymuszać powtórne skanowanie?&lt;/b>
+Aby skanowanie przebiegało szybko i oszczędzało baterię, Musicolet wykorzystuje &lt;b>komponent MediaStorage&lt;/b> systemu Android. MediaStorage to potężny mechanizm, który służy w Androidzie do przeglądu i prowadzenia rejestru plików w wewnętrznej oraz zewnętrznej pamięci urządzenia. Korzysta z niego wiele aplikacji włączając w to Galerię.
+
+Niestety, czasami aplikacje (takie jak menedżer plików, przeglądarki, aplikacje udostępniające pliki itd., z których pobierano/kopiowano/przenoszono nowe utwory) nie informują komponentu MediaStorage Androida o zmianach, których ostatnio dokonały. W rezultacie MediaStorage nie będzie nic o nich wiedzieć. Tak wygląda powód, dla którego czasami w Musicolecie nie można znaleźć nowo dodanych utworów. Gdy inne aplikacje współpracują i prawidłowo kierują się wytycznymi MediaStorage, nie trzeba wymuszać dodatkowego skanowania.
+
+
+Tak czy owak, poniższy przycisk powtórnego skanowania zmusi mechanizm MediaStorage Androida do skanowania utworów w zaznaczonym folderze i jego podfolderze; dzięki temu Android, a następnie Musicolet odnajdą nowe utwory.
+"</string>
+    <string name="export_playlist_backup_explain">&lt;small>Stwórz kopię wewnętrznych list Musicoleta i eksportuj na zewnątrz. Dzięki temu później będzie można importować utwory z takich kopii zapasowych. Istniejąca wyeksportowana kopia zapasowa listy odtwarzania o tej samej nazwie zostanie zastąpiona nową kopią.&lt;/small></string>
+    <string name="export_playlist_for_backup">&lt;small>Eksportuj listy odtwarzania jako kopię zapasową&lt;/small></string>
+    <string name="export_playlists">Eksportuj listy odtwarzania Musicoleta jako kopię zapasową</string>
+    <string name="external_playlist_deleted">Zaznaczona zewnętrzna lista odtwarzania została z powodzeniem usunięta</string>
+    <string name="facebook">Facebook</string>
+    <string name="facts_about_queues">Więcej na temat wielu kolejek</string>
+    <string name="fade_in_when_play">Łagodnie pogłośnij zaczynając odtwarzanie</string>
+    <string name="fade_out_when_pause">Łagodnie wycisz przed pauzą</string>
+    <string name="fade_vol_effects_title">Zmiana głośności przed odtwarzaniem/pauzą</string>
+    <string name="failed">Niepowodzenie</string>
+    <string name="falied_to_delete_some_files">Fizyczne usuwanie pliku /niektórych plików z pamięci nie powiodło się!</string>
+    <string name="faqs_and_other_info">Często zadawane pytania i inne informacje</string>
+    <string name="fast_forward">Szybko do przodu</string>
+    <string name="fastforward_on_4_press_explain">Po każdym naciśnięciu przycisku słuchawek >= 4 możesz szybko przewijać utwór do przodu</string>
+    <string name="favourites">Ulubione</string>
+    <string name="file_doesnt_exist">Brak pliku!</string>
+    <string name="file_name">Nazwa pliku</string>
+    <string name="file_name_dsc">Nazwy plików, Z-A</string>
+    <string name="filename_asc">Nazwy plików, A-Z</string>
+    <string name="fit_to_square_for_instagram">Dopasuj do kwadratu dla Instagrama</string>
+    <string name="folder_exclude_warning">Zarówno ten folder jak i jego podfoldery zostaną wykluczone ze skanowania. Utwory w tych folderach będą ukryte. Czy chcesz kontynuować?</string>
+    <string name="folder_jpg_settings_explain">Użyj folder.jpg, AlbumArt.jpg itd. z tego samego folderu, jeżeli w utworze nie osadzono okładki</string>
+    <string name="folder_linear">Linearna (wszystkie foldery naraz)</string>
+    <string name="folder_tab_not_found">Brak karty z folderami! Aktywuj kartę folderów w ustawieniach.</string>
+    <string name="folders">Foldery</string>
+    <string name="follow_musicolet_on">Śledź Musicoleta na:</string>
+    <string name="for_xiaomi_miui_user">Dla użytkowników Xiaomi MIUI</string>
+    <string name="force_to_rescan">Wymuś powtórne skanowanie</string>
+    <string name="force_to_rescan_now">Wymuś powtórne skanowanie teraz</string>
+    <string name="force_to_rescan_settings_explain">Przydatne, gdy Musicolet nie widzi nowo dodanych utworów</string>
+    <string name="frequently_asked_questions_faqs">Często zadawane pytania (FAQs)</string>
+    <string name="genre">Gatunek</string>
+    <string name="genre_tab_not_found">Brak karty z gatunkami! Aktywuj kartę gatunków w ustawieniach.</string>
+    <string name="genres">Gatunki</string>
+    <string name="git_it_lets_do_it">Zrozumiałem! Zróbmy to.</string>
+    <string name="give_permissions">Przyznaj uprawnienia</string>
+    <string name="give_us_permission_for_ringtone">Przyznaj nam uprawnienie, dzięki któremu zmienimy dzwonek w telefonie</string>
+    <string name="got_it">Zrozumiałem</string>
+    <string name="grid_view">Widok siatki</string>
+    <string name="handsfree_and_speakers">Handsfree i głośniki</string>
+    <string name="help_and_info">Pomoc i informacje</string>
+    <string name="hide_embedded_lyrics">Ukryj osadzony tekst utworu</string>
+    <string name="hierarchical_folders">Hierarchiczna (foldery we folderach)</string>
+    <string name="homescrenn_widget_settings">Wygląd widżetu na ekranie startowym</string>
+    <string name="how_can_you_appreciate_our_work">Jak można wesprzeć lub docenić waszą pracę?</string>
+    <string name="i_understand_this">Rozumiem</string>
+    <string name="i_understand_this_use_x">Zrozumiałem! Użyć %1$s</string>
+    <string name="if_d_10sec_replay_else_prev">Jeśli bieżący utwór jest odtwarzany dłużej niż 10 sekund, odtwarzaj go ponownie; w przeciwnym wypadku odtwórz poprzedni</string>
+    <string name="import_playlist_dialog_title">Importuj utwory z dostępnych, zewnętrznych list odtwarzania</string>
+    <string name="import_playlists">Importuj utwory z dostępnych, zewnętrznych list odtwarzania</string>
+    <string name="in_expanded_notification">W rozwiniętym powiadomieniu…</string>
+    <string name="instagram">Instagram</string>
+    <string name="interface_">Interfejs</string>
+    <string name="jump_from_first_play_queue">Kiedy ostatnia kolejka się zakończy, przejdź do pierwszej i vice versa</string>
+    <string name="jump_to_next_queue">Przejdź do następnej kolejki</string>
+    <string name="just_stop_there">Po prostu się zatrzymaj</string>
+    <string name="lagfree_scroll_pref_explain">Ładuj okładki albumów tylko wtedy, gdy lista nie jest przewijana. To redukuje wykorzystanie procesora i zapewnia płynne przewijanie.</string>
+    <string name="language">Język</string>
+    <string name="language_not_supported_by_dev">"
+Musicolet jest rozwijany w języku angielskim. Niestety, nie rozumiemy Twojego języka. :(
+&lt;br/>&lt;br/>&lt;b>Aplikacja jest tłumaczona na niniejszy język przez naszych użytkowników.&lt;/b>.
+&lt;br/>&lt;br/>Nie ponosimy odpowiedzialności za poprawność tłumaczenia. Podczas komunikacji z nami (e-mailowo, poprzez sklep Google Play lub jakąkolwiek inną platformę) prosimy, jeśli to możliwe,  o używanie języka angielskiego.
+&lt;br/>&lt;br/>Jeśli natkniesz się na błędne tłumaczenie albo zechcesz poprawić jakość bieżącego tłumaczenia, możesz nam pomóc. Przejdź w tym celu do menu „Pomoc i informacje\", potem wybierz „Help us in translation\". &lt;b>Dziękujemy za wsparcie.&lt;/b>
+"</string>
+    <string name="least_played_first">Najpierw najrzadziej odtwarzane</string>
+    <string name="library_not_updated_completely">Fonoteka nie została w pełni zaktualizowana!</string>
+    <string name="light">Jasne</string>
+    <string name="like_this_app_q">Czy aplikacja ci się podoba?</string>
+    <string name="list_with_thumbnail">Lista z miniaturami</string>
+    <string name="list_without_thumbnail">Lista bez miniatur</string>
+    <string name="location">Położenie</string>
+    <string name="lock_screen">Ekran blokady</string>
+    <string name="looking_for_new_files">Szukanie nowych plików</string>
+    <string name="lyricist">Autor słów</string>
+    <string name="main_menu">Główne menu</string>
+    <string name="match_system_bg_dark_text">Dopasuj do systemowego tła + ciemny tekst</string>
+    <string name="match_system_bg_light_text">Dopasuj do systemowego tła + jasny tekst</string>
+    <string name="max_queue_limit_reached_1st_deleted">Osiągnięto maksymalny limit kolejek (=%1$d). Pierwsza kolejka została usunięta.</string>
+    <string name="min_duration_minutes_consider">Tylko ścieżki o czasie odtwarzania równym lub dłuższym niż wskazana liczba minut zostaną zapamiętane:</string>
+    <string name="minimum_duration_consider_playback">Minimalny czas trwania aby uznać utwór za odtworzony</string>
+    <string name="minimum_duration_consider_playback_explain">Minimalny czas odtwarzania, jaki musi upłynąć zanim utwór zostanie uznany za odtworzony</string>
+    <string name="more_about_musicolet">Więcej o aplikacji Musicolet</string>
+    <string name="most_played">Najczęściej odtwarzane</string>
+    <string name="most_played_first">Najpierw najczęściej odtwarzane</string>
+    <string name="multi_selection_controls">Kontrolki grupowego wybierania</string>
+    <string name="music_playback">Odtwarzanie muzyki</string>
+    <string name="music_playback_suddenly_stops_while_multitasking">Muzyka przestaje grać w tle podczas korzystania z innych aplikacji (wielozadaniowość)</string>
+    <string name="musicoler_ss_caption_1">"Słuchasz #%1$s, wykonawca: #%2$s, w aplikacji #musicolet…
+
+Pobierz @musicolet ze sklepu Google Play: j.mp/musicolet"</string>
+    <string name="musicoler_ss_caption_2">"Słuchasz muzyki w aplikacji #musicolet…
+
+Pobierz @musicolet ze sklepu Google Play: j.mp/musicolet"</string>
+    <string name="musicolet_equalizer">Korektor Musicoleta</string>
+    <string name="musicolet_is_updated">Musicolet został zaktualizowany!</string>
+    <string name="musicolet_lock_screen">Ekran blokady Musicoleta</string>
+    <string name="musicolet_lock_screen_desc">"Ekran blokady aplikacji Musicolet włącza podstawową kontrolę odtwarzania ponad domyślnym ekranem blokady urządzenia.
+
+
+"<small>Uwaga: odblokowanie wspomnianego ekranu Musicoleta nie odblokowuje domyślnego ekranu blokady.</small></string>
+    <string name="musicolet_lockscreen">Ekran blokady Musicoleta</string>
+    <string name="musicolet_notif">Styl Musicoleta</string>
+    <string name="musicolet_oreo_notif">Styl Musicolet + AndroidOreo</string>
+    <string name="musicolet_requires_some_permissions">Musicolet wymaga paru uprawnień!</string>
+    <string name="musicolet_simpli_perf_and_effi">Musicolet to odtwarzacz muzyczny skupiony na prostocie, wydajności i wydajności.</string>
+    <string name="mute">Głośność: 0</string>
+    <string name="needsaccess">Wymagane jest uprawnienie do zapisu na urządzeniu</string>
+    <string name="never">nigdy</string>
+    <string name="never_close_automatically">Nigdy nie zamykaj automatycznie</string>
+    <string name="new_name_here">Nowa nazwa</string>
+    <string name="new_playlist_name">Nazwa nowej listy odtwarzania</string>
+    <string name="new_queue">Nowa kolejka</string>
+    <string name="next_song">Kolejny utwór</string>
+    <string name="no">Nie</string>
+    <string name="no_app_available_to_share">Nie można udostępnić - brak aplikacji do dyspozycji!</string>
+    <string name="no_embedded_lyrics_found_this_song">W utworze nie osadzono żadnego tekstu.</string>
+    <string name="no_external_playlist_nor_backup_found">Nie znaleziono zewnętrznych list odtwarzania. Brak też eksportowanych kopii list odtwarzania Musicoleta.</string>
+    <string name="no_song_to_queue_b">[Brak utworów w kolejce]</string>
+    <string name="not_all_device_support_system_eq">Nie wszystkie urządzenia na Androida obsługują systemowy korektor</string>
+    <string name="not_enough_cache_memory_ro_edit_info">Zbyt mało pamięci podręcznej w urządzeniu aby edytować informacje o utworze!</string>
+    <string name="not_enough_ram_for_action">Ilość wolnego RAMu nie pozwala na wykonanie tego działania</string>
+    <string name="not_valid_folder">Brak odpowiedniego folderu</string>
+    <string name="notif_appear">Wygląd powiadomień</string>
+    <string name="notif_style_c">Styl powiadomień:</string>
+    <string name="notif_warning">Do tworzenia powiadomień w Androidzie wykorzystuje się RemoteViews. Aplikacje generują RemoteViews i przesyłają do systemowego UI, który je potem renderuje i obsługuje. ROM może do nich wprowadzać własne zmiany. Z tego powodu ustawienia użytkownika mogą nie działać na niektórych urządzeniach lub ROMach.</string>
+    <string name="notif_warning_title">W niektórych urządzeniach powyższe ustawienia mogą nie działać.<u>Kliknij tutaj</u> aby zobaczyć wyjaśnienie.</string>
+    <string name="nowSelecttionProcessCloseOnAction">Teraz, gdy wskażesz działanie, proces wybierania zostanie zakończony</string>
+    <string name="nowSelecttionProcessWillNotCloseOnAction">Teraz możesz wykonać więcej niż jedno działanie na zaznaczonych utworach. Utwory te pozostaną zaznaczone.</string>
+    <string name="now_playing">Obecnie odtwarzane</string>
+    <string name="now_showing_filenames">Teraz zamiast tytułów wszędzie będzie widać nazwy plików</string>
+    <string name="now_showing_titles">Teraz zamiast nazw plików wszędzie będzie widać tytuły</string>
+    <string name="ok">OK</string>
+    <string name="open_source_lic"><u>Licencje open source</u></string>
+    <string name="options">Opcje</string>
+    <string name="options_for_listed_songs">Opcje dla utworów z listy</string>
+    <string name="options_for_songs_folder_subfolder">Opcje dla wszystkich utworów w tym folderze i jego podfolderze</string>
+    <string name="options_for_songs_in_this_folder">Opcje dla utworów w tym folderze</string>
+    <string name="options_for_this_song">Opcje dla tego utworu</string>
+    <string name="paste">Wklej</string>
+    <string name="paste_or_write_lyrics_here">Wklej albo wpisz tutaj tekst utworu</string>
+    <string name="pause_when_disconnect">Pauzuj po rozłączeniu</string>
+    <string name="pause_when_disconnect_explain">Pauzuj muzykę gdy zestaw słuchawkowy, głośnik lub bluetooth zostaje odłączony</string>
+    <string name="permission_reqired">Potrzebne jest uprawnienie!</string>
+    <string name="play">Odtwarzaj</string>
+    <string name="play_after_current_song">Odtwarzaj po bieżącym utworze</string>
+    <string name="play_next_song">Odtwarzaj kolejny utwór</string>
+    <string name="play_or_pause">Odtwarzaj lub pauzuj</string>
+    <string name="play_queue">Kolejka</string>
+    <string name="play_speed">Prędkość odtwarzania</string>
+    <string name="played">Odtwarzane</string>
+    <string name="playlist_exported_Success">Zaznaczona lista odtwarzania została z powodzeniem eksportowana</string>
+    <string name="playlist_order_saved">Zapisano kolejność utworów na liście</string>
+    <string name="playlist_tab_cant_be_hidden">Karta list odtwarzania nie może zostać ukryta</string>
+    <string name="playlists">Listy odtwarzania</string>
+    <string name="please_wait">Proszę czekać</string>
+    <string name="preset_name">Nazwa ustawienia</string>
+    <string name="previous_song">Poprzedni utwór</string>
+    <string name="previous_song_behaviour_setting">Funkcja przycisku „poprzedni utwór\"</string>
+    <string name="previous_song_behaviour_setting_explain">Określa, co zrobić po kliknięciu przycisku „poprzedni utwór\" w odtwarzaczu, na pasku powiadomień lub ekranie blokady, oraz w zestawie słuchawkowym</string>
+    <string name="queue_instead_fav">Skrót do kolejki zamiast przycisku ulubionych</string>
+    <string name="queues">Kolejki</string>
+    <string name="queues_and_playlists">Kolejki i listy odtwarzania</string>
+    <string name="randomize">Losowo</string>
+    <string name="rate_us_5_stars">Przyznaj nam 5 gwiazdek</string>
+    <string name="read_them_first_click_here">Najpierw je przeczytaj. Kliknij tutaj.</string>
+    <string name="recently_added">Ostatnio dodane</string>
+    <string name="reload_metadata_settings">Pobierz metadane znaczników z pamięci</string>
+    <string name="reload_metadata_settings_explain">Pobierz metadane znaczników z pamięci i aktualizuj znaczniki utworów we wszystkich kolejkach i listach odtwarzania.</string>
+    <string name="rem_pos_indie_songs">Zapamiętaj ostatnie pozycje odtwarzania wszystkich ścieżek</string>
+    <string name="remove_album_art">Usuń okładkę albumu</string>
+    <string name="remove_from_favorites">Usuń z ulubionych</string>
+    <string name="remove_from_this_playlist">Usuń z tej listy odtwarzania</string>
+    <string name="remove_from_this_queue">Usuń z tej kolejki</string>
+    <string name="remove_playlist">Usuń listę odtwarzania</string>
+    <string name="remove_this_queue">Usuń zaznaczoną kolejkę</string>
+    <string name="rename">Zmień nazwę</string>
+    <string name="rename_playlist">Zmień nazwę listy odtwarzania</string>
+    <string name="rename_queue">Zmień nazwę kolejki</string>
+    <string name="rename_this_queue">Zmień nazwę tej kolejki</string>
+    <string name="repeat_options">Opcje powtarzania</string>
+    <string name="repeat_queue">Powtarzaj tę samą kolejkę</string>
+    <string name="repeat_song">Powtarzaj ten sam utwór</string>
+    <string name="reset">Resetuj</string>
+    <string name="reset_timer">Resetuj wyłącznik</string>
+    <string name="respect_audio_focus_desable_alert">Właśnie wyłączyłeś ustawienie „uwzględniaj audio focus\". Od tej chwili Musicolet nie będzie uwzględniał audio focusa. Znaczy to, że kiedy inne aplikacje uruchomią audio oraz podczas rozmów telefonicznych odtwarzanie muzyki nie będzie wstrzymywane.</string>
+    <string name="respect_audio_focus_explain">Wstrzymaj odtwarzanie, gdy inne aplikacje wymagają audio focusa oraz podczas rozmów. Nie odznaczaj tej opcji, chyba że wiesz, co robisz!</string>
+    <string name="respect_audiofocus_settings">Uwzględniaj audio focus</string>
+    <string name="resume_last_position_q">Wznowić ostatnią pozycję (%1$s)?</string>
+    <string name="resume_playback">Wznów odtwarzanie</string>
+    <string name="resume_this_queue">Wznów zaznaczoną kolejkę</string>
+    <string name="resume_without_asking">Wznów bez pytania</string>
+    <string name="resumed_from_last_rem">Wznowiono od ostatniej zapisanej pozycji</string>
+    <string name="reverse">Na odwrót</string>
+    <string name="rewind">Przewiń do tyłu</string>
+    <string name="ringtone_is_set">Dzwonek został ustawiony!</string>
+    <string name="ringtone_modify_sys_permission_explanantion">Musicolet nie został uprawniony do modyfikacji ustawień systemowych. Bez tego aplikacja nie może zmienić dzwonka. Przejdź do ustawień telefonu, odszukaj ustawienia aplikacji, znajdź aplikację Musicolet i przyznaj jej wszystkie niezbędne uprawnienia. Potem spróbuj ponownie.</string>
+    <string name="s_new_playlist">Nowa lista odtwarzania</string>
+    <string name="saf_description_delete">"Ze względu na zabezpieczenia systemu Android aplikacje nie mogą usuwać/modyfikować plików na zewnętrznych nośnikach pamięci (karta SD, USB itd.) bez zgody użytkownika. Przyznaj nam uprawnienie, które pozwoli usunąć plik.
+
+
+Wykonaj 4 proste kroki (powiększ obraz jeśli trzeba):"</string>
+    <string name="saf_description_modify">"Ze względu na zabezpieczenia systemu Android aplikacje nie mogą modyfikować plików na zewnętrznych nośnikach pamięci (karta SD, USB itd.) bez zgody użytkownika. Przyznaj nam uprawnienie, które pozwoli na modyfikację plików. Jest to konieczne, aby edytować znaczniki.
+
+
+Wykonaj 4 proste kroki (powiększ obraz jeśli trzeba):"</string>
+    <string name="save">Zapisz</string>
+    <string name="save_changes_q">Zapisać zmiany?</string>
+    <string name="save_order">Zapisz kolejność</string>
+    <string name="save_preset">Zapisz ustawienie</string>
+    <string name="save_this_queue">Zapisz zaznaczoną kolejkę</string>
+    <string name="save_to_gallery">Zapisz w galerii</string>
+    <string name="saved_in_gallary_musicolet">Zapisano w folderze „Musicolet\" w Galerii!</string>
+    <string name="scan_this_folder">Zacznij skanowanie w tym folderze</string>
+    <string name="screen_shot">Zrzut ekranu</string>
+    <string name="scrolled_to_current_song">Przewinięto do pozycji bieżącego utworu w kolejce.</string>
+    <string name="search">Szukaj</string>
+    <string name="search_album_art_with">Szukaj okładki albumu za pomocą…</string>
+    <string name="search_lyrics">Szukaj tekstu utworu</string>
+    <string name="search_lyrics_with">Szukaj tekstu utworu z pomocą…</string>
+    <string name="search_menu_title">Szukaj</string>
+    <string name="search_title_album_artist">Szukaj wg tytułu, albumu, wykonawcy</string>
+    <string name="seekbar_to_seek_the_song">Pasek postępu do przewijania utworu</string>
+    <string name="select_a_playlist">Zaznacz listę odtwarzania</string>
+    <string name="select_all">Zaznacz wszystko</string>
+    <string name="select_all_from_this_list">"zaznacz wszystko
+z tej listy"</string>
+    <string name="select_all_songs_artist">Zaznacz wszystkie utwory tego wykonawcy</string>
+    <string name="select_all_songs_folder">Zaznacz wszystkie utwory w tym folderze</string>
+    <string name="select_all_songs_genre">Zaznacz wszystkie utwory tego gatunku</string>
+    <string name="select_all_songs_of_album">Zaznacz wszystkie utwory z tego albumu</string>
+    <string name="select_all_songs_playlist">Zaznacz wszystkie utwory z tej listy odtwarzania</string>
+    <string name="select_all_songs_sub_folder">Zaznacz wszystkie utwory w tym folderze i wszystkich podfolderach</string>
+    <string name="set_as_ringtone">Ustaw jako dzwonek</string>
+    <string name="set_timer">Ustaw wyłącznik czasowy</string>
+    <string name="settings">Ustawienia</string>
+    <string name="share">Udostępnij</string>
+    <string name="share_screenshot">Udostępnij zrzut ekranu</string>
+    <string name="share_song">Udostępnij utwór</string>
+    <string name="share_with_friends">Udostępnij znajomym</string>
+    <string name="sharing_too_many_files_warn">System może nie wspierać udostępniania zbyt wielu plików naraz</string>
+    <string name="shorect_removed_menu">Skrót został usunięty z menu</string>
+    <string name="shortcut_added_menu">Skrót został dodany do menu</string>
+    <string name="show_advance_controls">Pokaż kontrolki zaawansowanych funkcji</string>
+    <string name="show_embedded_lyrics">Pokaż osadzony tekst utworu</string>
+    <string name="show_explanation">Najpierw przeczytaj wyjaśnienie. Kliknij tutaj.</string>
+    <string name="show_favorite_button">Pokaż przycisk ulubionych</string>
+    <string name="show_filename_instead_of_title_explain">Zamiast pokazywać tytuły utworów, wszędzie pokazuj nazwy plików</string>
+    <string name="shuffle_all">Tasuj wszystko</string>
+    <string name="shuffle_and_play">Tasuj i odtwarzaj</string>
+    <string name="shuffle_listed_songs">Tasuj utwory z listy</string>
+    <string name="shuffle_mode_off">Tryb tasowania został wyłączony</string>
+    <string name="shuffle_mode_on">Tryb tasowania został włączony</string>
+    <string name="shuffle_mode_on_off">Włącz/wyłącz tryb tasowania</string>
+    <string name="shuffle_mode_vs_randomize">Tryb tasowania a losowanie</string>
+    <string name="size">Rozmiar</string>
+    <string name="sleep_timer">Wyłącznik czasowy</string>
+    <string name="sleep_timer_explain_when_off">Nie ustawiono wyłącznika. Ustaw go, aby zatrzymać odtwarzanie i zamknąć aplikację po…</string>
+    <string name="sleep_timer_explain_when_on">Musicolet zakończy odtwarzanie muzyki i zostanie zamknięty po…</string>
+    <string name="song_info">Informacje o utworze</string>
+    <string name="song_lib_updated_success">Fonoteka została z powodzeniem zaktualizowana!</string>
+    <string name="song_library_and_tags">Fonoteka z utworami i znaczniki</string>
+    <string name="song_library_section">Fonoteka utworów</string>
+    <string name="sort_listed_songs">Sortuj utwory z listy</string>
+    <string name="sort_songs_by">Sortuj utwory wg kategorii…</string>
+    <string name="sort_this_playlist">Sortuj tę listę odtwarzania</string>
+    <string name="sort_this_queue">Sortuj utwory w zaznaczonej kolejce</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="still_not_finding_song_explanation">"
+&lt;b>Nadal nie widzisz swoich utworów?&lt;/b>
+&lt;br/>Zobacz, czy nie szukasz nowo dodanego utworu w kolejce na karcie kolejek. Szukaj na pozostałych kartach, ponieważ kolejki zdecydowanie różnią się od list odtwarzania.&lt;br/>&lt;br/>
+Upewnij się też, że: folder, w którym znajdują się twoje utwory lub &lt;b>któryś z jego folderów nadrzędnych&lt;/b>&amp;#8230;&lt;br/>&lt;br/>
+1) &amp;#8230;nie został dodany do listy &lt;a href=#1>folderów wykluczonych ze skanowania&lt;/a>(patrz: Musicolet > ustawienia > fonoteka > wyłącz folder')&lt;br/>&lt;br/>
+2) &amp;#8230;nie został ukryty, a jego nazwa nie zaczyna się od .(kropki)&lt;br/>&lt;br/>
+3) &amp;#8230;nie jest prywatnym folderem jakiejś aplikacji&lt;br/>&lt;br/>
+4) &amp;#8230;nie zawiera pliku o nazwie „.nomedia\" (pliki .nomedia są zazwyczaj ukryte w menedżerach plików)&lt;br/>&lt;br/>
+Po rozwiązaniu tych kwestii wymuś powtórne skanowanie.
+"</string>
+    <string name="still_not_finding_songs">Naciśnij przycisk powyżej, aby wykonać powtórne skanowanie wybranego folderu. Jeżeli nadal nie będziesz mógł odnaleźć swoich utworów, &lt;b>&lt;u>kliknij tutaj.&lt;/u>&lt;/b></string>
+    <string name="stock_notifi">Zwykłe powiadomienia</string>
+    <string name="stock_notifi_not_custmzbl">Zwykłe powiadomienia są dostarczane przez system, stąd nie są tak konfigurowalne</string>
+    <string name="summary_use_remaining_time">Pokazuj pozostały czas zamiast bieżącego czasu podczas odtwarzania utworu</string>
+    <string name="support_developer">Wesprzyj twórcę aplikacji</string>
+    <string name="surround_sound">Dźwięk przestrzenny</string>
+    <string name="swipe_app_to_close_explain">Zatrzymaj odtwarzanie i zamknij aplikację gdy ta zostanie usunięta przeciągnięciem palca z listy ostatnio otwieranych aplikacji</string>
+    <string name="switching_to_musicolet_eq">Przełączanie do korektora Musicoleta</string>
+    <string name="system_equalizer">Korektor systemu</string>
+    <string name="system_equlizer_not_supported_in_device">Twoje urządzenie nie obsługuje systemowego korektora</string>
+    <string name="tabs_below_this_position_hidden">Karty poniżej zostaną ukryte.</string>
+    <string name="tags_albumArt_embbededLyrics">Znaczniki, okładki albumów, osadzone teksty utworów</string>
+    <string name="thank_you">Dziękuję</string>
+    <string name="that_list_is_empty">Ta lista jest pusta!</string>
+    <string name="theme">Motyw</string>
+    <string name="this_queue_is_active">To jest obecnie odtwarzana kolejka</string>
+    <string name="this_queue_is_already_playing">Ta kolejka już jest odtwarzana</string>
+    <string name="this_queue_is_not_active">To nie jest obecnie odtwarzana kolejka.</string>
+    <string name="this_queue_is_resumed">Kolejka została wznowiona</string>
+    <string name="title">Tytuł</string>
+    <string name="title_asc">Tytuł, A-Z</string>
+    <string name="title_dsc">Tytuł, Z-A</string>
+    <string name="toggle_favorite">Dodaj/Usuń ulubione</string>
+    <string name="too_much_songs_in_multiple_queues">Zbyt wiele utworów w kolejkach!</string>
+    <string name="track_asc">Numer ścieżki, rosnąco</string>
+    <string name="track_dsc">Numer ścieżki, malejąco</string>
+    <string name="track_number">Numer ścieżki</string>
+    <string name="triple_press_action">Działanie trzykrotnego naciśnięcia przycisku słuchawki</string>
+    <string name="twitter">Twitter</string>
+    <string name="unknown_b">[nieznany]</string>
+    <string name="unlock">Odblokuj</string>
+    <string name="unnamed">Bez nazwy</string>
+    <string name="updating_library">Aktualizacja fonoteki…</string>
+    <string name="use_big_fonts">Użyj dużych liter</string>
+    <string name="use_light_status_bar">Poproś system o użycie jasnego paska stanu</string>
+    <string name="use_remaining_time">Pokaż pozostały czas</string>
+    <string name="use_x">Użyj %1$s</string>
+    <string name="usefull_for_audiobook">Przydatne, aby zapamiętać ostatnią pozycję odtwarzania długich ścieżek, takich jak duże utwory, podcasty, audiobooki itd.</string>
+    <string name="version_whatsnew">w. %1$s<u> (Nowości)</u></string>
+    <string name="view_album_art">Obejrzyj okładkę albumu</string>
+    <string name="volume">Głośność</string>
+    <string name="volume_slider">Regulacja głośności</string>
+    <string name="waring_reloading_metadata">"
+Z tej funkcji powinno się korzystać tylko wtedy, gdy &lt;b>metadane (znaczniki ID3) utworów były edytowane na zewnątrz aplikacji Musicolet (poprzez korzystanie z innych aplikacji lub PC)&lt;/b> i nie widzisz tych zmian w Musicolecie.&lt;/br/>&lt;br/>Jeśli musisz skorzystać z tej funkcji, przeczytaj to ostrzeżenie. Możesz je zignorować jeżeli wiesz, że utwory, których znaczniki zamierzasz załadować z pamięci stosują standardowe (międzynarodowe) &lt;a href=https://en.wikipedia.org/wiki/Character_encoding>kodowanie znaków&lt;/a>w znacznikach.&lt;br/>&lt;br/>
+&lt;small>Do odczytywania znaczników metadanych Musicolet wykorzystuje komponent MediaStorage Androida. Niestety, po edycji znaczników niektórych utworów MediaStorage może mieć problem z wykryciem prawidłowego kodowania. Jeśli MediaStorage wykryje błędne kodowanie znaków w utworach, wtedy &lt;b>znaczniki mogą być nieczytelne&lt;/b>. Jednakże zdarza się to rzadko, gdy twórcy utworów stosowali w znacznikach niestandardowe kodowanie (kodowanie poza przyjętym międzynarodowym standardem). Jeżeli tak się zdarzy, &lt;b>przyczyną problemów nie będzie Musicolet, prosimy nas nie winić;&lt;/b> ostrzegaliśmy cię.&lt;/small>
+"</string>
+    <string name="warning_edit_tags_encoding">"
+Możesz zignorować to ostrzeżenie jeżeli wiesz, że utwory, których znaczniki zamierzasz edytować stosują standardowe (międzynarodowe) &lt;a href=https://en.wikipedia.org/wiki/Character_encoding>kodowanie znaków&lt;/a>w znacznikach.&lt;br/>&lt;br/>
+&lt;small>Do odczytywania znaczników metadanych Musicolet wykorzystuje komponent MediaStorage Androida. Niestety, po edycji znaczników niektórych utworów MediaStorage może mieć problem z wykryciem prawidłowego kodowania. Jeśli MediaStorage wykryje błędne kodowanie znaków w utworach, wtedy &lt;b>znaczniki mogą być nieczytelne&lt;/b>. Jednakże zdarza się to rzadko, gdy twórcy utworów stosowali w znacznikach niestandardowe kodowanie (kodowanie poza przyjętym międzynarodowym standardem). Jeżeli tak się zdarzy, &lt;b>przyczyną problemów nie będzie Musicolet, prosimy nas nie winić;&lt;/b> ostrzegaliśmy cię.&lt;/small>
+"</string>
+    <string name="warning_editing_tags">Kliknij tu, aby przeczytać ostrzeżenie odnośnie edycji znaczników</string>
+    <string name="what_is_diff_queues_playlists">Co to jest kolejka?</string>
+    <string name="what_is_multiple_queue_concept">Na czym polega koncepcja wielu kolejek?</string>
+    <string name="whats_new">Nowości</string>
+    <string name="when_a_song_ends">Po zakończeniu utworu…</string>
+    <string name="when_queue_ends">Po zakończeniu bieżącej kolejki…</string>
+    <string name="where_are_widgets">Dlaczego nie mogę znaleźć widżetu na ekranie startowym?</string>
+    <string name="where_is_genre_tab">Gdzie jest karta gatunków?</string>
+    <string name="why_cannt_edit_some_tags">Dlaczego informacji o niektórych utworach (znaczników) nie można edytować?</string>
+    <string name="why_cant_find_newly_added_songs">Dlaczego nie mogę znaleźć niektórych utworów?</string>
+    <string name="why_embedded_lyrics_why_not_online_q">Dlaczego nie ma automatycznego pobierania tekstów utworów?</string>
+    <string name="why_not_auto_fetch_albumart_q">Dlaczego nie ma automatycznego pobierania okładek utworów?</string>
+    <string name="widget_4x1_advance_controls">Widżet Musicoleta: dodatkowe kontrolki</string>
+    <string name="widget_4x1_simple">Prosty widżet Musicoleta</string>
+    <string name="widget_4x3_with_queue">Widżet Musicoleta: kontrolki + kolejka</string>
+    <string name="widget_theme_c">Motyw widżetu:</string>
+    <string name="widget_transparency_c">Przezroczystość widżetu:</string>
+    <string name="x_minute">%1$d min.</string>
+    <string name="year">Rok</string>
+    <string name="year_asc">Rok, rosnąco</string>
+    <string name="year_dsc">Rok, malejąco</string>
+    <string name="yes">Tak</string>
+    <string name="your_playlists">Twoje listy odtwarzania</string>
+</resources>

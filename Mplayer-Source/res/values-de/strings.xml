@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Black_AMOLED">Schwarz (AMOLED)</string>
+    <string name="DarkTheme">Dunkles Design</string>
+    <string name="Folder_tab_structure">Ordner-Tab-Struktur</string>
+    <string name="LightTheme">Helles Design</string>
+    <string name="_0_times_before">nie zuvor</string>
+    <string name="a_b_repeat">A-B Wiederholung</string>
+    <string name="a_quick_tip_about_queue">Einige Tipps zum Warteschlangen-Tab</string>
+    <string name="abc_action_bar_home_description">Zur Startseite</string>
+    <string name="abc_action_bar_home_description_format">%1$s: %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s: %3$s</string>
+    <string name="abc_action_bar_up_description">Nach oben</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
+    <string name="abc_action_mode_done">Fertig</string>
+    <string name="abc_activity_chooser_view_see_all">Alle ansehen</string>
+    <string name="abc_activitychooserview_choose_application">App auswählen</string>
+    <string name="abc_capital_off">Aus</string>
+    <string name="abc_capital_on">An</string>
+    <string name="abc_search_hint">Suchen…</string>
+    <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
+    <string name="abc_searchview_description_query">Suchanfrage</string>
+    <string name="abc_searchview_description_search">Suchen</string>
+    <string name="abc_searchview_description_submit">Suchanfrage senden</string>
+    <string name="abc_searchview_description_voice">Sprachsuche</string>
+    <string name="abc_shareactionprovider_share_with">Freigeben für</string>
+    <string name="abc_shareactionprovider_share_with_application">Freigeben für %s</string>
+    <string name="abc_toolbar_collapse_description">Minimieren</string>
+    <string name="accent_color">Akzentfarbe</string>
+    <string name="adapt_from_aa">Passende Farbe zum Album-Cover</string>
+    <string name="adaptive_color_controls">Adaptive Farbe für die Steuerung</string>
+    <string name="add_folder">Ordner hinzufügen</string>
+    <string name="add_its_songs_to_favorites">Titel zu den Favoriten hinzufügen</string>
+    <string name="add_its_songs_to_playlist">Titel zur einer Wiedergabeliste hinzufügen</string>
+    <string name="add_shortcut_in_main_menu">Verknüpfung im Hauptmenü erstellen</string>
+    <string name="add_this_folder">Ordner hinzufügen</string>
+    <string name="add_to_a_playlist">Zu Wiedergabeliste hinzufügen</string>
+    <string name="add_to_a_queue">Zu Warteschlange hinzufügen</string>
+    <string name="add_to_currently_playing_queue">Zur aktuellen Warteschlange hinzufügen</string>
+    <string name="add_to_favorites">Zu den Favoriten hinzufügen</string>
+    <string name="advance">Erweitert</string>
+    <string name="aks_to_resume">Fortsetzen mit Nachfrage</string>
+    <string name="album">Album</string>
+    <string name="album_art">Album-Cover</string>
+    <string name="album_asc">Album aufsteigend</string>
+    <string name="album_dsc">Album absteigend</string>
+    <string name="album_tab_not_found">Alben-Tab nicht gefunden! Bitte zuerst in den Einstellungen aktivieren.</string>
+    <string name="album_view_mode">Alben-Ansicht</string>
+    <string name="albums">Alben</string>
+    <string name="all_songs">Alle Titel</string>
+    <string name="allowed_delay_explain">"
+Bei 2- und 3-fach-Klicks: 700 Millisekunden
+
+Ab 4-fach-Klicks: 3 Sekunden (Hier sind größere Pausen erlaubt, wodurch komfortabel vorwärts gespult werden kann.)
+
+Dies ist nur eine Information. Hier sind keine Änderungen möglich.
+"</string>
+    <string name="allowed_delays_info">Bitte hier klicken, um mehr über die Verzögerung zwischen den Tastenklicks zu erfahren.</string>
+    <string name="allowed_delays_title">Erlaubte Verzögerung zwischen zwei Tastenklicks der Kopfhörertaste</string>
+    <string name="alread_have_same_name_playlist">Es existiert bereits eine Liste mit diesem Name!</string>
+    <string name="already_a_queue_with_name_x">Es existiert bereits eine Warteschlange %1$s!</string>
+    <string name="always_play_prev_song">Immer den vorherigen Titel spielen</string>
+    <string name="ans_a_quick_tip_about_queue">"Im Warteschlangen-Tab finden Sie den aktuellen Titel schnell durch Klicken auf den Titelzähler. Der Titelzähler befindet sich oberhalb der Titelliste (z.B. 20/155, wobei 20 die Position des aktuellen Titels und 155 die Gesamtanzahl der Titel bedeuten).
+
+Um einen Titel schnell aus der Warteschlange zu entfernen, wischen Sie den Doppelbalken links vom Titel einfach nach rechts."</string>
+    <string name="ans_audio_formats_supported">"
+Musicolet nutzt den nativen Medien-Decoder Ihres Gerätes. Daher unterstützt Musicolet alle Audioformate, die Ihr Gerät unterstützt.
+Siehe &lt;a href='https://developer.android.com/guide/topics/media/media-formats.html'>Unterstützte Medienformate&lt;/a> (kann von Gerät zu Gerät abweichen)
+"</string>
+    <string name="ans_does_transmit_data_in_background">"
+Nein. Musicolet ist zu 100% eine "<b>Offline-App</b>". Sie übermittelt folglich auch keinerlei Nutzungsstatistiken oder andere Berichte.
+
+Technisch gesehen hat diese App generell keinen Zugriff auf das Internet, da wir absichtlich diese Berechtigung nicht eingeschlossen haben.
+
+Diese Tatsache könne Sie in der App-Info von Musicolet unter 'Berechtigungen' > 'Alle Berechtigungen' oder im Play Store unter 'Berechtigungsdetails' von Musicolet überprüfen.
+"</string>
+    <string name="ans_equalizer_not_working_q">"Musicolet benutzt die AudioFX-Komponente von Android um die Audiowiedergabe zu manipulieren. Wenn der Hersteller Ihres Gerätes diese Komponente verändert hat und nicht den AOSP-Richtlinien folgte, könnte der Equalizer nicht funktionieren.
+
+Wenn der Musicolet-Equalizer nicht funktioniert, können Sie den System-Equalizer versuchen, sofern dieser vorhanden ist. Diese Option finden Sie in Musicolet unter 'Einstellungen' > 'Audio' > 'Equalizer auswählen'."</string>
+    <string name="ans_facts_about_queues">"
+Sie können maximal 20 Warteschlangen benutzen. 
+
+Beachten Sie, dass viele Warteschlangen mit jeweils vielen Titeln die Performance verringert und sich dadurch das Starten und Beenden der App verzögern kann. Daher wird empfohlen, alte Warteschlangen zu entfernen, wenn diese nicht mehr benötigt werden. 
+
+Warteschlangen werden nicht automatisch aktualisiert oder erweitert. Beispielsweise nach dem Erstellen einer Warteschlange \"Ordner XYZ\" mit Inhalt der Titel des Ordners XYZ und späterem Hinzufügen neuer Titel im Ordner selbst sind diese neuen Titel nicht automatisch in der genannten Warteschlange. Der Warteschlangenname ist nur ein Name und kann jederzeit umbenannt werden. Die neuen Titel würde man im Ordner-Tab finden. 
+
+Warteschlangennamen müssen eindeutig sein. 
+
+Titel können in einer Warteschlange nur einmal vorkommen."</string>
+    <string name="ans_how_can_you_appreciate_our_work">"
++ Mit einer 5-Sterne-Bewertung im Play Store.
+
++ Erzählen Sie Ihren Freunden von dieser App.
+
++ Durch Anklicken unserer Seite bei &lt;a href=https://facebook.com/musicolet>Facebook&lt;/a> und uns folgen bei &lt;a href=https://twitter.com/musicolet>Twitter&lt;/a> und &lt;a href=https://instagram.com/musicolet>Instagram&lt;/a>.
+"</string>
+    <string name="ans_music_playback_suddenlt_stops">"
+&lt;b>Kurze Antwort:&lt;/b> &lt;a href=https://youtu.be/J9-8Ct0n6c0>Dieses Video anschauen&lt;/a>
+
+
+&lt;b>Lange aber korrekte Antwort:&lt;/b>
+Xiaomi's MIUI ROMs haben eine sehr aggressive &lt;a href='https://en.wikipedia.org/wiki/Memory_management_(operating_systems)'>Speicherverwaltung&lt;/a>. Während des Multitaskings beendet MIUI im Hintergrund laufende Apps, um mehr Speicher (RAM) freizugeben.
+
+Meistens ist dieses Verhalten unnötig. Außerdem ist die originale Android-Speicherverwaltung wirklich gut, zuverlässig und perfekt.
+
+Aber nach wie vor verwendet MIUI seine eigene Speicherverwaltung. Die Entscheidung, welche App im Hintergrund zuerst beendet wird, ist manchmal schlecht.
+
+&lt;b>Aus diesem Grund beendet MIUI Musicolet während man im Hintergrund Musik hört und dabei andere Apps benutzt.&lt;/b>
+
+&lt;b>Lösung?&lt;/b>
+Weil es ein bekanntes Problem von MIUI ist, gibt es viele Diskussionen in vielen Foren im Internet. Einige Nutzer haben Wege gefunden, um MIUI's Verhalten zu optimieren, indem sie einige Einstellungen in den Entwickleroptionen geändert haben.
+&lt;b>Hier ist ein Video mit einer Schritt-für-Schritt Anleitung: &lt;/b>&lt;a href=https://youtu.be/J9-8Ct0n6c0>https://youtu.be/J9-8Ct0n6c0&lt;/a>
+"</string>
+    <string name="ans_shuffle_mode_vs_randomize">"Bei der Zufallswiedergabe kann nicht vorhergesagt werden, welcher Titel als nächstes abgespielt wird. 'Nach dem aktuellen Titel spielen' funktioniert ebenfalls nicht, wenn die Zufallswiedergabe eingeschaltet ist.
+
+Eine Alternative zur Zufallswiedergabe ist das Mischen der Titel. Dazu die Zufallswiedergabe ausschalten, zur Warteschlange gehen, auf das Sortieren-Symbol klicken und 'Mischen' wählen. Dadurch werden die Titel der ausgewählten Warteschlange gemischt und man sieht die neue zufällige Reihenfolge und welcher Titel als nächstes gespielt wird."</string>
+    <string name="ans_what_is_diff_queues_playlists">Eine Warteschlange ist eine temporäre Liste von Titeln, welche die Abspielreihenfolge bestimmt. Die Warteschlangen befinden sich im ersten Tab. Die Reihenfolge der Titel kann einfach durch Verschieben des Doppelbalkens am linken Rand geändert werden.</string>
+    <string name="ans_what_is_multiple_queue_concept">"
+Musicolet ist der EINZIGE Android-Musikplayer mit mehreren Warteschlangen. 
+
+Vorteile mehrerer Warteschlangen: 
+
+1. Sie können mehr als eine Warteschlange vorbereiten während die Titel einer anderen Warteschlange gespielt werden. 
+
+2. Angenommen Sie haben eine schöne Warteschlange erstellt und hätten diese Funktion nicht (wie bei anderen Musikplayern) und würden versehentlich während des Suchens in der Titelsammlung auf einen Titel klicken, so würden die angeklickten Titel entweder die aktuelle Warteschlange ersetzen oder zur Warteschlange hinzugefügt. Und somit wäre Ihre schöne Warteschlange ruiniert. Mit Musicolets mehreren Warteschlangen kann dies nicht passieren. In einem solchen Szenario würde Musicolet eine neue Warteschlange erstellen und die schöne Warteschlange bliebe unberührt. 
+
+3. Musicolet merkt sich sogar alle aktuellen Titel jeder Warteschlange. 
+
+Die Warteschlangen können temporäre Namen erhalten und jederzeit umbenannt werden. Jede Warteschlange kann auch als Wiedergabeliste gespeichert werden."</string>
+    <string name="ans_where_are_widgets">"
+&lt;b>\"Immer, wenn eine Android-App auf der SD-Karte installiert ist oder dahin verschoben wird, sind manche Funktionen einschließlich Widgets deaktiviert.\"&lt;/b>
+
+Diese Regel gilt für Android-Apps - so auch für Musicolet. &lt;b>Wenn Sie also die Widgets nutzen wollen, installieren Sie Musicolet im internen Speicher und nicht auf der SD-Karte.&lt;/b>
+
+
+Vielleicht fragen Sie:
+
+
+&lt;b>Ich habe es nicht auf der SD-Karte installiert, es hat sich automatisch dort installiert.&lt;/b>
+
+Antwort: Wir (die Entwickler) haben nur zwei Möglichkeiten. Entweder wir erlauben der App das Installieren auf der SD-Karte oder nicht. Da viele Nutzer, welche Geräte mit kleinem internen Speicher besitzen, nach dieser Funktion gefragt haben, erlaubten wir das Installieren auf der SD-Karte.
+Wo jedoch eine App installiert wird entscheidet das Android-System. Wir haben darüber keine Kontrolle.
+
+
+&lt;b>Wie kann man eine App in den internen Speicher verschieben?&lt;/b>
+
+Antwort: (a) Einstellungen > Apps (bei manchen Geräten in den erweiterten Einstellungen zu finden) > 'Musicolet' suchen und darauf klicken > Taste 'In internen Speicher verschieben' suchen und darauf klicken oder (b) Google \"Wie verschiebt man eine App in den internen Speicher bei [HIER IHR GERÄTENAME]\"
+"</string>
+    <string name="ans_where_is_genre_tab">"Prüfen Sie in Musicolet unter 'Einstellungen' > 'Tabs anordnen', ob hier der Genre-Tab zu finden ist. Wenn nicht, wird diese Funktion von Ihrem Gerät nicht unterstützt, weil einige ältere Android-Versionen viele Fehler bezüglich Genre in der Mediendatenbank haben. Da Musicolet davon abhängig ist, sind Genre auf diesen Geräten nicht möglich."</string>
+    <string name="ans_why_cannt_edit_some_tags">"
+Wenn Titel fehlerhafte ID3-Tags beinhalten oder das Schreiben von ID3-Tags nicht erlauben oder andere Probleme haben, dann können die ID3-Tags nicht bearbeitet werden."</string>
+    <string name="ans_why_cant_find_newly_added_songs">"
+Neu hinzugefügte Titel finden Sie nicht in den Warteschlangen. Suchen Sie diese in den anderen Tabs.&lt;br/>
+Stellen Sie sicher, dass der Ordner mit den neuen Titeln oder &lt;b>ein übergeordneter Ordner&lt;/b>&amp;#8230;&lt;br/>
+1. &amp;#8230;sich nicht in der Liste der ausgeschlossenen Ordner befindet (siehe 'Einstellungen' > 'Titelsammlung' > 'Ausgeschlossene Ordner')&lt;br/>
+2. &amp;#8230;nicht versteckt ist und sein Name nicht mit . (Punkt) beginnt&lt;br/>
+3. &amp;#8230;kein privater Ordner einer App ist&lt;br/>
+4. &amp;#8230;keine Datei mit dem Namen '.nomedia' enthält&lt;br/>&lt;br/>
+Wenn Sie trotzdem Ihre Titel nicht finden können, lesen Sie dies:&lt;br/>&lt;br/>
+Musicolet führt bei jedem Start einen kleinen Scan nach neuen Titeln aus. Für ein schnelles und energiesparendes Scannen wird das &lt;b>MediaStorage Framework&lt;/b> von Android genutzt. Das MediaStorage Framework ist ein mächtiges Werkzeug zum Durchsuchen und Verwalten von Dateien im internen und externen Speicher. Viele Apps (z.B. Galerie) hängen davon ab.
+Aber manchmal informieren Apps wie Dateimanager oder Browser, über welche neue Titel abgespeichert werden, das MediaStorage Framework nicht über die letzten Änderungen im Dateisystem. Das MediaStorage Framework bleibt somit unwissend über diese Änderungen. Dies ist ein häufiger Grund für das Nichtfinden neu hinzugefügter Titel in Musicolet.
+Lösung:
+1. Einen erneuten Scan erzwingen. ('Einstellungen' > 'Titelsammlung und Metadaten' > 'Scan erzwingen')
+
+
+oder
+
+
+2. Gerät neu starten. Nach Neustart und dem Hochfahren warten Sie 2-3 Minuten. Nun müssten Sie Ihre neuen Titel in Musicolet finden können.
+"</string>
+    <string name="ans_why_embedded_lyrics_why_not_online_q">"
+Musicolet ist eine der wenigen Apps, die keine Berechtigung für das Internet benötigt. Um Musicolet mit so wenig wie möglichen Berechtigungen auszustatten, haben wir absichtlich diese Berechtigung nicht eingeschlossen. Ohne diese Berechtigung kann eine Android-App keinerlei Daten über das Internet senden und empfangen. &lt;b>Somit sind Funktionen wie das automatische Herunterladen der Songtexte nicht möglich.&lt;/b>
+"</string>
+    <string name="ans_why_not_auto_fetch_albumart_q">"
+Musicolet ist eine der wenigen Apps, die keine Berechtigung für das Internet benötigt. Um Musicolet mit so wenig wie möglichen Berechtigungen auszustatten, haben wir absichtlich diese Berechtigung nicht eingeschlossen. Ohne diese Berechtigung kann eine Android-App keinerlei Daten über das Internet senden und empfangen. &lt;b>Somit sind Funktionen wie das automatische Herunterladen von Album-Cover nicht möglich.&lt;/b>
+"</string>
+    <string name="app_closed_because_of_sleep_timer">Musicolet wurde wegen der Schlummerfunktion beendet. :)</string>
+    <string name="app_desc">Musicolet - Ein schlanker Musikplayer mit einfachem Design aber vielen Funktionen. Der einzige Android-Musikplayer mit mehreren Warteschlangen.</string>
+    <string name="app_really_need_your_permissions">Musicolet funktioniert ohne diese Berechtigung nicht!</string>
+    <string name="app_reqiures_permissions_to_run">Musicolet benötigt einige Berechtigungen für eine korrekte Funktion.</string>
+    <string name="appearance">Aussehen</string>
+    <string name="appling_changes">Änderungen anwenden</string>
+    <string name="are_you_sure_q">Sind Sie sicher?</string>
+    <string name="arrange_tabs">Tabs anordnen</string>
+    <string name="artist">Interpret</string>
+    <string name="artist_asc">Interpret aufsteigend</string>
+    <string name="artist_dsc">Interpret absteigend</string>
+    <string name="artist_not_found">Interpreten-Tab nicht gefunden! Bitte zuerst in den Einstellungen aktivieren.</string>
+    <string name="artists">Interpreten</string>
+    <string name="attention_e">Achtung!</string>
+    <string name="audio">Audio</string>
+    <string name="audio_formats_supported">Unterstützt Musicolet WMA/Opus/FLAC/ALAC?</string>
+    <string name="auto_close_app_setting">Automatisch beenden, wenn keine Wiedergabe läuft</string>
+    <string name="auto_close_app_setting_explain">App nach einer bestimmten Zeit schließen, wenn sie nicht sichtbar ist und keine Wiedergabe läuft.</string>
+    <string name="back">Zurück</string>
+    <string name="background_c">Hintergrund:</string>
+    <string name="bass_boost">Bassverstärkung</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="blurred_bg_explain">Wenn aktiviert, wird das Album-Cover als unscharfer Hintergrund im Wiedergabe-Tab angezeigt.</string>
+    <string name="blurrend_bg_setting">Unscharfer Hintergrund bei Wiedergabe</string>
+    <string name="broadcast_aa_explain">Dadurch können die Cover von weiteren Apps und Androids Sperrbildschirm genutzt werden.</string>
+    <string name="broadcast_album_art_setting">Übertrage Album-Cover</string>
+    <string name="can_not_read_that_folder">Dieser Ordner kann nicht gelesen werden!</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="cant_be_empty">Darf nicht leer sein</string>
+    <string name="cant_edit_info_of_given_files">Bearbeiten der Info(s) dieser Datei(en) nicht möglich!</string>
+    <string name="caption_is_be_copied_to_clipboard">Beschriftung in die Zwischenablage kopiert.</string>
+    <string name="center_aligned_text">Text zentrieren</string>
+    <string name="change_album_art">Album-Cover ändern</string>
+    <string name="changes_will_apply_physically">Die Änderungen werden physisch in jede Datei des jeweiligen Speichers geschrieben. Daher könnte dieser Vorgang eine Weile dauern.</string>
+    <string name="choose_lang">Sprache auswählen</string>
+    <string name="clear">Leeren</string>
+    <string name="clear_search_history">Such-Chronik löschen</string>
+    <string name="close">Schließen</string>
+    <string name="close_app">Musicolet beenden</string>
+    <string name="close_lyrics">Songtext schließen</string>
+    <string name="close_selection_process_after_an_option_is_selected">Auswahl nach Ausführen einer Option aufheben</string>
+    <string name="composer">Komponist</string>
+    <string name="copy_to_a_queue">Zu einer Warteschlange kopieren</string>
+    <string name="cpu_efficient_scroll">CPU-effizientes Blättern</string>
+    <string name="credits">Mitwirkende und besonderer Dank</string>
+    <string name="current_queue">Aktuelle Warteschlange</string>
+    <string name="current_queue_x_y_counter">Aktuelle Warteschlange (%1$d/%2$d)</string>
+    <string name="current_select_queue_eq">Aktuell ausgewählte Warteschlange =</string>
+    <string name="custom">Individuell</string>
+    <string name="custom_order">Eigene Reihenfolge</string>
+    <string name="customize_song_order_playlist_x">Titelreihenfolge der Wiedergabeliste %1$s anpassen</string>
+    <string name="cutomize_song_order_yourself">Titelreihenfolge anpassen</string>
+    <string name="d_10_minutes">10 Minuten</string>
+    <string name="d_10_seconds">10 Sekunden</string>
+    <string name="d_1_minutes">1 Minute</string>
+    <string name="d_2_minutes">2 Minuten</string>
+    <string name="d_30_seconds">30 Sekunden</string>
+    <string name="d_30p_length">30% der Spiellänge</string>
+    <string name="d_50p_length">50% der Spiellänge</string>
+    <string name="d_5_minutes">5 Minuten</string>
+    <string name="d_90p_length">90% der Spiellänge</string>
+    <string name="dark">Dunkel</string>
+    <string name="date_add_asc">Hinzufügedatum aufsteigend</string>
+    <string name="date_add_dsc">Hinzufügedatum absteigend</string>
+    <string name="date_added_to_library">Hinzufügedatum</string>
+    <string name="date_last_played">Zuletzt gespielt</string>
+    <string name="date_mod_asc">Änderungsdatum aufsteigend</string>
+    <string name="date_mod_dsc">Änderungsdatum absteigend</string>
+    <string name="date_modified">Zuletzt geändert</string>
+    <string name="date_play_asc">Zuletzt gespielt aufsteigend</string>
+    <string name="date_play_dsc">Zuletzt gespielt absteigend</string>
+    <string name="delete">Löschen</string>
+    <string name="delete_permanently">Dauerhaft löschen</string>
+    <string name="delete_this_backup">Dieses Backup löschen</string>
+    <string name="delete_this_external_playlist">Externe Wiedergabeliste löschen</string>
+    <string name="delete_this_preset">Dieses Preset löschen</string>
+    <string name="deselct_all_songs_album">Alle Titel dieses Albums abwählen</string>
+    <string name="deselct_all_songs_genre">Alle Titel dieses Genre abwählen</string>
+    <string name="deselect_all_from_this_list">"Keinen Titel
+auswählen"</string>
+    <string name="deselect_all_songs_artist">Alle Titel dieses Interpreten abwählen</string>
+    <string name="deselect_all_songs_folder">Alle Titel dieses Ordners abwählen</string>
+    <string name="deselect_all_songs_playlist">Alle Titel dieser Wiedergabeliste abwählen</string>
+    <string name="deselect_all_songs_sub_folder">Alle Titel dieses Ordners und Unterordner abwählen</string>
+    <string name="disclaimer_earphone_actions">Bitte hier klicken, um mehr zu erfahren, warum bei manchen Geräten die Aktionen beim Drücken der Kopfhörertaste nicht funktionieren .</string>
+    <string name="do_in_background">Im Hintergrund erledigen</string>
+    <string name="do_nothing">Nichts ausführen</string>
+    <string name="does_transmit_data_in_background">Übermittelt Musicolet irgendwelche Daten ins Internet?</string>
+    <string name="done">Fertig</string>
+    <string name="double_press_action">Doppelklick auf Kopfhörertaste</string>
+    <string name="dragger_explain">Hier halten und nach oben/unten schieben, um die Reihenfolge zu ändern</string>
+    <string name="duration">Spieldauer</string>
+    <string name="duration_asc">Spieldauer aufsteigend</string>
+    <string name="duration_dsc">Spieldauer absteigend</string>
+    <string name="earphone_button_descaimer_explain">Einige Hersteller verändern das Standard-Handling der Kopfhörertasten von Android, so dass andere Apps die Tasten nicht abfangen können. Das Gerät übermittelt Musicolet lediglich, dass der nächste/vorhergehende Titel gespielt werden soll jedoch nicht, ob die Taste gedrückt wurde. Dagegen können wir nichts tun.</string>
+    <string name="edit_album_info">Album-Infos bearbeiten</string>
+    <string name="edit_artist_info">Interpreten-Infos bearbeiten</string>
+    <string name="edit_genre_info">Genre-Infos bearbeiten</string>
+    <string name="edit_info">Info bearbeiten</string>
+    <string name="edit_lyrics">Songtext bearbeiten</string>
+    <string name="edit_song_info">Titel-Infos bearbeiten</string>
+    <string name="embedded_lyrics_appearance">Ansicht eingebetteter Songtexte</string>
+    <string name="empty_queue_cannt_resume">Diese Warteschlange ist leer und kann nicht fortsetzen werden.</string>
+    <string name="empty_queue_cannt_scroll_to_current_song">Diese Warteschlange ist leer! Kann nicht zum aktuellen Titel blättern!</string>
+    <string name="enable_document_app_first">"'Documents' App nicht gefunden. Bitte zuerst diese App aktivieren, sofern sie deaktiviert ist (siehe Geräteeinstellungen > 'Installierte Apps' > 'Alle' > nach 'Documents' suchen und aktivieren). Danach noch einmal versuchen."</string>
+    <string name="end_of_current_queue">Ende der aktuellen Warteschlange erreicht</string>
+    <string name="end_of_current_queue_shuffle">Ende der aktuellen Warteschlange erreicht (mit Zufallswiedergabe)</string>
+    <string name="end_of_first_queue">Ende der ersten Warteschlange erreicht</string>
+    <string name="end_of_last_queue">Ende der letzten Warteschlange erreicht</string>
+    <string name="end_of_last_queue_shuffle">Ende der letzten Warteschlange erreicht (mit Zufallswiedergabe)</string>
+    <string name="enter_new_playlist_name">Neuer Name der Wiedergabeliste</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="equalizer_not_working_q">Der Equalizer arbeitet nicht richtig?</string>
+    <string name="equalizer_to_use">Equalizer auswählen</string>
+    <string name="error_init_equalizer">Fehler beim Initialisieren des Equalizers</string>
+    <string name="error_taking_screenshot">Fehler beim Erstellen des Screenshots!</string>
+    <string name="error_while_reading_user_preset">Fehler beim Lesen des eigenen Presets</string>
+    <string name="error_while_rescaning">Fehler beim erneuten Scannen</string>
+    <string name="error_while_setting_ringtone">Fehler beim Einstellen des Klingeltones!</string>
+    <string name="exclude_duration_explanation">Titel<b> kürzer als</b> die nachfolgende Spieldauer werden nicht gescannt:</string>
+    <string name="exclude_folder_from_scanning">Ausgeschlossene Ordner</string>
+    <string name="exclude_small_duration_files">Kurze Titel ausschließen</string>
+    <string name="exclude_song_folder_dialog_explanation">Titel in den aufgeführten Ordnern<b> und deren Unterordner</b> werden nicht gescannt.</string>
+    <string name="exclude_this_folder_from_scanning">Diesen Ordner vom Scannen ausschließen</string>
+    <string name="exclude_time_zero_value_explain">Beide Werte frei lassen oder 0:0 eingeben, um keine Titel auszuschließen.</string>
+    <string name="excluded_folders_list_updated">Liste der ausgeschlossenen Ordner aktualisiert</string>
+    <string name="expandable_notif">Erweiterbare Benachrichtigung</string>
+    <string name="experimental">Experimentell</string>
+    <string name="explanation_force_rescan">"
+&lt;b>Scannt Musicolet neue Titel automatisch?&lt;/b>
+Ja. Musicolet führt einen kurzen Scan nach neuen Titeln bei jedem Start aus.
+
+&lt;b>Wozu benötigt man dann das Erzwingen des Scannens?&lt;/b>
+Für ein schnelles und energiesparendes Scannen nutzt Musicolet das &lt;b>MediaStorage Framework&lt;/b> von Android. Das MediaStorage Framework ist ein mächtiges Werkzeug zum Durchsuchen und Verwalten von Dateien im internen und externen Speicher. Viele Apps (z.B. Galerie) hängen davon ab.
+
+Aber manchmal informieren Apps wie Dateimanager oder Browser, über welche neue Titel abgespeichert werden, das MediaStorage Framework nicht über die letzten Änderungen im Dateisystem. Das MediaStorage Framework bleibt somit unwissend über diese Änderungen. Dies ist ein häufiger Grund für das Nichtfinden neu hinzugefügter Titel in Musicolet. Wenn die anderen Apps die MediaStorage-Richtlinien korrekt umsetzen, ist das Erzwingen eines erneuten Scans nicht nötig.
+
+
+Wie auch immer, die Taste 'Scan erzwingen' weist Androids MediaStorage Framework an, alle Titel innerhalb des gewählten Ordners und dessen Unterordner zu scannen. Somit finden Android und folglich auch Musicolet neu hinzugefügte Titel.
+"</string>
+    <string name="export_playlist_backup_explain">&lt;small>Hiermit exportieren Sie eine Kopie der ausgewählten Musicolet-Wiedergabeliste als Backup. Das Backup kann später wieder importiert werden. Existierende gleichnamige Wiedergabelisten werden überschrieben.&lt;/small></string>
+    <string name="export_playlist_for_backup">&lt;small>Wiedergabelisten zum Backup exportieren&lt;/small></string>
+    <string name="export_playlists">Exportiere Musicolets Wiedergabelisten als Backup</string>
+    <string name="external_playlist_deleted">Die gewählte externe Wiedergabeliste wurde erfolgreich gelöscht.</string>
+    <string name="facebook">Facebook</string>
+    <string name="facts_about_queues">Mehr Details über Warteschlangen</string>
+    <string name="fade_in_when_play">Bei Wiedergabe einblenden</string>
+    <string name="fade_out_when_pause">Bei Pause ausblenden</string>
+    <string name="fade_vol_effects_title">Ein-/Ausblenden</string>
+    <string name="failed">Fehlgeschlagen</string>
+    <string name="falied_to_delete_some_files">Fehler beim physischen Löschen einer oder mehrerer Datei(en)!</string>
+    <string name="faqs_and_other_info">FAQ und andere Informationen</string>
+    <string name="fast_forward">Schneller Vorlauf</string>
+    <string name="fastforward_on_4_press_explain">Ab Vierfachklick auf die Kopfhörertaste wird vorwärts gespult.</string>
+    <string name="favourites">Favoriten</string>
+    <string name="file_doesnt_exist">Datei existiert nicht!</string>
+    <string name="file_name">Dateiname</string>
+    <string name="file_name_dsc">Dateiname absteigend</string>
+    <string name="filename_asc">Dateiname aufsteigend</string>
+    <string name="fit_to_square_for_instagram">Für Instagram quadratisch einpassen</string>
+    <string name="folder_exclude_warning">Dieser Ordner und alle Unterordner werden vom Scannen ausgeschlossen. Titel in diesen Ordnern werden nicht sichtbar sein. Möchten Sie fortfahren?</string>
+    <string name="folder_jpg_settings_explain">Wenn kein eingebettetes Album-Cover gefunden wird, dann folder.jpg, AlbumArt.jpg usw. im selben Ordner verwenden.</string>
+    <string name="folder_linear">Linear (alle Ordner untereinander)</string>
+    <string name="folder_tab_not_found">Ordner-Tab nicht gefunden! Bitte zuerst in den Einstellungen aktivieren.</string>
+    <string name="folders">Ordner</string>
+    <string name="follow_musicolet_on">Folgen Sie Musicolet bei:</string>
+    <string name="for_xiaomi_miui_user">Für Xiaomi-MIUI Anwender</string>
+    <string name="force_to_rescan">Scan erzwingen</string>
+    <string name="force_to_rescan_now">Scan jetzt erzwingen</string>
+    <string name="force_to_rescan_settings_explain">Dies ist sinnvoll, wenn neu hinzugefügte Titel in Musicolet nicht gefunden werden können.</string>
+    <string name="frequently_asked_questions_faqs">Häufig gestellte Fragen (FAQ)</string>
+    <string name="genre">Genre</string>
+    <string name="genre_tab_not_found">Genre-Tab nicht gefunden! Bitte zuerst in den Einstellungen aktivieren.</string>
+    <string name="genres">Genre</string>
+    <string name="git_it_lets_do_it">Verstanden! Bitte ausführen.</string>
+    <string name="give_permissions">Berechtigungen erteilen</string>
+    <string name="give_us_permission_for_ringtone">Bitte erteilen Sie die benötigte Berechtigung, damit der Klingelton geändert werden kann!</string>
+    <string name="got_it">Verstanden</string>
+    <string name="grid_view">Gitteransicht</string>
+    <string name="handsfree_and_speakers">Kopfhörer und Lautsprecher</string>
+    <string name="help_and_info">Hilfe und Informationen</string>
+    <string name="hide_embedded_lyrics">Eingebetteten Songtext verstecken</string>
+    <string name="hierarchical_folders">Hierarchisch (Ordnerstruktur)</string>
+    <string name="homescrenn_widget_settings">Homescreen-Widget</string>
+    <string name="how_can_you_appreciate_our_work">Wie kann ich Ihre Arbeit unterstützen und anerkennen?</string>
+    <string name="i_understand_this">Ich verstehe</string>
+    <string name="i_understand_this_use_x">Verstanden! Benutze %1$s</string>
+    <string name="if_d_10sec_replay_else_prev">Innerhalb der ersten 10 Sekunden zum vorherigen Titel, danach zum Beginn des aktuellen Titels springen</string>
+    <string name="import_playlist_dialog_title">Titel von externen Wiedergabelisten importieren</string>
+    <string name="import_playlists">Importiere Titel einer externen Wiedergabeliste</string>
+    <string name="in_expanded_notification">In der erweiterten Benachrichtigung…</string>
+    <string name="instagram">Instagram</string>
+    <string name="interface_">Oberfläche</string>
+    <string name="jump_from_first_play_queue">Wenn die letzte Warteschlange endet, die erste Warteschlange abspielen und umgekehrt</string>
+    <string name="jump_to_next_queue">Die nächste Warteschlange abspielen</string>
+    <string name="just_stop_there">Wiedergabe beenden</string>
+    <string name="lagfree_scroll_pref_explain">Wenn aktiviert, werden Album-Cover nicht während des Blätterns geladen. Dies beansprucht die CPU weniger und erlaubt weicheres Blättern.</string>
+    <string name="language">Sprache</string>
+    <string name="language_not_supported_by_dev">"
+Musicolet wurde in englisch entwickelt. Leider verstehen wir Ihre Sprache nicht. :(
+&lt;br/>&lt;br/>&lt;b>Die App wurde in diese Sprache von unseren Anwendern übersetzt.&lt;/b>
+&lt;br/>&lt;br/>Wir übernehmen keine Verantwortung für die Richtigkeit der Übersetzung. Für die Kommunikation mit uns (per E-Mail, Play Store und jede andere Plattform) benutzen Sie möglichst die englische Sprache.
+&lt;br/>&lt;br/>Wenn Sie Übersetzungsfehler finden oder die Qualität der Übersetzung verbessern möchten, können Sie uns helfen. Hierfür gehen Sie zum 'Hilfe und Informationen'-Menü und wählen dann 'Help us in translation'. &lt;b>Danke für Ihre Unterstützung.&lt;/b>
+"</string>
+    <string name="least_played_first">Am wenigsten gespielt</string>
+    <string name="library_not_updated_completely">Titelsammlung nicht vollständig aktualisiert!</string>
+    <string name="light">Hell</string>
+    <string name="like_this_app_q">Gefällt Ihnen diese App?</string>
+    <string name="list_with_thumbnail">Liste mit Miniaturbild</string>
+    <string name="list_without_thumbnail">Liste ohne Miniaturbild</string>
+    <string name="location">Pfad</string>
+    <string name="lock_screen">Sperrbildschirm</string>
+    <string name="looking_for_new_files">Nach neuen Dateien suchen</string>
+    <string name="lyricist">Songtexter</string>
+    <string name="main_menu">Hauptmenü</string>
+    <string name="match_system_bg_dark_text">Systemhintergrund + dunkler Text</string>
+    <string name="match_system_bg_light_text">Systemhintergrund + heller Text</string>
+    <string name="max_queue_limit_reached_1st_deleted">Maximale Anzahl Warteschlangen (=%1$d) erreicht. Die erste Warteschlange wurde gelöscht.</string>
+    <string name="min_duration_minutes_consider">Position nur merken bei Titeln mit einer Mindestspieldauer von:</string>
+    <string name="minimum_duration_consider_playback">Mindestspielzeit für gespielte Titel</string>
+    <string name="minimum_duration_consider_playback_explain">Einstellen der Mindestspielzeit ab wann ein Titel als gespielt betrachtet wird.</string>
+    <string name="more_about_musicolet">Mehr über Musicolet</string>
+    <string name="most_played">Meistgespielt</string>
+    <string name="most_played_first">Am meisten gespielt</string>
+    <string name="multi_selection_controls">Mehrfachauswahl-Tasten</string>
+    <string name="music_playback">Musik-Wiedergabe</string>
+    <string name="music_playback_suddenly_stops_while_multitasking">Warum wird die Wiedergabe im Hintergrund beendet während andere Apps benutzt werden (Multitasking)?</string>
+    <string name="musicoler_ss_caption_1">"Höre gerade #%1$s von #%2$s mit #musicolet…
+
+Holen Sie sich @musicolet vom Play Store: j.mp/musicolet"</string>
+    <string name="musicoler_ss_caption_2">"Höre gerade Musik mit #musicolet…
+
+Holen Sie sich @musicolet vom Play Store: j.mp/musicolet"</string>
+    <string name="musicolet_equalizer">Musicolet Equalizer</string>
+    <string name="musicolet_is_updated">Musicolet wurde aktualisiert!</string>
+    <string name="musicolet_lock_screen">Musicolet-Sperrbildschirm</string>
+    <string name="musicolet_lock_screen_desc">"Der Musicolet-Sperrbildschirm ermöglicht die Wiedergabesteuerung trotz aktivem System-Sperrbildschirm.
+
+"<small>Hinweis: Das Entsperren des Musicolet-Sperrbildschirmes entsperrt nicht den Standard-Sperrbildschirm.</small></string>
+    <string name="musicolet_lockscreen">Musicolet-Sperrbildschirm</string>
+    <string name="musicolet_notif">Musicolet-Stil</string>
+    <string name="musicolet_oreo_notif">Musicolet + AndroidOreo-Stil</string>
+    <string name="musicolet_requires_some_permissions">Musicolet benötigt einige Berechtigungen!</string>
+    <string name="musicolet_simpli_perf_and_effi">Musicolet ist ein auf Einfachheit, Performance und Leistungsfähigkeit fokussierter Musikplayer.</string>
+    <string name="mute">Mute</string>
+    <string name="needsaccess">Schreibrechte werden benötigt</string>
+    <string name="never">nie</string>
+    <string name="never_close_automatically">Niemals automatisch beenden</string>
+    <string name="new_name_here">Neuer Name</string>
+    <string name="new_playlist_name">Neuer Name der Wiedergabeliste</string>
+    <string name="new_queue">Neue Warteschlange</string>
+    <string name="next_song">Nächster Titel</string>
+    <string name="no">Nein</string>
+    <string name="no_app_available_to_share">Keine App zum Teilen verfügbar!</string>
+    <string name="no_embedded_lyrics_found_this_song">Kein Songtext in diesem Titel vorhanden.</string>
+    <string name="no_external_playlist_nor_backup_found">Keine externe Wiedergabeliste oder früher exportierte Musicolet-Wiedergabeliste gefunden.</string>
+    <string name="no_song_to_queue_b">[Kein Titel in der Warteschlange]</string>
+    <string name="not_all_device_support_system_eq">Hinweis: Nicht alle Geräte unterstützen den System-Equalizer.</string>
+    <string name="not_enough_cache_memory_ro_edit_info">Nicht genug Zwischenspeicher zum Bearbeiten der Titel-Infos vorhanden!</string>
+    <string name="not_enough_ram_for_action">Nicht genug freier Speicher, um diese Aktion auszuführen.</string>
+    <string name="not_valid_folder">Ungültiger Ordner</string>
+    <string name="notif_appear">Benachrichtigung</string>
+    <string name="notif_style_c">Benachrichtigungsstil:</string>
+    <string name="notif_warning">In Android werden Benachrichtigungen mittels RemoteViews erstellt. Eine App erstellt RemoteViews und sendet diese zur System UI. Danach werden sie gerendert und verwaltet von der System UI. Das ROM kann seine eigenen Änderungen daran vornehmen, weshalb diese Anpassungen bei manchen Geräten oder ROMs nicht funktionieren.</string>
+    <string name="notif_warning_title">Bei einigen Geräten funktionieren diese Anpassungen nicht. Bitte<u> hier klicken</u>, um den Grund zu erfahren.</string>
+    <string name="nowSelecttionProcessCloseOnAction">Die Auswahl wird aufgehoben sobald eine Aktion ausgewählt wurde.</string>
+    <string name="nowSelecttionProcessWillNotCloseOnAction">Die Auswahl bleibt nach dem Ausführen einer Aktion erhalten, um weitere Aktionen ausführen zu können.</string>
+    <string name="now_playing">Aktuelle Wiedergabe</string>
+    <string name="now_showing_filenames">Dateinamen statt Titel werden nun angezeigt.</string>
+    <string name="now_showing_titles">Titel statt Dateinamen werden nun angezeigt.</string>
+    <string name="ok">Ok</string>
+    <string name="open_source_lic"><u>Open-Source-Lizenzen</u></string>
+    <string name="options">Optionen</string>
+    <string name="options_for_listed_songs">Optionen für die aufgelisteten Titel</string>
+    <string name="options_for_songs_folder_subfolder">Optionen für alle Titel dieses Ordners und den Unterordnern</string>
+    <string name="options_for_songs_in_this_folder">Optionen für die Titel dieses Ordners</string>
+    <string name="options_for_this_song">Optionen für diesen Titel</string>
+    <string name="paste">Einfügen</string>
+    <string name="paste_or_write_lyrics_here">Songtext hier einfügen oder schreiben</string>
+    <string name="pause_when_disconnect">Pause beim Trennen</string>
+    <string name="pause_when_disconnect_explain">Wenn aktiviert, wird beim Trennen der Headset-, Lautsprecher- oder Bluetooth-Verbindung die Wiedergabe unterbrochen.</string>
+    <string name="permission_reqired">Berechtigung wird benötigt!</string>
+    <string name="play">Abspielen</string>
+    <string name="play_after_current_song">Nach dem aktuellen Titel spielen</string>
+    <string name="play_next_song">Nächsten Titel spielen</string>
+    <string name="play_or_pause">Wiedergabe oder Pause</string>
+    <string name="play_queue">Warteschlange</string>
+    <string name="play_speed">Wiedergabe-Geschwindigkeit</string>
+    <string name="played">Gespielt</string>
+    <string name="playlist_exported_Success">Die ausgewählte Wiedergabeliste wurde erfolgreich exportiert.</string>
+    <string name="playlist_order_saved">Reihenfolge der Wiedergabeliste gespeichert</string>
+    <string name="playlist_tab_cant_be_hidden">Der Wiedergabelisten-Tab darf nicht versteckt sein!</string>
+    <string name="playlists">Wiedergabelisten</string>
+    <string name="please_wait">Bitte warten</string>
+    <string name="preset_name">Preset-Name</string>
+    <string name="previous_song">Vorheriger Titel</string>
+    <string name="previous_song_behaviour_setting">Verhalten der Zurück-Taste</string>
+    <string name="previous_song_behaviour_setting_explain">Bestimmt das Verhalten, wenn die Zurück-Taste des Players, der Benachrichtigung, des Sperrbildschirmes oder Headsets gedrückt wird.</string>
+    <string name="queue_instead_fav">Warteschlangen-Verknüpfung statt Favoriten-Taste</string>
+    <string name="queues">Warteschlangen</string>
+    <string name="queues_and_playlists">Warteschlangen und Wiedergabelisten</string>
+    <string name="randomize">Mischen</string>
+    <string name="rate_us_5_stars">Bewerten Sie uns mit 5 Sternen</string>
+    <string name="read_them_first_click_here">Bitte zuerst hier klicken und lesen.</string>
+    <string name="recently_added">Zuletzt hinzugefügt</string>
+    <string name="reload_metadata_settings">Metadaten (Tags) neu laden</string>
+    <string name="reload_metadata_settings_explain">Lädt die Metadaten neu vom Speicher und aktualisiert die Tags in allen Warteschlangen und Wiedergabelisten.</string>
+    <string name="rem_pos_indie_songs">Merken der letzten Wiedergabe-Position eines jeden Titels</string>
+    <string name="remove_album_art">Album-Cover entfernen</string>
+    <string name="remove_from_favorites">Von den Favoriten entfernen</string>
+    <string name="remove_from_this_playlist">Aus dieser Wiedergabeliste entfernen</string>
+    <string name="remove_from_this_queue">Von dieser Warteschlange entfernen</string>
+    <string name="remove_playlist">Wiedergabeliste entfernen</string>
+    <string name="remove_this_queue">Diese Warteschlange entfernen</string>
+    <string name="rename">Umbenennen</string>
+    <string name="rename_playlist">Wiedergabeliste umbenennen</string>
+    <string name="rename_queue">Warteschlange umbenennen</string>
+    <string name="rename_this_queue">Diese Warteschlange umbenennen</string>
+    <string name="repeat_options">Wiederholoptionen</string>
+    <string name="repeat_queue">Warteschlange wiederholen</string>
+    <string name="repeat_song">Titel wiederholen</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="reset_timer">Timer zurücksetzen</string>
+    <string name="respect_audio_focus_desable_alert">"Sie haben 'Audiofokus respektieren' abgeschaltet. Dies bedeutet, dass die Wiedergabe nicht pausiert, wenn andere Apps eine Audio-Wiedergabe starten oder ein Anruf durchgeführt wird."</string>
+    <string name="respect_audio_focus_explain">Wiedergabe bei Anrufen pausieren und wenn andere Apps den Audiofokus anfordern. Nicht abwählen, solange Sie die Bedeutung nicht kennen!</string>
+    <string name="respect_audiofocus_settings">Audiofokus respektieren</string>
+    <string name="resume_last_position_q">Fortsetzen an der letzten Position (%1$s)?</string>
+    <string name="resume_playback">Wiedergabe fortsetzen</string>
+    <string name="resume_this_queue">Diese Warteschlange fortsetzen</string>
+    <string name="resume_without_asking">Fortsetzen ohne Nachfrage</string>
+    <string name="resumed_from_last_rem">Fortsetzen an der zuletzt gespeicherten Position</string>
+    <string name="reverse">Umgekehrt</string>
+    <string name="rewind">Schneller Rücklauf</string>
+    <string name="ringtone_is_set">Der Klingelton wurde eingestellt.</string>
+    <string name="ringtone_modify_sys_permission_explanantion">Musicolet besitzt keine Rechte, um Systemeinstellungen zu verändern. Ohne diese Berechtigung kann der Klingelton nicht geändert werden. Gehen Sie in die App-Einstellungen, suchen Sie dort Musicolet und geben alle nötigen Rechte. Dann versuchen Sie es erneut.</string>
+    <string name="s_new_playlist">Neue Wiedergabeliste</string>
+    <string name="saf_description_delete">"Auf Grund der Systembeschränkung von Android dürfen Apps Dateien auf externen Speichermedien (z.B. SD-Karten, USB-Sticks usw.) nur mit Zustimmung des Benutzers löschen/ändern. Um die aktuelle Datei löschen zu können, gewähren Sie bitte die Zugriffsberechtigung.
+
+Folgen Sie diesen 4 einfachen Schritten (falls erforderlich, Bild vergrößern):"</string>
+    <string name="saf_description_modify">"Auf Grund der Systembeschränkung von Android dürfen Apps Dateien auf externen Speichermedien (z.B. SD-Karten, USB-Sticks usw.) nur mit Zustimmung des Benutzers ändern. Um Metadaten (Tags) bearbeiten zu können, gewähren Sie bitte die Zugriffsberechtigung.
+
+Folgen Sie diesen 4 einfachen Schritten (falls erforderlich, Bild vergrößern):"</string>
+    <string name="save">Speichern</string>
+    <string name="save_changes_q">Änderungen speichern?</string>
+    <string name="save_order">Reihenfolge speichern</string>
+    <string name="save_preset">Preset speichern</string>
+    <string name="save_this_queue">Diese Warteschlange speichern</string>
+    <string name="save_to_gallery">In Galerie speichern</string>
+    <string name="saved_in_gallary_musicolet">In der Galerie im Musicolet-Ordner gespeichert!</string>
+    <string name="scan_this_folder">Scan von diesem Ordner aus starten</string>
+    <string name="screen_shot">Screenshot</string>
+    <string name="scrolled_to_current_song">Zum aktuellen Titel dieser Warteschlange geblättert.</string>
+    <string name="search">Suche</string>
+    <string name="search_album_art_with">Album-Cover suchen mit…</string>
+    <string name="search_lyrics">Songtext suchen</string>
+    <string name="search_lyrics_with">Songtext suchen mit…</string>
+    <string name="search_menu_title">Suchen</string>
+    <string name="search_title_album_artist">Suche nach Titel, Album, Interpret</string>
+    <string name="seekbar_to_seek_the_song">Fortschrittsbalken zum Durchspulen</string>
+    <string name="select_a_playlist">Wiedergabeliste wählen</string>
+    <string name="select_all">Alles auswählen</string>
+    <string name="select_all_from_this_list">"Alle Titel
+auswählen"</string>
+    <string name="select_all_songs_artist">Alle Titel dieses Interpreten auswählen</string>
+    <string name="select_all_songs_folder">Alle Titel dieses Ordners auswählen</string>
+    <string name="select_all_songs_genre">Alle Titel dieses Genre auswählen</string>
+    <string name="select_all_songs_of_album">Alle Titel dieses Albums auswählen</string>
+    <string name="select_all_songs_playlist">Alle Titel dieser Wiedergabeliste auswählen</string>
+    <string name="select_all_songs_sub_folder">Alle Titel dieses Ordners und Unterordner auswählen</string>
+    <string name="set_as_ringtone">Als Klingelton verwenden</string>
+    <string name="set_timer">Timer aktivieren</string>
+    <string name="settings">Einstellungen</string>
+    <string name="share">Teilen</string>
+    <string name="share_screenshot">Screenshot teilen</string>
+    <string name="share_song">Titel teilen</string>
+    <string name="share_with_friends">Mit Freunden teilen</string>
+    <string name="sharing_too_many_files_warn">Zu viele Dateien zu teilen wird eventuell nicht vom System unterstützt</string>
+    <string name="shorect_removed_menu">Verknüpfung vom Hauptmenü entfernt</string>
+    <string name="shortcut_added_menu">Verknüpfung im Hauptmenü erstellt</string>
+    <string name="show_advance_controls">Erweiterte Steuerungen anzeigen</string>
+    <string name="show_embedded_lyrics">Eingebetteten Songtext anzeigen</string>
+    <string name="show_explanation">Bitte hier klicken, um zuerst eine Erläuterung zu lesen.</string>
+    <string name="show_favorite_button">Favoriten-Taste anzeigen</string>
+    <string name="show_filename_instead_of_title_explain">Anzeige des Dateinamens statt des Titels</string>
+    <string name="shuffle_all">Alles mischen</string>
+    <string name="shuffle_and_play">Mischen und abspielen</string>
+    <string name="shuffle_listed_songs">Aufgelistete Titel mischen</string>
+    <string name="shuffle_mode_off">Zufallswiedergabe ist aus</string>
+    <string name="shuffle_mode_on">Zufallswiedergabe ist an</string>
+    <string name="shuffle_mode_on_off">Zufallswiedergabe ein/aus</string>
+    <string name="shuffle_mode_vs_randomize">Zufallswiedergabe vs. Titel mischen</string>
+    <string name="size">Größe</string>
+    <string name="sleep_timer">Schlummerfunktion</string>
+    <string name="sleep_timer_explain_when_off">Anhalten der Wiedergabe und Beenden der App nach…</string>
+    <string name="sleep_timer_explain_when_on">Die Wiedergabe wird gestoppt und Musicolet beendet nach…</string>
+    <string name="song_info">Titel-Infos</string>
+    <string name="song_lib_updated_success">Titelsammlung erfolgreich aktualisiert!</string>
+    <string name="song_library_and_tags">Titelsammlung und Metadaten</string>
+    <string name="song_library_section">Titelsammlung</string>
+    <string name="sort_listed_songs">Aufgelistete Titel sortieren</string>
+    <string name="sort_songs_by">Titel sortieren nach…</string>
+    <string name="sort_this_playlist">Wiedergabeliste sortieren</string>
+    <string name="sort_this_queue">Titel dieser Warteschlange sortieren</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="still_not_finding_song_explanation">"
+&lt;b>Sie finden Ihre Titel immer noch nicht?&lt;/b>&lt;br/>
+Neu hinzugefügte Titel finden Sie nicht in den Warteschlangen. Suchen Sie diese in den anderen Tabs.&lt;br/>&lt;br/>
+Stellen Sie sicher, dass der Ordner mit den neuen Titeln oder &lt;b>ein übergeordneter Ordner&lt;/b>&amp;#8230;&lt;br/>&lt;br/>
+1. &amp;#8230;sich nicht in der Liste der &lt;a href=#1>ausgeschlossenen Ordner&lt;/a> befindet (siehe 'Einstellungen' > 'Titelsammlung und Metadaten' > 'Ausgeschlossene Ordner'),&lt;br/>&lt;br/>
+2. &amp;#8230;nicht versteckt ist und sein Name nicht mit . (Punkt) beginnt,&lt;br/>&lt;br/>
+3. &amp;#8230;kein privater Ordner einer App ist und&lt;br/>&lt;br/>
+4. &amp;#8230;keine Datei mit dem Namen '.nomedia' enthält.&lt;br/>&lt;br/>
+Nachdem Sie diese Punkte geprüft haben, führen Sie einen erneuten Scan durch.
+"</string>
+    <string name="still_not_finding_songs">"Durch Drücken auf die Taste 'Scan jetzt erzwingen' wird ein erneuter Scan im anzugebenden Ordner ausgeführt. Finden Sie Ihre Titel danach immer noch nicht,&lt;b> &lt;u>klicken Sie bitte hier&lt;/u>&lt;/b>."</string>
+    <string name="stock_notifi">Standard-Benachrichtigung</string>
+    <string name="stock_notifi_not_custmzbl">Standard-Benachrichtigungen werden vom System bereitgestellt und sind weniger anpassbar.</string>
+    <string name="summary_use_remaining_time">Wenn aktiviert, wird die verbleibende statt der gespielten Zeit des aktuellen Titels anzeigen.</string>
+    <string name="support_developer">Entwickler unterstützen</string>
+    <string name="surround_sound">Surround-Sound</string>
+    <string name="swipe_app_to_close_explain">Wiedergabe anhalten und App schließen, wenn die App aus der Liste der zuletzt geöffneten Apps durch Wischen entfernt wird.</string>
+    <string name="switching_to_musicolet_eq">Umschalten auf den Musicolet-Equalizer…</string>
+    <string name="system_equalizer">System Equalizer</string>
+    <string name="system_equlizer_not_supported_in_device">Der System-Equalizer wird auf diesem Gerät nicht unterstützt.</string>
+    <string name="tabs_below_this_position_hidden">Tabs unterhalb dieser Position werden ausgeblendet.</string>
+    <string name="tags_albumArt_embbededLyrics">Tags, Album-Cover, eingebettete Songtexte</string>
+    <string name="thank_you">Vielen Dank!</string>
+    <string name="that_list_is_empty">Diese Liste ist leer!</string>
+    <string name="theme">Design</string>
+    <string name="this_queue_is_active">Dies ist die aktuelle Warteschlange.</string>
+    <string name="this_queue_is_already_playing">Diese Warteschlange wird bereits wiedergegeben.</string>
+    <string name="this_queue_is_not_active">Diese Warteschlange wird aktuell nicht abgespielt.</string>
+    <string name="this_queue_is_resumed">Diese Warteschlange wird fortgesetzt.</string>
+    <string name="title">Titel</string>
+    <string name="title_asc">Titelname aufsteigend</string>
+    <string name="title_dsc">Titelname absteigend</string>
+    <string name="toggle_favorite">Favorit hinzufügen/entfernen</string>
+    <string name="too_much_songs_in_multiple_queues">Zu viele Titel in den Warteschlangen!</string>
+    <string name="track_asc">Titelnummer aufsteigend</string>
+    <string name="track_dsc">Titelnummer absteigend</string>
+    <string name="track_number">Titel-Nummer</string>
+    <string name="triple_press_action">Dreifachklick auf Kopfhörertaste</string>
+    <string name="twitter">Twitter</string>
+    <string name="unknown_b">[unbekannt]</string>
+    <string name="unlock">Entsperren</string>
+    <string name="unnamed">Unbenannt</string>
+    <string name="updating_library">Titelsammlung aktualisieren…</string>
+    <string name="use_big_fonts">Große Schriften verwenden</string>
+    <string name="use_light_status_bar">Helle Statuszeile beim System anfordern</string>
+    <string name="use_remaining_time">Verbleibende Zeit anzeigen</string>
+    <string name="use_x">Benutze %1$s</string>
+    <string name="usefull_for_audiobook">Nützlich zum Fortsetzen der Wiedergabe an der letzten Position bei langen Titeln, Podcasts, Hörbüchern usw.</string>
+    <string name="version_whatsnew">v %1$s<u> (Was ist neu)</u></string>
+    <string name="view_album_art">Album-Cover anzeigen</string>
+    <string name="volume">Lautstärke</string>
+    <string name="volume_slider">Lautstärkeregler</string>
+    <string name="waring_reloading_metadata">"
+Diese Funktion sollten Sie nur verwenden, wenn Sie &lt;b>die Metadaten (ID3-Tags) der Titel außerhalb von Musicolet (mit einer anderen App oder am PC) bearbeitet haben&lt;/b> und diese Änderungen nicht in Musicolet sehen.&lt;br/>&lt;br/>Wenn Sie diese Funktion benötigen, so lesen Sie bitte folgende Warnung. Sie können diese Warnung ignorieren, wenn Sie sich sicher sind, dass die Tags, welche neu geladen werden sollen, dem internationalen Standard zur &lt;a href=https://en.wikipedia.org/wiki/Character_encoding>Zeichenkodierung&lt;/a> für Tags entsprechen.&lt;br/>&lt;br/>
+&lt;small>Musicolet nutzt zum Lesen der Metadaten das MediaStorage Framework. Aber nach dem Bearbeiten der Tags mancher Titel könnte die Erkennung der richtigen Kodierung fehlschlagen. Wenn MediaStorage eine falsche Zeichenkodierung erkennt, &lt;b>können Tags unlesbar sein&lt;/b>. Allerdings tritt dies selten auf, nur wenn keine international akzeptierte Kodierung für Tags verwendet wird. Wenn dies auftritt, &lt;b>ist es kein Fehler von Musicolet und wir können dafür nicht verantwortlich gemacht werden&lt;/b>. Wir haben Sie gewarnt.&lt;/small>
+"</string>
+    <string name="warning_edit_tags_encoding">"
+Sie können diese Warnung ignorieren, wenn Sie sich sicher sind, dass die Tags, welche neu geladen werden sollen, dem internationalen Standard zur &lt;a href=https://en.wikipedia.org/wiki/Character_encoding>Zeichenkodierung&lt;/a> für Tags entsprechen.&lt;br/>&lt;br/>
+&lt;small>Musicolet nutzt zum Lesen der Metadaten das MediaStorage Framework. Aber nach dem Bearbeiten der Tags mancher Titel könnte die Erkennung der richtigen Kodierung fehlschlagen. Wenn MediaStorage eine falsche Zeichenkodierung erkennt, &lt;b>können Tags unlesbar sein&lt;/b>. Allerdings tritt dies selten auf, nur wenn keine international akzeptierte Kodierung für Tags verwendet wird. Wenn dies auftritt, &lt;b>ist es kein Fehler von Musicolet und wir können dafür nicht verantwortlich gemacht werden&lt;/b>. Wir haben Sie gewarnt.&lt;/small>
+"</string>
+    <string name="warning_editing_tags">Bitte hier klicken, um eine Warnung bezüglich dem Editieren der Tags zu lesen.</string>
+    <string name="what_is_diff_queues_playlists">Was ist eine Warteschlange?</string>
+    <string name="what_is_multiple_queue_concept">Was verbirgt sich hinter dem Konzept mit mehreren Warteschlangen?</string>
+    <string name="whats_new">Was ist neu</string>
+    <string name="when_a_song_ends">Wenn ein Titel endet…</string>
+    <string name="when_queue_ends">Wenn die aktuelle Warteschlange endet…</string>
+    <string name="where_are_widgets">Warum kann ich die Widgets nicht finden?</string>
+    <string name="where_is_genre_tab">Wo ist der Genre-Tab?</string>
+    <string name="why_cannt_edit_some_tags">Warum können manche Titel-Infos nicht bearbeitet werden?</string>
+    <string name="why_cant_find_newly_added_songs">Warum kann ich manche Titel nicht finden?</string>
+    <string name="why_embedded_lyrics_why_not_online_q">Warum werden Songtexte nicht automatisch heruntergeladen?</string>
+    <string name="why_not_auto_fetch_albumart_q">Warum werden Album-Cover nicht automatisch heruntergeladen?</string>
+    <string name="widget_4x1_advance_controls">Musicolet erweiterte Steuerung</string>
+    <string name="widget_4x1_simple">Musicolet einfaches Widget</string>
+    <string name="widget_4x3_with_queue">Musicolet Steuerung + Warteschlange</string>
+    <string name="widget_theme_c">Widget-Design:</string>
+    <string name="widget_transparency_c">Widget-Transparenz:</string>
+    <string name="x_minute">%1$d min</string>
+    <string name="year">Jahr</string>
+    <string name="year_asc">Jahr aufsteigend</string>
+    <string name="year_dsc">Jahr absteigend</string>
+    <string name="yes">Ja</string>
+    <string name="your_playlists">Ihre Wiedergabelisten</string>
+</resources>

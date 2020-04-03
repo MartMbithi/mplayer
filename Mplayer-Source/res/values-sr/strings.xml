@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Black_AMOLED">Црна (AMOLED)</string>
+    <string name="DarkTheme">Тамна</string>
+    <string name="Folder_tab_structure">Структура картице за фасцикле</string>
+    <string name="LightTheme">Светла</string>
+    <string name="_0_times_before">0 пута</string>
+    <string name="a_b_repeat">A-B понављање</string>
+    <string name="a_quick_tip_about_queue">Савети за картицу(таб) редослед</string>
+    <string name="abc_action_bar_home_description">Одлазак на Почетну</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Кретање нагоре</string>
+    <string name="abc_action_menu_overflow_description">Још опција</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Прикажи све</string>
+    <string name="abc_activitychooserview_choose_application">Избор апликације</string>
+    <string name="abc_capital_off">ИСКЉУЧИ</string>
+    <string name="abc_capital_on">УКЉУЧИ</string>
+    <string name="abc_search_hint">Претражите...</string>
+    <string name="abc_searchview_description_clear">Брисање упита</string>
+    <string name="abc_searchview_description_query">Упит за претрагу</string>
+    <string name="abc_searchview_description_search">Претрага</string>
+    <string name="abc_searchview_description_submit">Слање упита</string>
+    <string name="abc_searchview_description_voice">Гласовна претрага</string>
+    <string name="abc_shareactionprovider_share_with">Дели са</string>
+    <string name="abc_shareactionprovider_share_with_application">Дели са апликацијом %s</string>
+    <string name="abc_toolbar_collapse_description">Скупи</string>
+    <string name="accent_color">Боја за наглашавање</string>
+    <string name="adapt_from_aa">Усклади боју са омотом албума</string>
+    <string name="adaptive_color_controls">Усклади боју са контролама</string>
+    <string name="add_folder">Додај фасциклу</string>
+    <string name="add_its_songs_to_favorites">Додај њене песме у омиљене</string>
+    <string name="add_its_songs_to_playlist">Додај њене песме у плеј-листу</string>
+    <string name="add_shortcut_in_main_menu">Додај пречицу у главни мени</string>
+    <string name="add_this_folder">Додај ову фасциклу</string>
+    <string name="add_to_a_playlist">Додај у плејлисту</string>
+    <string name="add_to_a_queue">Додај у ред</string>
+    <string name="add_to_currently_playing_queue">Додај у тренутни ред</string>
+    <string name="add_to_favorites">Додај у омиљене</string>
+    <string name="advance">Напредно</string>
+    <string name="aks_to_resume">Питај за наставак</string>
+    <string name="album">Албум</string>
+    <string name="album_art">Омот албума</string>
+    <string name="album_asc">Албум уздижуће</string>
+    <string name="album_dsc">Албум спуштајуће</string>
+    <string name="album_tab_not_found">Картица за албуме није пронађена. Прво је омогућите у подешавањима.</string>
+    <string name="album_view_mode">Режим приказа албума</string>
+    <string name="albums">Албуми</string>
+    <string name="all_songs">Све песме</string>
+    <string name="allowed_delay_explain">"
+За акцију другог и трећег притиска: 700 милисекунди
+
+За >четврти : 3 секунде (велико кашњење је дозвољено овде, како би лакше премотали песму.)
+
+Ово је само информација. Нису могуће промене.
+
+"</string>
+    <string name="allowed_delays_info">Тапните овде да сазнате дозвољено време између два притиска на дугме слушалице</string>
+    <string name="allowed_delays_title">Дозволи кашњење између два притиска на дугме слушалице</string>
+    <string name="alread_have_same_name_playlist">Већ постоји плејлиста под истим именом.</string>
+    <string name="already_a_queue_with_name_x">Већ постоји ред под именом %1$s</string>
+    <string name="always_play_prev_song">Увек пуштај претходну песму</string>
+    <string name="ans_a_quick_tip_about_queue">"У картици(таб-у) за ред, кад год желите да нађете песму која тренутно свира, само тапните на бројача песама. (пример бројача 5/15, где је 5 редни број песме, а 15 је укупан број.)
+
+Ако желите да неку песму склоните из реда, држите две линије крај песме, и превуците на десно."</string>
+    <string name="ans_audio_formats_supported">"
+Musicolet користи већ постојеће декодере који се налазе на вашем уређају. Све док је аудио формат подржан од стране вашег уређаја, Musicolet ће радити како треба. Погледајте &lt;a href='https://developer.android.com/guide/topics/media/media-formats.html'>Supported Formats&lt;/a>. (Може варирати у зависности од модела)
+"</string>
+    <string name="ans_does_transmit_data_in_background">"
+Не. Musicolet је 100% OFFLINE апликација. Не шаље чак ни статистику корисника, нити друге рапорте.
+
+Заправо, технички не може ни да користи интернет. Јер намерно нисмо увели ту опцију. Без интернет дозволе (такође знане као 'Full network access permission'), ниједна апликација не може користити интернет, и то је чињеница.
+
+Како би то потврдили идите на Musicolet 'app info' > 'Дозволе' > 'Све дозволе'. Или на Play продавницу и проверите Musicolet дозволе, и видећете да нема ничег везаног за приступ интернету."</string>
+    <string name="ans_equalizer_not_working_q">"Musicolet користи андроид компоненте AudioFX за манипулацију аудио датотекама. Ако је произвођеч ваше уређаја изменио те компоненте, и није пратио AOSP смерице, еквилизатор можда неће радити.
+
+Ако Musicolet еквилизатор не ради, можете поробати системски, који је дошао уз ваш телефон. Да их испробате, идите на \\'Musicolet\\'->'Подешавања'->'Аудио'->'Жељени еквилизатор'."</string>
+    <string name="ans_facts_about_queues">"
+Можете имати максимум 20 редова. 
+
+Баш превише редова, са доста песама у сваком, може успорити целокупни рад апликације. Препорука је да уклоните оне редове које више не слушате. 
+
+Име реда \"Све песме\" или \"Folder123\" не замењују албуме, или друге фасцикле, које носе исто име. Значи имена редова, албума, или фасцикли нису исто. Када додате нове песме у вашу музичку библиотеку, идите у картицу(таб) која је задужен за то што тражите. Ако на пример тражите листе песама идете у картицу задужену за листе песама, ако тражите све фасцикле идите у картицу(таб) задужену за фасцикле и слично. 
+
+Име реда мора бити уникатно, али само међу осталим редовима. 
+
+Забрањени су дупликати песама у једном реду."</string>
+    <string name="ans_how_can_you_appreciate_our_work">"
++ Тако што ћете нас оценити са 5 звездица на Гугл продавници.
+
++ Тако што ћете рећи породици и пријатељима о овој сјајној апликацији. 
+
++ Тако што ћеtе нас лајковати на &lt;a href=https://facebook.com/musicolet>Facebook&lt;/a>
+ и пратити нас на &lt;a href=https://twitter.com/musicolet>Twitter&lt;/a> и &lt;a href=https://instagram.com/musicolet>Instagram&lt;/a>.
+"</string>
+    <string name="ans_music_playback_suddenlt_stops">"
+&lt;b>Кратак одговор:&lt;/b> &lt;a href=https://youtu.be/J9-8Ct0n6c0>Погледај овај видео&lt;/a>
+
+
+&lt;b>Дугачак, али како треба одговор&lt;/b>
+Xiaomi's MIUI ROM има врло агресиван &lt;a href='https://en.wikipedia.org/wiki/Memory_management_(operating_systems)'>Memory management (RAM management)&lt;/a>. При мултитаскингу MIUI убија позадинске апликације(=Апликације које се не виде на екрану) како би сачувао и ослободио што више меморије.
+
+У већини случајева то је непотребно. Уз то већ постојећи управљач меморије's Memory management је врло добар. Поуздан је и сјајан.
+
+Ипак MIUI користи свој Memory management систем. Одлуке које MIUI доноси за \"Коју апликацију прво убити\" је понекад лоша.
+
+&lt;b>Због тога док слушате музику у позадини, и користите друге апликације, MIUI може убити Musicolet.&lt;/b>
+
+&lt;b>Солуција?&lt;/b>
+Пошто је то познат проблем, има доста дискусија по разним форумима. Неки корисници су нашли начин да твикују MIUI понашање опцијама у developer секцији.
+&lt;b>Ово је видео који нуди солуцију корак по корак:&lt;/b> &lt;a href=https://youtu.be/J9-8Ct0n6c0>https://youtu.be/J9-8Ct0n6c0&lt;/a>
+"</string>
+    <string name="ans_shuffle_mode_vs_randomize">"
+Shuffle вам не дозвољава да предвидите следећу песму. Опција \\'Пусти након тренутне песме\\' такође неће радити.
+
+Алтернатива за Shuffle је Randomize. Идите на картицу(таб) за ред, и тапните на сортирај, па изаберите Randomize. Он ће измешати песме, али ви ћете моћи да видите тај редослед."</string>
+    <string name="ans_what_is_diff_queues_playlists">Ред је привремена листа песама која одређује која ће следећа бити пуштена. Редослед се налази на првој картици(таб-у). Ту можете мењати редослед, тако што држите две цртице крај песме, и вучете их у жељеном смеру.</string>
+    <string name="ans_what_is_multiple_queue_concept">"
+Musicolet jе ЈЕДНИНИ андроид музички програм који подржава вишередни редоследа песама. 
+
+Бенефит вишередног редоследа: 
+1. Можете припремити више од једног реда док слушате песме из неког другог. 
+
+2. Рецимо припремили сте један ред, а немате вишередну опцију (као у свим другим апликацијама) и док претражујете вашу библиотеку песама, случајно притиснете на ту неку другу песму. Десиће се то да ваша претходна листа песама и њен редослед буде избрисан и замењен новим. Са Musicolet апликацијом то се неће десити, већ ће се створити нов редослед песама. Док ће ваш стари остати нетакнут, а музика ће се наставити. Тек по завршетку старе листе песама или редоследа ће се прећи на тај нови који сте направили, а стари ће бити сачуван и већ речено, остати нетакнут. 
+
+3. Musicolet чак памти редослед тренутно пуштених песама из свих редова. 
+
+Можете и привремено именовати и мењати имена сваког редоследа. А касније их и пребацити у вашу листу песама."</string>
+    <string name="ans_where_are_widgets">"
+&lt;b>\"Кадa год се андроид апликација инсталира на СД картицу, или се помери на њу. Неке функције могу престати да функционишу, као на пример виџети.\"&lt;/b> 
+
+Овај проблем није заобишао ни Musicolet. Тако &lt;b>да ако вам требају виџети, требали би задржати инсталацију на интерном складишту&lt;/b>.
+
+
+Можете се запитати:
+
+&lt;b>Нисам инсталирао на СД картицу, већ се сам аутоматски тамо инсталирао.&lt;/b> 
+
+Одговор: Ми програмери имамо два избора. Да дозволимо апликацији да се инсталира на СД картицу, или не. Пошто су многи корисници питали за ту опцију, ми смо је укључили.
+Али где ће она бити инсталирана зависи од самог андроид система. Ми немамо контролу над тим.
+
+
+&lt;b>Како да померим апликацију на интерно складиште?&lt;/b> 
+
+Одговор: (а) Идите на Подешавања > Апликације (или Apps, зависи од модела вашег телефона). Ту нађите Musicolet и тапните на њега. Затим нађите опцију помери на интерно складиште (Move to internal storage). (б) Претражите на Гуглу: како да померим апликацију на интерно складиште (име вашег телефона овде).\"
+"</string>
+    <string name="ans_where_is_genre_tab">"Идите на 'Musicolet' -> 'подешавања' -> 'Уреди картице(таб-ове)'. Ако не налазите жанр картицу, онда је ваш уређај не подржава. Неки старији Андроид уређаји имају доста багова са жанровима у mediastore бази података . Пошто Musicolet зависи од њих, жанрови неће бити подржани."</string>
+    <string name="ans_why_cannt_edit_some_tags">"
+Ако песма има покварене ID3 tагове, или не дозвољава да се пише по ID3 таговима. Онда тагови на таквим песмама не могу бити промењени."</string>
+    <string name="ans_why_cant_find_newly_added_songs">"
+Ако не налазите ново задане песме у редовима. Погледајте у другим картицама(таб-овима). Јер су редови потпуно различите ствари од  плејлисти.&lt;br/>
+Проверите следеће: Фасцикла у којој су ваше песме или &lt;b>било који од родитељских фасцикли&lt;/b>&amp;#8230;&lt;br/>
+1) &amp;#8230;није додат у листу одстрањених фасцикли(погледај Musicolet>подешавања>'библиотека песама '>'одстрањене фасцикле')&lt;br/>
+2) &amp;#8230;није сакривена фасцикла јер не почиње са .(тачком)&lt;br/>
+3) &amp;#8230;није приватна фасцикла јер не припада ниједној апликацији&lt;br/> 
+4) &amp;#8230;не садржи датотеку имена'.nomedia' (.nomedia датотеке су обично сакривени у Управљачу Датодека)&lt;br/>&lt;br/>
+Ако и даље не можете наћи ваше песме, прочитејте ово:&lt;br/>&lt;br/>
+Musicolet ради брзо скенирање на сваком старту. Ради ефикасности и чувања батерије, користи Андроидов &lt;b>MediaStorage framework&lt;/b>. Android MediaStorage framework је снажан механизам за упите и чување записа постојећих података на интерном и екстерном складишту. Многе апликације, укључујући и Галерију зависе од њега.
+
+Ипак, понекад апликације (попут Управљача датотека, Браузера које сам скинуо и тестирао) не обавесте Android MediaStorage framework о променама. Па сам MediaStorage не буде ни свестан тих промена. То је чест разлог што се не налазе ново додане песме у апликацији Musicolet.
+Солуција:
+(1) Урадите присиљено скенирање. (Идите на Musicolet подешавања > Библиотеку песама > присили на поновно скенирање)
+
+ or 
+
+
+(2) Угасите па поново покрените ваш уређај. Након тога сачекајте 2-3 минута, па потражите ваше песме.
+"</string>
+    <string name="ans_why_embedded_lyrics_why_not_online_q">"
+Musicolet спада у ретке апликације које немају приступ интернету (тпк 'Full Network Access Permission'). Како би учинили да Musicolet има што мање захтева за приступ, намерно смо искључили ту опцију. Без интернета апликација не може слати нити примати податке. &lt;b>С тога, опције попут скидања текстова песама нису могуће&lt;/b>.
+"</string>
+    <string name="ans_why_not_auto_fetch_albumart_q">"
+Musicolet спада у ретке апликације које немају приступ интернету (тпк 'Full Network Access Permission'). Како би учинили да Musicolet има што мање захтева за приступ, намерно смо искључили ту опцију. Без интернета апликација не може слати нити примати податке. &lt;b>С тога, опције попут скидања текстова песама нису могуће&lt;/b>.
+"</string>
+    <string name="app_closed_because_of_sleep_timer">Тајмер је затворио Musicolet. :)</string>
+    <string name="app_desc">Musicolet - Лагани музички програм простог дизајна, али са мноштво опција. Једнини андроид музички програм са избором вишередног редоследа песама.</string>
+    <string name="app_really_need_your_permissions">Апликација захтева дозволу како би функционисала!</string>
+    <string name="app_reqiures_permissions_to_run">Musicolet захтева дозволу како би функционисао.</string>
+    <string name="appearance">Изглед</string>
+    <string name="appling_changes">Примењујем промене</string>
+    <string name="are_you_sure_q">Јесте ли сигурни?</string>
+    <string name="arrange_tabs">Аранжирај картице(таб-ове)</string>
+    <string name="artist">Извођач</string>
+    <string name="artist_asc">Извођач уздижуће</string>
+    <string name="artist_dsc">Извођач спуштајуће</string>
+    <string name="artist_not_found">Картица за извођаче није пронађена. Прво је омогућите у подешавањима.</string>
+    <string name="artists">Извођачи</string>
+    <string name="attention_e">Пажња!</string>
+    <string name="audio">Аудио</string>
+    <string name="audio_formats_supported">Подржава ли Musicolet WMA/Opus/FLAC/ALAC?</string>
+    <string name="auto_close_app_setting">Аутоматски затвори апликацију ако музичка репродукција није покренута</string>
+    <string name="auto_close_app_setting_explain">Затвори апликацију у одређено време ако она није видљива и ако музичка репродукција није покренута</string>
+    <string name="back">Назад</string>
+    <string name="background_c">Позадина:</string>
+    <string name="bass_boost">Појачај бас</string>
+    <string name="bitrate">Брзина протока</string>
+    <string name="blurred_bg_explain">Прикажи уроњену замагљену слику албума као позадину на екрану за музику</string>
+    <string name="blurrend_bg_setting">Замагљена позадина је сада на екрану за музику</string>
+    <string name="broadcast_aa_explain">Како би било коришћено од апликације треће стране, и андроидовом закључаном екрану.</string>
+    <string name="broadcast_album_art_setting">Приказуј омоте албума</string>
+    <string name="can_not_read_that_folder">Не могу да прочитам дату фасциклу!</string>
+    <string name="cancel">Откажи</string>
+    <string name="cant_be_empty">Не може бити празно</string>
+    <string name="cant_edit_info_of_given_files">Не могу да уредим инфо дате датотеке.</string>
+    <string name="caption_is_be_copied_to_clipboard">Наслов је копиран. Треба само да га налепите.</string>
+    <string name="center_aligned_text">Центрирани текст</string>
+    <string name="change_album_art">Промени омот албума</string>
+    <string name="changes_will_apply_physically">Измене ће бити записане за сваку аудио-датотеку (на меморији уређаја). Ова радња може потрајати.</string>
+    <string name="choose_lang">Избор језика</string>
+    <string name="clear">Очисти</string>
+    <string name="clear_search_history">Очисти историју претраге</string>
+    <string name="close">Затвори</string>
+    <string name="close_app">Изађи</string>
+    <string name="close_lyrics">Затвори текст</string>
+    <string name="close_selection_process_after_an_option_is_selected">Затвори селективни процес када је нека опција изабрана</string>
+    <string name="composer">Композитор</string>
+    <string name="copy_to_a_queue">Копирај у ред</string>
+    <string name="cpu_efficient_scroll">CPU-ефикасно скроловање</string>
+    <string name="credits"><u>Заслуге и посебна захвалност</u></string>
+    <string name="current_queue">Тренутни ред</string>
+    <string name="current_queue_x_y_counter">Тренутни ред (%1$d/%2$d)</string>
+    <string name="current_select_queue_eq">Име тренутног реда =</string>
+    <string name="custom">Прилагођено</string>
+    <string name="custom_order">Прилагођени редослед</string>
+    <string name="customize_song_order_playlist_x">Подесите распоред песама у плејлисти %1$s</string>
+    <string name="cutomize_song_order_yourself">Подесите сами распоред песама</string>
+    <string name="d_10_minutes">10 минута</string>
+    <string name="d_10_seconds">10 секунди</string>
+    <string name="d_1_minutes">1 минут</string>
+    <string name="d_2_minutes">2 минута</string>
+    <string name="d_30_seconds">30 секунди</string>
+    <string name="d_30p_length">30% трајања</string>
+    <string name="d_50p_length">50% трајања</string>
+    <string name="d_5_minutes">5 минута</string>
+    <string name="d_90p_length">90% трајања</string>
+    <string name="dark">Тамна</string>
+    <string name="date_add_asc">Додано у музичку библиотеку уздижуће</string>
+    <string name="date_add_dsc">Додано у музичку библиотеку спуштајуће</string>
+    <string name="date_added_to_library">Датум додавања у библиотеку</string>
+    <string name="date_last_played">Датум последње репродукције</string>
+    <string name="date_mod_asc">Датум модификације уздижуће</string>
+    <string name="date_mod_dsc">Датум модификације спуштајуће</string>
+    <string name="date_modified">Датум измене</string>
+    <string name="date_play_asc">Датум задњег пуштања уздижуће</string>
+    <string name="date_play_dsc">Датум задњег пуштања спуштајуће</string>
+    <string name="delete">Избриши</string>
+    <string name="delete_permanently">Трајно избриши</string>
+    <string name="delete_this_backup">Избриши резервну копију</string>
+    <string name="delete_this_external_playlist">Избриши спољну плеј-листу</string>
+    <string name="delete_this_preset">Избриши претподешавање</string>
+    <string name="deselct_all_songs_album">Опозови избор свих песама са овог албума</string>
+    <string name="deselct_all_songs_genre">Опозови избор свих песама овог жанра</string>
+    <string name="deselect_all_from_this_list">"опозови избор
+свега са овог списка"</string>
+    <string name="deselect_all_songs_artist">Опозови избор свих песама овог извођача</string>
+    <string name="deselect_all_songs_folder">Опозови избор свих песама из ове фасцикле</string>
+    <string name="deselect_all_songs_playlist">Опозови избор свих песама са ове плејлисте</string>
+    <string name="deselect_all_songs_sub_folder">Опозови избор свих песама из ове фасцикле и њених потфасцикли</string>
+    <string name="disclaimer_earphone_actions">Пажња: Дугме слушалица можда не ради на неким уређајима! Тапните овде да прочитате разлог.</string>
+    <string name="do_in_background">Одради у позадини</string>
+    <string name="do_nothing">Не ради ништа</string>
+    <string name="does_transmit_data_in_background">Преноси ли Musicolet податке преко интернета?</string>
+    <string name="done">Готово</string>
+    <string name="double_press_action">Дупли притисак на дугме слушалица за акцију</string>
+    <string name="dragger_explain">Држите овде и вуците горе/доле да промените редослед</string>
+    <string name="duration">Трајање</string>
+    <string name="duration_asc">Трајање уздижуће</string>
+    <string name="duration_dsc">Трајање спуштајуће</string>
+    <string name="earphone_button_descaimer_explain">Неки произвођачи придодају свој код у андроид, како би управљали слушалицама на свој начин, и не дозвољавају апликацијама да то раде. Такви уређаји говоре Musicolet апликацији да пушта следећу/претходну песму, а да при томе не шаљу сигнал да је притиснуто дугме на слушалицама. Ту не можемо ништа променити.</string>
+    <string name="edit_album_info">Уреди инфо о албуму</string>
+    <string name="edit_artist_info">Уреди инфо о извођачу</string>
+    <string name="edit_genre_info">Уреди инфо о жанру</string>
+    <string name="edit_info">Уреди инфо</string>
+    <string name="edit_lyrics">Уреди текст</string>
+    <string name="edit_song_info">Уреди инфо песме</string>
+    <string name="embedded_lyrics_appearance">Изглед уграђених текстова</string>
+    <string name="empty_queue_cannt_resume">Овај ред је празан. Настављање није могуће.</string>
+    <string name="empty_queue_cannt_scroll_to_current_song">Ред је празан. Не могу да пребацим на тренутну песму.</string>
+    <string name="enable_document_app_first">Није пронађена апликација „Документи“. Омогућите је ако је онемогућена („Подешавања → Инсталиране апликације → Све“) па покушајте поново.</string>
+    <string name="end_of_current_queue">Дошли сте до краја тренутног реда</string>
+    <string name="end_of_current_queue_shuffle">Дошли сте до краја тренутног реда (у shuffle режиму)</string>
+    <string name="end_of_first_queue">Дошли сте до краја првог реда</string>
+    <string name="end_of_last_queue">Дошли сте до краја последњег реда</string>
+    <string name="end_of_last_queue_shuffle">Дошли сте до краја последњег реда (у shuffle режиму)</string>
+    <string name="enter_new_playlist_name">Унесите ново име плеј-листе</string>
+    <string name="equalizer">Еквилизатор</string>
+    <string name="equalizer_not_working_q">Еквилизатор не ради исправно?</string>
+    <string name="equalizer_to_use">Жељени еквилизатор</string>
+    <string name="error_init_equalizer">Грешка при покретању еквилизатора</string>
+    <string name="error_taking_screenshot">Грешка при изради снимка екрана!</string>
+    <string name="error_while_reading_user_preset">Грешка при читању корисничког претподешавања</string>
+    <string name="error_while_rescaning">Дошло је до грешке при поновном скенирању</string>
+    <string name="error_while_setting_ringtone">Грешка при постављању мелодије звона!</string>
+    <string name="exclude_duration_explanation">Песме и аудио-клипови<b> мањи од</b> датог трајања неће бити скенирани.</string>
+    <string name="exclude_folder_from_scanning">Не скенирај фасциклу</string>
+    <string name="exclude_small_duration_files">Изузми датотеке кратког трајања</string>
+    <string name="exclude_song_folder_dialog_explanation">Песме у доленаведеним фасциклама<b> неће бити скениране</b>, као ни у њиховим<b> потфасциклама</b>.</string>
+    <string name="exclude_this_folder_from_scanning">Не скенирај ову фасциклу</string>
+    <string name="exclude_time_zero_value_explain">Држање обе вредности празне или 0:0 неће искључити ниједну датотеку.</string>
+    <string name="excluded_folders_list_updated">Списак изузетих фасцикли је ажуриран</string>
+    <string name="expandable_notif">Прошириво обавештење</string>
+    <string name="experimental">Експериментално</string>
+    <string name="explanation_force_rescan">"
+&lt;b>Да ли Musicolet скенира за новим песмама аутоматски?&lt;/b>
+Да. Musicolet скенира за њима на сваком старту.
+
+&lt;b>Зашто је онда присилно скенирање потребно?&lt;/b>
+Musicolet ради брзо скенирање на сваком старту. Ради ефикасности и чувања батерије, користи Андроидов &lt;b>MediaStorage framework&lt;/b>. Android MediaStorage framework је снажан механизам за упите и чување записа постојећих података на интерном и екстерном складишту. Многе апликације, укључујући и Галерију зависе од њега.
+
+Ипак, понекад апликације (попут Управљача датотека, Браузера које сам скинуо и тестирао) не обавесте Android MediaStorage framework о променама. Па сам MediaStorage не буде ни свестан тих промена. То је чест разлог што се не налазе ново додане песме у апликацији Musicolet. Ако су те друге апликације пратиле смернице за MediaStorage, онда неће бити потребе за присилно скенирање.
+
+
+Узгред, дугме за скенирање испод ће натерати андроидов framework, као и Musicolet да скенирају и нађу нове песме. Скенираће тренутну фасциклу, и све подфасцикле у потрази за новим песмама.
+"</string>
+    <string name="export_playlist_backup_explain">&lt;small>Направи копију Musicolet приватне плејлисте и експортуј их јавно. Тако да их касније можете импортовати са тих екстерних резервних компија. Постојеће експортоване копије са истим именом биће замењене новим.&lt;/small></string>
+    <string name="export_playlist_for_backup">&lt;small>Експортуј копију листе песама&lt;/small></string>
+    <string name="export_playlists">Сачувај Musicolet плејлисту као резервну</string>
+    <string name="external_playlist_deleted">Изабрана спољна плеј-листа је избрисана</string>
+    <string name="facebook">Facebook</string>
+    <string name="facts_about_queues">Детаљније о вишеструким редовима</string>
+    <string name="fade_in_when_play">Постепено појачавај при пуштању</string>
+    <string name="fade_out_when_pause">Постепено утишавај при паузирању</string>
+    <string name="fade_vol_effects_title">Постепено појачавај/утишавај при пуштању/паузирању</string>
+    <string name="failed">Није успело</string>
+    <string name="falied_to_delete_some_files">Неке датотеке нису избрисане из меморије!</string>
+    <string name="faqs_and_other_info">Често постављана питања и други инфо</string>
+    <string name="fast_forward">Премотавање унапред</string>
+    <string name="fastforward_on_4_press_explain">Притиском на дугме слушалица 4 или више пута, убрзавате песму.</string>
+    <string name="favourites">Омиљене</string>
+    <string name="file_doesnt_exist">Датотека не постоји!</string>
+    <string name="file_name">Име датотеке</string>
+    <string name="file_name_dsc">Име датотеке спуштајуће</string>
+    <string name="filename_asc">Име датотеке уздижуће</string>
+    <string name="fit_to_square_for_instagram">Прилагодите квадрату за инстаграм</string>
+    <string name="folder_exclude_warning">Ова фасцикла и све потфасцикле биће искључене из скенирања. Песме у овим фасциклама ће бити сакривене. Желите да наставите?</string>
+    <string name="folder_jpg_settings_explain">Користите folder.jpg и слично из исте фасцикле, ако постојећи омоти нису пронађени</string>
+    <string name="folder_linear">Линеарно (све фасцикле у једној)</string>
+    <string name="folder_tab_not_found">Картица за фасцикле није пронађена. Прво је омогућите у подешавањима.</string>
+    <string name="folders">Фасцикле</string>
+    <string name="follow_musicolet_on">Пратите Musicolet на:</string>
+    <string name="for_xiaomi_miui_user">За Xiaomi MIUI кориснике</string>
+    <string name="force_to_rescan">Присили на поновно скенирање</string>
+    <string name="force_to_rescan_now">Уради одмах присилно скенирање</string>
+    <string name="force_to_rescan_settings_explain">Корисно када нове придодате песме фале у Musicolet апликацији</string>
+    <string name="frequently_asked_questions_faqs">Често постављана питања</string>
+    <string name="genre">Жанр</string>
+    <string name="genre_tab_not_found">Картица за жанрове није пронађена. Прво је омогућите у подешавањима.</string>
+    <string name="genres">Жанрови</string>
+    <string name="git_it_lets_do_it">Разумем! Почнимо.</string>
+    <string name="give_permissions">Дајте дозволе</string>
+    <string name="give_us_permission_for_ringtone">Дајте нам дозволу да бисмо вам променили мелодију звона.</string>
+    <string name="got_it">Разумем</string>
+    <string name="grid_view">Крупни приказ</string>
+    <string name="handsfree_and_speakers">Handsfree и звучници</string>
+    <string name="help_and_info">Помоћ и инфо</string>
+    <string name="hide_embedded_lyrics">Сакриј уграђене текстове</string>
+    <string name="hierarchical_folders">хијерархијски (фасцикле унутар фасцикли)</string>
+    <string name="homescrenn_widget_settings">Изглед виџета</string>
+    <string name="how_can_you_appreciate_our_work">Како могу да се захвалим и подржим ваш рад?</string>
+    <string name="i_understand_this">Разумем</string>
+    <string name="i_understand_this_use_x">Разумем! Користи %1$s</string>
+    <string name="if_d_10sec_replay_else_prev">Ако се тренутна песма репродукује више од 10 секунди, покрени је од почетка, иначе пусти претходну песму</string>
+    <string name="import_playlist_dialog_title">Увези песме из јавних плеј-листа</string>
+    <string name="import_playlists">Убаците песме са екстерних јавних плејлисти</string>
+    <string name="in_expanded_notification">У проширивом обавештењу…</string>
+    <string name="instagram">Instagram</string>
+    <string name="interface_">Интерфејс</string>
+    <string name="jump_from_first_play_queue">По завршетку последњег реда, пређи на први ред и обрнуто</string>
+    <string name="jump_to_next_queue">Пређи на следећи ред</string>
+    <string name="just_stop_there">Заустави репродукцију</string>
+    <string name="lagfree_scroll_pref_explain">Прикажи слике албума када се листа не скролује. Тиме се смањује CPU оптерећење што доводи до глатког скроловања.</string>
+    <string name="language">Језик</string>
+    <string name="language_not_supported_by_dev">"Musicolet је направљен користећи се Енглеским језиком. Нажалост не разумемо ваш језик :( 
+&lt;br/>&lt;br/>&lt;b>Апликација је преведена на овај језик од стране наших корисника&lt;/b>. 
+&lt;br/>&lt;br/>Не преузимамо одговорност за њихову тачност. При комуникација са нама (преко мејла, плејстора или неке друге платформе) користите Енглески језик ако сте у могућности. 
+&lt;br/>&lt;br/>Ако сте видели лош превод, или желите да унапредите постојећи, можете нам помоћи. За то, идите на 'Помоћ и инфо' мени, онда изаберите 'Help us in translation'. &lt;b>Хвала на подршци.&lt;/b>"</string>
+    <string name="least_played_first">Најмање пуштане прво</string>
+    <string name="library_not_updated_completely">Библиотека песама није у потпуности ажурирана.</string>
+    <string name="light">Светла</string>
+    <string name="like_this_app_q">Свиђа вам се апликација?</string>
+    <string name="list_with_thumbnail">Списак са сличицама</string>
+    <string name="list_without_thumbnail">Списак без сличица</string>
+    <string name="location">Локација</string>
+    <string name="lock_screen">Закључани екран</string>
+    <string name="looking_for_new_files">Тражење нових датотека</string>
+    <string name="lyricist">Текстописац</string>
+    <string name="main_menu">Главни мени</string>
+    <string name="match_system_bg_dark_text">Према позадини + таман текст</string>
+    <string name="match_system_bg_light_text">Према позадини + светли текст</string>
+    <string name="max_queue_limit_reached_1st_deleted">Достигнут је максималан број редова (=%1$d). Први ред је избрисан.</string>
+    <string name="min_duration_minutes_consider">Само песме које су дуже или једнаке овом броју минута ће бити запамћене:</string>
+    <string name="minimum_duration_consider_playback">Минимално трајање за репродукцију</string>
+    <string name="minimum_duration_consider_playback_explain">Минимално време пре него што се песма сматра одсвираном</string>
+    <string name="more_about_musicolet">Детаљније о Musicolet-у</string>
+    <string name="most_played">Најчешће пуштане</string>
+    <string name="most_played_first">Највише пуштане прво</string>
+    <string name="multi_selection_controls">Мулти селективне контроле</string>
+    <string name="music_playback">Репродукција музике</string>
+    <string name="music_playback_suddenly_stops_while_multitasking">Музика престаје са репродукцијом док се користе друге апликације (мултитаскинг)</string>
+    <string name="musicoler_ss_caption_1">"Слушате #%1$s од #%2$s у #musicolet… 
+
+Уграбите @musicolet са PlayStore: j.mp/musicolet"</string>
+    <string name="musicoler_ss_caption_2">"Слушате музику у #musicolet… 
+
+Уграбите @musicolet из PlayStore: j.mp/musicolet"</string>
+    <string name="musicolet_equalizer">Musicolet еквилизатор</string>
+    <string name="musicolet_is_updated">Musicolet је ажуриран!</string>
+    <string name="musicolet_lock_screen">Закључани екран Musicolet-а</string>
+    <string name="musicolet_lock_screen_desc">"Musicolet на закључаном екрану омогућава просте команде преко вашег уобичајеног закључаног екрана
+
+"<small>Откључавање Musicolet закључаног екрана не откључава ваш уобичајени</small></string>
+    <string name="musicolet_lockscreen">Musicolet закључан екран</string>
+    <string name="musicolet_notif">Musicolet стил</string>
+    <string name="musicolet_oreo_notif">Musicolet + AndroidOreo стил</string>
+    <string name="musicolet_requires_some_permissions">Musicolet захтева неке дозволе.</string>
+    <string name="musicolet_simpli_perf_and_effi">Musicolet је музички програм фокусиран на једноставност, преформансе и ефективност.</string>
+    <string name="mute">Искључи звук</string>
+    <string name="needsaccess">Потребан приступ за писање</string>
+    <string name="never">никад</string>
+    <string name="never_close_automatically">Никад не затварај аутоматски</string>
+    <string name="new_name_here">Ново име</string>
+    <string name="new_playlist_name">Ново име плеј-листе</string>
+    <string name="new_queue">Нови ред</string>
+    <string name="next_song">Следећа песма</string>
+    <string name="no">Не</string>
+    <string name="no_app_available_to_share">Нема апликације за дељење!</string>
+    <string name="no_embedded_lyrics_found_this_song">За ову песму нема уграђеног текста.</string>
+    <string name="no_external_playlist_nor_backup_found">Екстерна плејлиста није пронађена, као ни резервна копија претходно извезене Musicolet плејлисте</string>
+    <string name="no_song_to_queue_b">[Нема песама у реду]</string>
+    <string name="not_all_device_support_system_eq">Не подржавају сви Android уређаји системски еквилизатор</string>
+    <string name="not_enough_cache_memory_ro_edit_info">Не довољно виртуалне меморије на уређају за промену инфа песме!</string>
+    <string name="not_enough_ram_for_action">Нема довољно слободног RAM-а за извршавање ове радње.</string>
+    <string name="not_valid_folder">Неисправна фасцикла</string>
+    <string name="notif_appear">Изглед обавештења</string>
+    <string name="notif_style_c">Стил обавештења:</string>
+    <string name="notif_warning">У андроиду, нотификације су направљене да користе RemoteViews. Апликација прави RemoteView и шаље је у systemUI. Након тога рендерује и управља је SystemUI. ROM може сам правити промене на њима. Тако да ова подешавања можда неће радити на свим уређајима или са неким другим РОМ-ом.</string>
+    <string name="notif_warning_title">Ова прилагођавања на неким уређајима можда неће радити.<u> Додирните овде</u> да бисте сазнали разлог.</string>
+    <string name="nowSelecttionProcessCloseOnAction">Сада, Селективни процес ће бити затворен након избора акције</string>
+    <string name="nowSelecttionProcessWillNotCloseOnAction">Сада, Можете радити више акција на селектованој песми. Изабране песме ће остати изабране.</string>
+    <string name="now_playing">Тренутно пуштено</string>
+    <string name="now_showing_filenames">Сада је приказано буквално име датотеке уместо назива песме</string>
+    <string name="now_showing_titles">Сада је приказан назив песме уместо буквалног имена датотеке</string>
+    <string name="ok">У реду</string>
+    <string name="open_source_lic"><u>Лиценце отвореног кода</u></string>
+    <string name="options">Опције</string>
+    <string name="options_for_listed_songs">Опције за песме са списка</string>
+    <string name="options_for_songs_folder_subfolder">Опције за све песме у овој фасцикли и њеним потфасциклама</string>
+    <string name="options_for_songs_in_this_folder">Опције за песме у овој фасцикли</string>
+    <string name="options_for_this_song">Опције за ову песму</string>
+    <string name="paste">Налепи</string>
+    <string name="paste_or_write_lyrics_here">Овде налепите или напишите текст</string>
+    <string name="pause_when_disconnect">Паузирај при дисконекцији</string>
+    <string name="pause_when_disconnect_explain">Паузирај музику ако се искључе слушалице, звучници или bluetooth уређаји</string>
+    <string name="permission_reqired">Потребна је дозвола!</string>
+    <string name="play">Пусти</string>
+    <string name="play_after_current_song">Пусти након тренутне песме</string>
+    <string name="play_next_song">Пусти следећу песму</string>
+    <string name="play_or_pause">Пусти или паузирај</string>
+    <string name="play_queue">Ред</string>
+    <string name="play_speed">Брзина песме</string>
+    <string name="played">Репродуковано</string>
+    <string name="playlist_exported_Success">Изабрана плеј-листа је извезена</string>
+    <string name="playlist_order_saved">Редослед у плејлисти је сачуван</string>
+    <string name="playlist_tab_cant_be_hidden">Картица за плеј-листе не може бити сакривена</string>
+    <string name="playlists">Плејлисте</string>
+    <string name="please_wait">Сачекајте</string>
+    <string name="preset_name">Име претподешавања</string>
+    <string name="previous_song">Претходна песма</string>
+    <string name="previous_song_behaviour_setting">Понашање дугмета „Претходна песма“</string>
+    <string name="previous_song_behaviour_setting_explain">Одлучите шта ће се десити када тапнете на претходну песму у апликацији, нотификацијама, закључаном екрану или слушалицама</string>
+    <string name="queue_instead_fav">Пречица за ред уместо дугмета за омиљене</string>
+    <string name="queues">Редови</string>
+    <string name="queues_and_playlists">Редови и плејлисте</string>
+    <string name="randomize">Randomize</string>
+    <string name="rate_us_5_stars">Оцените са 5 звездица</string>
+    <string name="read_them_first_click_here">Прво их прочитајте. Додирните овде.</string>
+    <string name="recently_added">Недавно додате</string>
+    <string name="reload_metadata_settings">Учитај метаподатке из меморије</string>
+    <string name="reload_metadata_settings_explain">Поново учитава мета податке тагова из складишта, и обнавља их у свим редовима и плејлистама.</string>
+    <string name="rem_pos_indie_songs">Запамти задњу позицију свих песама</string>
+    <string name="remove_album_art">Уклони омот албума</string>
+    <string name="remove_from_favorites">Уклони из омиљених</string>
+    <string name="remove_from_this_playlist">Уклони из плејлисте</string>
+    <string name="remove_from_this_queue">Уклони из овог реда</string>
+    <string name="remove_playlist">Уклони плејлисту</string>
+    <string name="remove_this_queue">Уклони изабрани ред</string>
+    <string name="rename">Преименуј</string>
+    <string name="rename_playlist">Преименуј плејлисту</string>
+    <string name="rename_queue">Преименуј ред</string>
+    <string name="rename_this_queue">Преименуј ред</string>
+    <string name="repeat_options">Опције понављања</string>
+    <string name="repeat_queue">Крени од почетка реда</string>
+    <string name="repeat_song">Пусти песму поново</string>
+    <string name="reset">Ресетовање</string>
+    <string name="reset_timer">Поништи тајмер</string>
+    <string name="respect_audio_focus_desable_alert">"Искључили сте 'поштуј-аудио-фокус' подешавање. Сада га Musicolet нeће поштовати . Ово значи када друге апликације или позиви буду захтевали аудио приступ, да музика неће престати."</string>
+    <string name="respect_audio_focus_explain">Паузирај када друге апликације затраже приступ звуку, као на пример позиви. Немојте дирати ово ако не знате шта радите!</string>
+    <string name="respect_audiofocus_settings">Поштуј аудио фокус</string>
+    <string name="resume_last_position_q">Настави са задње позиције (%1$s)?</string>
+    <string name="resume_playback">Настави репродукцију</string>
+    <string name="resume_this_queue">Настави изабрани ред</string>
+    <string name="resume_without_asking">Настави без питања</string>
+    <string name="resumed_from_last_rem">Наставак са задње сачуване позиције</string>
+    <string name="reverse">Обрнуто</string>
+    <string name="rewind">Премотавање уназад</string>
+    <string name="ringtone_is_set">Мелодија звона је постављена!</string>
+    <string name="ringtone_modify_sys_permission_explanantion">Musicolet нема дозволу да мења системска подешавања. Без ове дозволе не можемо променити звук звона. Идите у подешавања вашег телефона, нађите Musicolet и дајте му неопходне дозволе. Онда пробајте поново.</string>
+    <string name="s_new_playlist">Нова плејлиста</string>
+    <string name="saf_description_delete">"Због лимитација андроида, апликације не могу брисати ни модификовати податке на секундарном екстерном складишту (СД картице, УСБ) без дозволе корисника. Дајте нам дозволу како би обрисали жељене податке.
+
+Само пратите ова 4 једноставна корака (Увећајте ако је потребно):"</string>
+    <string name="saf_description_modify">"Због лимитација андроида, апликације не могу модификовати податке на секундарном екстерном складишту (СД картице, УСБ) без дозволе корисника. Дајте нам дозволу како би модификовали податке. То је потребно како би променили тагове.
+
+Само пратите ова 4 једноставна корака (Увећајте ако је потребно):"</string>
+    <string name="save">Сачувај</string>
+    <string name="save_changes_q">Сачувати измене?</string>
+    <string name="save_order">Сачувај редослед</string>
+    <string name="save_preset">Сачувај претподешавање</string>
+    <string name="save_this_queue">Сачувај изабрани ред</string>
+    <string name="save_to_gallery">Сачувај у галерију</string>
+    <string name="saved_in_gallary_musicolet">Сачувано у фасцикли Musicolet-а у галерији!</string>
+    <string name="scan_this_folder">Скенирај од ове фасцикле</string>
+    <string name="screen_shot">Снимак екрана</string>
+    <string name="scrolled_to_current_song">Пребачено на позицију тренутне песме у реду.</string>
+    <string name="search">Претражи</string>
+    <string name="search_album_art_with">Претражи слике албума са…</string>
+    <string name="search_lyrics">Претражи текст</string>
+    <string name="search_lyrics_with">Претражуј текстове помоћу…</string>
+    <string name="search_menu_title">Претражи</string>
+    <string name="search_title_album_artist">Претрага по називу, албуму, извођачу</string>
+    <string name="seekbar_to_seek_the_song">Линија тока за премотавање песме</string>
+    <string name="select_a_playlist">Изабери плеј-листу</string>
+    <string name="select_all">Изабери све</string>
+    <string name="select_all_from_this_list">"изабери све
+са овог списка"</string>
+    <string name="select_all_songs_artist">Изабери све песме овог извођача</string>
+    <string name="select_all_songs_folder">Изабери све песме из ове фасцикле</string>
+    <string name="select_all_songs_genre">Изабери све песме овог жанра</string>
+    <string name="select_all_songs_of_album">Изабери све песме са овог албума</string>
+    <string name="select_all_songs_playlist">Изабери све песме са ове плејлисте</string>
+    <string name="select_all_songs_sub_folder">Изабери све песме из ове фасцикле и њених потфасцикли</string>
+    <string name="set_as_ringtone">Постави као мелодију звона</string>
+    <string name="set_timer">Постави тајмер</string>
+    <string name="settings">Подешавања</string>
+    <string name="share">Дели</string>
+    <string name="share_screenshot">Дели снимак екрана</string>
+    <string name="share_song">Дели песму</string>
+    <string name="share_with_friends">Подели са пријатељима</string>
+    <string name="sharing_too_many_files_warn">Ваш оперативни систем не подржава дељење превише датотека одједном</string>
+    <string name="shorect_removed_menu">Пречица је уклоњена из менија</string>
+    <string name="shortcut_added_menu">Пречица је додата у мени</string>
+    <string name="show_advance_controls">Прикажи напредне контроле</string>
+    <string name="show_embedded_lyrics">Прикажи уграђени текст</string>
+    <string name="show_explanation">Прво прочитајте објашњење. Тапните овде.</string>
+    <string name="show_favorite_button">Прикажи дугме за омиљене</string>
+    <string name="show_filename_instead_of_title_explain">Уместо оригиналног наслова песме, прикажи их по буквалном имену датотеке</string>
+    <string name="shuffle_all">Shuffle све</string>
+    <string name="shuffle_and_play">Shuffle и пусти</string>
+    <string name="shuffle_listed_songs">Shuffle листиране песме</string>
+    <string name="shuffle_mode_off">Shuffle режим је искључен</string>
+    <string name="shuffle_mode_on">Shuffle режим је укључен</string>
+    <string name="shuffle_mode_on_off">Shuffle укључен/искључен</string>
+    <string name="shuffle_mode_vs_randomize">Shuffle или Randomize</string>
+    <string name="size">Величина</string>
+    <string name="sleep_timer">Тајмер</string>
+    <string name="sleep_timer_explain_when_off">Нема тајмера. Поставите га да бисте зауставили музику и затворили апликацију након…</string>
+    <string name="sleep_timer_explain_when_on">Musicolet ће зауставити репродукцију и затворити се након…</string>
+    <string name="song_info">Инфо песме</string>
+    <string name="song_lib_updated_success">Библиотека песама је ажурирана!</string>
+    <string name="song_library_and_tags">Песма из библиотеке и тагови</string>
+    <string name="song_library_section">Библиотека песама</string>
+    <string name="sort_listed_songs">Сортирај пописане песме</string>
+    <string name="sort_songs_by">Сортирај песме по…</string>
+    <string name="sort_this_playlist">Сортирај ову плејлисту</string>
+    <string name="sort_this_queue">Сортирај песме у изабраном реду</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="still_not_finding_song_explanation">"
+&lt;b>Још увек не налазите ваше песме?&lt;/b>
+&lt;br/>Проверите да нису на другим местима осим у картици(таб-у) са редовима. Јер су редови потпуно другачије ствари од плејлисти.&lt;br/>&lt;br/>
+Проверите следеће: Фасцикла у којој су ваше песме или &lt;b>било који од родитељских фасцикли&lt;/b>&amp;#8230;&lt;br/>&lt;br/> 
+1) &amp;#8230;није додан на листу &lt;a href=#1>одрстањених фасцикли&lt;/a>(погледај musicolet>подешавања>'библиотека песама'>'одстрањене фасцикле')&lt;br/>&lt;br/>
+2) &amp;#8230;није сакривена фасцикла јер не почиње са .(тачком)&lt;br/>&lt;br/>
+3) &amp;#8230;није приватна фасцикла јер не припада ниједној апликацији&lt;br/>&lt;br/> 
+4) &amp;#8230;не садржи датотеку имена'.nomedia' (.nomedia датотеке су обично сакривени у Управљачу Датотека)&lt;br/>&lt;br/>
+Након решавања проблема скенирајте опет за песмама
+"</string>
+    <string name="still_not_finding_songs">Урадите присилно скенирање на фасциклу која то захтева, тапом на дугме изнад. Ако још увек не будете видели ваше песме, &lt;b>&lt;u>Притисните овде.&lt;/u>&lt;/b></string>
+    <string name="stock_notifi">Фабричка обавештења</string>
+    <string name="stock_notifi_not_custmzbl">Фабричка обавештења пружа систем, зато нису тако прилагодљива.</string>
+    <string name="summary_use_remaining_time">При репродукцији прикажи преостало време уместо тренутног</string>
+    <string name="support_developer">Подржи програмера</string>
+    <string name="surround_sound">Просторни звук</string>
+    <string name="swipe_app_to_close_explain">Заустави музику и затвори апликацију када је превучем и склоним из скорашњих апликација</string>
+    <string name="switching_to_musicolet_eq">Пребаци на Musicolet еквилајзер</string>
+    <string name="system_equalizer">Системски еквилизатор</string>
+    <string name="system_equlizer_not_supported_in_device">Ваш уређај не подржава системски еквилизатор</string>
+    <string name="tabs_below_this_position_hidden">Картице испод ове позиције ће бити сакривене.</string>
+    <string name="tags_albumArt_embbededLyrics">Ознаке, омоти албума, уграђени текстови</string>
+    <string name="thank_you">Хвала</string>
+    <string name="that_list_is_empty">Списак је празан!</string>
+    <string name="theme">Тема</string>
+    <string name="this_queue_is_active">Овај ред се тренутно репродукује.</string>
+    <string name="this_queue_is_already_playing">Овај ред се већ репродукује</string>
+    <string name="this_queue_is_not_active">Овај ред се тренутно не репродукује.</string>
+    <string name="this_queue_is_resumed">Ред је настављен</string>
+    <string name="title">Назив</string>
+    <string name="title_asc">Назив уздижуће</string>
+    <string name="title_dsc">Назив спуштајуће</string>
+    <string name="toggle_favorite">Додај/уклони из омиљених</string>
+    <string name="too_much_songs_in_multiple_queues">Превише песама у више редова!</string>
+    <string name="track_asc">Број песме уздижуће</string>
+    <string name="track_dsc">Број песме спуштајуће</string>
+    <string name="track_number">Број нумере</string>
+    <string name="triple_press_action">Троструки притисак на дугме слушалица за акцију</string>
+    <string name="twitter">Twitter</string>
+    <string name="unknown_b">[непознато]</string>
+    <string name="unlock">Откључај</string>
+    <string name="unnamed">Неименовано</string>
+    <string name="updating_library">Ажурирам библиотеку…</string>
+    <string name="use_big_fonts">Користи велики фонт</string>
+    <string name="use_light_status_bar">Питај систем да користи светлу статусну траку</string>
+    <string name="use_remaining_time">Прикажи преостало време</string>
+    <string name="use_x">Користи %1$s</string>
+    <string name="usefull_for_audiobook">Корисно за памћење великих музичких архива као што су дугачке песме, аудио-књиге и слично</string>
+    <string name="version_whatsnew">верзија %1$s<u> (шта је ново)</u></string>
+    <string name="view_album_art">Погледај омот албума</string>
+    <string name="volume">Јачина звука</string>
+    <string name="volume_slider">Клизач за јачину звука</string>
+    <string name="waring_reloading_metadata">"
+Користите ову могућност само уколико сте &lt;b>променили мета податке(ID3 taгове) ван Musicolet апликације (Користећи друге апликације, или PC)&lt;/b> и не видите промене у поменутој.&lt;br/>&lt;br/>Ако ипак користите ову опцију прочитајте упозорење. Можете игнорисати ово упозорење ако сте сигурни да те песме поседују интернационално прихваћен сет карактера &lt;a href=https://en.wikipedia.org/wiki/Character_encoding>за енкодовање&lt;/a> тагова.&lt;br/>&lt;br/>
+
+&lt;small>Musicolet зависи од андроидовог MediaStorage фрејмворка за читање тих тагова. Али након промене тагове неких песама, MediaStorage можда не буде у могућности да тачно ишчита ново задато енкодовање. Ако се то деси &lt;b>тагови неће бити читљиви&lt;/b>. Ипак, то је реткост, да су заправо ствараоци тих песама за тагове користили енкодовање које није интернационално прихваћено. Ако се то деси, &lt;b>није кривица Musicolet апликације и немојте кривити нас;&lt;/b> Наше је да упозоримо.&lt;/small>
+"</string>
+    <string name="warning_edit_tags_encoding">"
+Можете игнорисати ово упозорење ако сте сигурни да те песме поседују интернационално прихваћен сет карактера &lt;a href=https://en.wikipedia.org/wiki/Character_encoding>за енкодовање&lt;/a> тагова.&lt;br/>&lt;br/>
+
+&lt;small>Musicolet зависи од андроидовог MediaStorage фрејмворка за читање тих тагова. Али након промене тагове неких песама, MediaStorage можда не буде у могућности да тачно ишчита ново задато енкодовање. Ако се то деси &lt;b>тагови неће бити читљиви&lt;/b>. Ипак, то је реткост, да су заправо ствараоци тих песама за тагове користили енкодовање које није интернационално прихваћено. Ако се то деси, &lt;b>није кривица Musicolet апликације и немојте кривити нас;&lt;/b> Наше је да упозоримо.&lt;/small>
+"</string>
+    <string name="warning_editing_tags">Додирните овде да бисте прочитали упозорење о уређивању ознака</string>
+    <string name="what_is_diff_queues_playlists">Шта је ред?</string>
+    <string name="what_is_multiple_queue_concept">Који је концепт вишередног редоследа?</string>
+    <string name="whats_new">Шта је ново</string>
+    <string name="when_a_song_ends">По завршетку песме…</string>
+    <string name="when_queue_ends">По завршетку реда…</string>
+    <string name="where_are_widgets">Зашто не могу да нађем Виџете Почетног екрана?</string>
+    <string name="where_is_genre_tab">Где је картица за жанр?</string>
+    <string name="why_cannt_edit_some_tags">Зашто подаци(таг-ови) неких песама се не могу уређивати?</string>
+    <string name="why_cant_find_newly_added_songs">Зашто не могу да пронађем неке песме?</string>
+    <string name="why_embedded_lyrics_why_not_online_q">Зашто апликација аутоматски не преузима текстове песама?</string>
+    <string name="why_not_auto_fetch_albumart_q">Зашто апликација аутоматски не преузима омоте албума?</string>
+    <string name="widget_4x1_advance_controls">Musicolet напредне контроле виџета</string>
+    <string name="widget_4x1_simple">Musicolet прости виџет</string>
+    <string name="widget_4x3_with_queue">Musicolet контроле + редни виџет</string>
+    <string name="widget_theme_c">Тема виџета:</string>
+    <string name="widget_transparency_c">Провидност виџета:</string>
+    <string name="x_minute">%1$d минут</string>
+    <string name="year">Година</string>
+    <string name="year_asc">Година уздижуће</string>
+    <string name="year_dsc">Година спуштајуће</string>
+    <string name="yes">Да</string>
+    <string name="your_playlists">Ваше плејлисте</string>
+</resources>

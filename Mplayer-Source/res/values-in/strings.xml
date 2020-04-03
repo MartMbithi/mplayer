@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Black_AMOLED">Hitam (AMOLED)</string>
+    <string name="DarkTheme">Tema Gelap</string>
+    <string name="Folder_tab_structure">"Struktur Folder tab's"</string>
+    <string name="LightTheme">Tema Cerah</string>
+    <string name="_0_times_before">0 kali sebelumnya</string>
+    <string name="a_b_repeat">A-B ulangi</string>
+    <string name="a_quick_tip_about_queue">Beberapa tips tentang tab antrian</string>
+    <string name="abc_action_bar_home_description">Navigasi ke beranda</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigasi naik</string>
+    <string name="abc_action_menu_overflow_description">Opsi lain</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih aplikasi</string>
+    <string name="abc_capital_off">NONAKTIF</string>
+    <string name="abc_capital_on">AKTIF</string>
+    <string name="abc_search_hint">Telusuri...</string>
+    <string name="abc_searchview_description_clear">Hapus kueri</string>
+    <string name="abc_searchview_description_query">Kueri penelusuran</string>
+    <string name="abc_searchview_description_search">Telusuri</string>
+    <string name="abc_searchview_description_submit">Kirim kueri</string>
+    <string name="abc_searchview_description_voice">Penelusuran suara</string>
+    <string name="abc_shareactionprovider_share_with">Bagikan dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Bagikan dengan %s</string>
+    <string name="abc_toolbar_collapse_description">Ciutkan</string>
+    <string name="accent_color">Warna aksen</string>
+    <string name="adapt_from_aa">Sesuaikan warna dari abum art</string>
+    <string name="adaptive_color_controls">Atur warna adaptive</string>
+    <string name="add_folder">Tambahkan folder</string>
+    <string name="add_its_songs_to_favorites">Tambahkan lagu ini ke favorit</string>
+    <string name="add_its_songs_to_playlist">Tambahkan lagu ini ke daftar putar</string>
+    <string name="add_shortcut_in_main_menu">Tambahkan pintasan ke menu utama</string>
+    <string name="add_this_folder">Tambahkan folder ini</string>
+    <string name="add_to_a_playlist">Tambahkan ke daftar putar</string>
+    <string name="add_to_a_queue">Tambahkan ke antrian</string>
+    <string name="add_to_currently_playing_queue">Tambahkan ke antrian yang sedang dimainkan</string>
+    <string name="add_to_favorites">Tambahkan ke favorit</string>
+    <string name="advance">Advance</string>
+    <string name="aks_to_resume">Tanyakan sebelum melanjutkan</string>
+    <string name="album">Album</string>
+    <string name="album_art">Album art</string>
+    <string name="album_asc">Naik sesuai nama Album</string>
+    <string name="album_dsc">Menurun sesuai nama Album</string>
+    <string name="album_tab_not_found">Tab album tidak ditemukan! Aktifkan terlebih dahulu album tab pada pengaturan</string>
+    <string name="album_view_mode">Mode tampilan album</string>
+    <string name="albums">Album</string>
+    <string name="all_songs">Semua lagu</string>
+    <string name="allowed_delay_explain">"
+Untuk 2x tekan, dan 3x tekan maka: 700 milidetik
+
+Untuk lebih 4x tekan: 3 detik(penundaan besar diizinkan di sini, sehingga Anda dapat mempercepat lagu dengan nyaman.)
+
+Ini hanya informasi belaka. Kamu tidak dapat mengubah apapun disini.
+"</string>
+    <string name="allowed_delays_info">Klik di sini untuk mengetahui delay yang diizinkan antara dua tombol pada penekanan tombol earphone</string>
+    <string name="allowed_delays_title">Membiarkan delay antara dua tombol pada saat menekan tombol earphone</string>
+    <string name="alread_have_same_name_playlist">Sudah ada daftar putar dengan nama yang sama!</string>
+    <string name="already_a_queue_with_name_x">Telah tersedia antrian dengan nama %1$s</string>
+    <string name="always_play_prev_song">Selalu mainkan lagu sebelumnya</string>
+    <string name="ans_a_quick_tip_about_queue">"Di tab antrian, kapan pun Anda ingin menemukan lagu mana yang sedang diputar di antrian yang dipilih, cukup ketuk di penghitung lagu. (Penghitung lagu terlihat seperti ini: Y/z dimana Y adalah posisi lagu saat ini dalam antrian total lagu z).
+
+Geser lagu ke kanan dengan memegangnya dengan 2-bar yang diberikan di sebelah kiri untuk menghapusnya sebagai antrean."</string>
+    <string name="ans_audio_formats_supported">"Musicolet menggunakan dekoder media asli yang menyertai perangkat Anda, sehingga selama format audio didukung oleh perangkat Anda, perangkat ini didukung oleh Musicolet. Lihat &lt;a href='https://developer.android.com/guide/topics/media/media-formats.html'>Format yang Didukung&lt;/a>. (Dapat bervariasi dengan model perangkat)"</string>
+    <string name="ans_does_transmit_data_in_background">"Tidak. Musicolet adalah aplikasi offline 100%. Ini bahkan tidak mengirimkan statistik penggunaan dan laporan lainnya.
+
+Faktanya, secara teknis sama sekali tidak bisa menggunakan internet. Karena kita (sengaja) tidak menaruh izin internet di dalamnya. Tanpa 'Izin Internet' (juga dikenal sebagai 'Izin akses jaringan penuh'), Tidak ada aplikasi android yang bisa menggunakan internet. Ini adalah fakta.
+
+Untuk mengkonfirmasi ini, Anda dapat memeriksa 'Semua Permissions' di layar 'info aplikasi' Musicolet. Atau Di halaman PlayStore dari musicolet, centang 'permission' di bagian bawah. Anda tidak akan menemukan izin terkait jaringan di sana."</string>
+    <string name="ans_equalizer_not_working_q">"Musicolet menggunakan komponen sistem AudioFX untuk memanipulasi audio. Jika produsen perangkat Anda telah mengubah komponen ini, dan tidak mengikuti panduan AOSP, maka Equalizer mungkin tidak berfungsi.
+
+Jika Musicolet Equalizer tidak bekerja. Anda dapat mencoba System Equalizer jika didukung oleh perangkat Anda. Untuk mencobanya ke 'Musicolet' -> 'Settings' -> 'Audio' -> 'Equalizer yang digunakan'."</string>
+    <string name="ans_facts_about_queues">"
+Anda dapat memiliki maksimum 20 Antrian. 
+
+Ingat, terlalu banyak antrian, masing-masing dengan terlalu banyak lagu, dapat mengurangi kinerja, dan meningkatkan waktu peluncuran aplikasi dan waktu shutdown. Jadi sebaiknya Anda menghapus antrian lama jika tidak diperlukan lagi. 
+ nJika nama antrian adalah \"Semua lagu\" atau \"Folder123\" atau \"Lagu yang ditambahkan baru-baru ini\" atau \"AlbumXYZ\", lagu tersebut tidak menjadi \"Semua lagu\" atau \"Folder123\" atau \"Lagu yang baru saja ditambahkan\" atau \"AlbumXYZ \". Ini hanya memiliki nama yang sama. Anda bisa mengganti namanya menjadi apapun. Setelah membuat antrian, saat Anda menambahkan beberapa lagu baru ke perpustakaan Anda, mereka tidak akan muncul dalam antrian apa pun. Untuk melihat daftar lagu aktual dan update, masuklah ke tab masing-masing. Untuk tab \"AlbumXYZ\" sebenarnya, masuk ke tab Album (tidak dalam antrean bernama AlbumXYZ), untuk \"Folder123\" sebenarnya masuk ke tab Folder dan untuk \"Semua lagu\", dan \"Lagu yang baru ditambahkan\" masuk ke tab Daftar Putar, dan juga . 
+
+Nama antrian harus unik di antara semua antrian lainnya. 
+
+Tidak ada duplikat lagu yang diperbolehkan dalam antrian."</string>
+    <string name="ans_how_can_you_appreciate_our_work">"
++ Dengan memberikan rating 5-bintang di Google PlayStore.
+
++ Dengan memberi tahu teman Anda tentang aplikasi yang menakjubkan ini.
+
++ Dengan menyukai halaman kami di &lt;a href=https://facebook.com/musicolet>Facebook &lt;/a> dan Ikuti(Follow) kami di &lt;a href=https://twitter.com/musicolet>Twitter&lt;/a> dan &lt;a href=https://instagram.com/musicolet> Instagram&lt;/a>.
+"</string>
+    <string name="ans_how_much_we_earn_from_musicolet">Musicolet gratis 100%. Kami tidak menampilkan iklan. Kami tidak mengumpulkan / menjual data pribadi pengguna. Jadi, dari segi uang, kita tidak menghasilkan apapun dari Musicolet. Namun kami mendapatkan banyak berkah dan keinginan baik dari pecinta musik di seluruh dunia.</string>
+    <string name="ans_music_playback_suddenlt_stops">"
+&lt;b>Jawaban singkat:&lt;/b>&lt;a href=https://youtu.be/J9-8Ct0n6c0>Tonton video ini&lt;/a>
+
+
+&lt;b>Jawaban panjang tapi pantas:&lt;/b>
+Xiaomi's MIUI ROMs have very aggressive &lt;a href='https://en.wikipedia.org/wiki/Memory_management_(operating_systems)'>Manajemen memori (RAM manajemen&lt;/a>. Sementara multitasking MIUI terus membunuh aplikasi di latar belakang (= App yang tidak terlihat di layar) untuk menjaga RAM lebih dan lebih bebas.
+
+Kebanyakan cara ini tidak dibutuhkan. Apalagi Stock android's Manajemen memori nya sangat bagus. Ini bisa diandalkan dan sempurna.
+
+Tetapi tetap saja MIUI menggunakan manajemen memori miliknya sendiri. Keputusan dibuat oleh MIUI untuk \"aplikasi mana yang harus dibunuh terlebih dulu\" terkadang hal ini menjadi tidak bagus.
+
+&lt;b>Untuk alasan ini ketika Anda mendengarkan musik di latar belakang, saat menggunakan aplikasi lain, MIUI membunuh Musicolet.&lt;/b>
+
+&lt;b>Solusinya?&lt;/b>
+Karena ini adalah masalah hal yang umum pada MIUI, ada banyak diskusi yang ada di banyak forum di internet. Beberapa pengguna telah menemukan cara untuk men-tweak perilaku MIUI dengan mengubah beberapa pengaturan dari Opsi pengembang.
+&lt;b>Berikut adalah Video dengan panduan langkah demi langkahnya:&lt;/b>&lt;a href=https://youtu.be/J9-8Ct0n6c0>https://youtu.be/J9-8Ct0n6c0&lt;/a>
+"</string>
+    <string name="ans_musicolet_free_forever_q">"
+Fitur yang tersedia saat ini gratis akan tetap gratis selamanya."</string>
+    <string name="ans_shuffle_mode_vs_randomize">"Mode acak tidak membiarkan Anda memprediksikan lagu berikutnya sampai Anda benar-benar memainkan lagu berikutnya. Pilihan 'Putar setelah lagu saat ini' juga tidak akan berfungsi saat mode acak sedang berlangsung.
+
+Alternatif mode acak adalah Randomize. Tetap pada mode acak matikan -> masuk ke tab antrian -> Klik ikon sortir -> Pilih randomize. Ini akan mengacak lagu dalam antrian yang saat ini dipilih (sejenis acakan), dan sekarang Anda bisa melihat susunan lagu acak yang baru, dan dapat mengetahui lagu mana yang akan dimainkan selanjutnya."</string>
+    <string name="ans_what_is_diff_queues_playlists">Antrian adalah daftar lagu sementara yang menentukan urutan lagu yang dimainkannya. Anda bisa menemukan antrian di tab 1. Anda bisa mengubah urutan lagu dalam antrean, dengan cara sederhana menyeretnya dari 2 bar yang diberikan di sisi kiri.</string>
+    <string name="ans_what_is_multiple_queue_concept">"
+Musicolet adalah satu-satunya pemutar musik android yang mendukung multi antrian. 
+
+Menurut Multi-Antrian: 
+1. Anda bisa menyiapkan lebih dari satu antrian sambil mendengarkan lagu dari antrian lain. 
+
+2. Misalkan Anda telah menyiapkan antrian yang bagus, dan Anda tidak memiliki fitur multi-antrian (yaitu jika Anda hanya memiliki 1 antrian seperti aplikasi musik lainnya) dan sambil menjelajahi perpustakaan Anda Anda secara tidak sengaja mengklik sebuah lagu dari daftar putar/album/pencarian / dll. Kemudian dengan hanya 1 antrian, baik antrian lama Anda diganti dengan daftar lagu baru (yang terjadi dengan sebagian besar aplikasi musik lainnya) atau semua lagu dari playlist/album/dll yang akan ada ditambahkan ke antrian anda Dan antrian yang disiapkan dengan baik akan hilang. Dengan beberapa antrian Musicolet tidak akan pernah terjadi. Dalam skenario seperti itu Musicolet akan melakukannya buat antrian baru, dan antrian lama Anda tidak tersentuh. 
+
+3. Musicolet bahkan mengingat memainkan lagu saat ini dari setiap antrian. 
+
+Anda bahkan bisa memberi nama sementara ke setiap antrian, dan mengganti nama antrian kapan saja. Anda juga dapat menyimpan antrian sebagai daftar putar."</string>
+    <string name="ans_where_are_widgets">"
+&lt;b>\"Kapan pun aplikasi android dipasang di kartu SD atau dipindahkan ke kartu SD. Beberapa fungsi aplikasi termasuk Widget menjadi tidak aktif.\"&lt;/b>
+Aturan ini berlaku untuk aplikasi android termasuk Musicolet. Jadi &lt;b>jika Anda ingin menggunakan widget, Anda harus menyimpan aplikasi Musicolet di penyimpanan internal bukan pada kartu SD&lt;/b>.
+
+ nAnda mungkin bertanya:
+
+&lt;b>Saya tidak memasangnya di kartu SD. Ini otomatis terinstal pada kartu SD.&lt;/b>
+
+Jawaban: Kami (pengembang aplikasi) hanya memiliki 2 pilihan: Izinkan aplikasi dipasang di kartu SD atau Tidak. Karena banyak pengguna (yang memiliki perangkat dengan penyimpanan internal rendah) meminta fitur ini, kami mengizinkan aplikasi dipasang di kartu SD.
+Tapi 'Dimana aplikasi akan dipasang?' diputuskan oleh sistem Android. Kami tidak memiliki kendali atas hal itu.
+
+
+&lt;b>Bagaimana cara memindahkan aplikasi ke penyimpanan Internal?&lt;/b>
+
+Jawabannya: (a) Buka perangkat Anda Settings(atau Pengaturan) > Applications (atau Apps) (pada beberapa perangkat mungkin ada di setting Advance) > Temukan 'Musicolet' dan ketuk di atasnya > Temukan dan klik tombol berlabel 'Pindah ke penyimpanan internal' atau (b) Google \"Cara memindahkan aplikasi ke penyimpanan Internal [NAMA PERANGKAT ANDA]\"
+
+"</string>
+    <string name="ans_where_is_genre_tab">"Buka 'Musicolet' -> 'settings' -> 'Arrange tabs'. Jika di sana Anda tidak dapat menemukan tab genre di sana, maka sayangnya genre tidak didukung di perangkat Anda. Beberapa versi lama android memiliki banyak bug dengan genre di mediastore db. Karena Musicolet bergantung padanya, Genre tidak mungkin dilakukan pada perangkat tersebut."</string>
+    <string name="ans_why_cannt_edit_some_tags">"
+Jika lagu tersebut telah merusak tag ID3, atau tag ID3 tidak diperbolehkan ditulis di atasnya. Atau ada beberapa masalah lainnya, maka tag lagu tersebut tidak bisa diedit."</string>
+    <string name="ans_why_cant_find_newly_added_songs">"
+Pastikan Anda tidak menemukan lagu yang baru ditambahkan dalam antrian di tab antrian(tab 1). Temukan mereka di tab lainnya. Karena antrian sama sekali berbeda dari daftar putar.&lt;br/>
+Pastikan juga: Folder tempat lagu Anda atau&lt;b> folder induknya&lt;/b>&amp;#8230;&lt;br/>
+1) &amp;#8230;tidak ditambahkan dalam daftar folder yang dikecualikan (lihat Musicolet> settings>'pustaka lagu'>'exclude folders')&lt;br/>
+2) &amp;#8230;bukan folder tersembunyi dan namanya tidak diawali dengan. (dot)&lt;br/>
+3) &amp;#8230;bukan folder pribadi dari aplikasi apa pun&lt;br/>
+4) &amp;#8230;tidak mengandung file bernama '.nomedia' (.nomedia file biasanya disembunyikan di FileManager)&lt;br/>&lt;br/>
+
+Jika Anda masih tidak dapat menemukan lagu Anda, baca ini:&lt;br/>&lt;br/>
+Musicolet melakukan pemindaian cepat untuk lagu baru setiap awal. Untuk pemindaian cepat dan hemat baterai, Musicolet menggunakan kerangka &lt;b>MediaPenyimpanan&lt;/b> Android. Dalam kerangka MediaPenyimpanan Android adalah mekanisme yang ampuh untuk query dan menyimpan catatan file yang ada di penyimpanan internal dan eksternal. Banyak aplikasi termasuk Galeri bergantung padanya.
+
+Tetapi, Terkadang aplikasi (seperti pengelola file, peramban, aplikasi berbagi file, dll. yang telah mengunduh/menyalin/memindahkan lagu baru) tidak memberi tahu kerangka MediaPenyimpanan Android tentang perubahan terbaru yang mereka buat. Jadi MediaPenyimpanan tidak sadar akan perubahan tersebut. Ini adalah alasan umum untuk tidak menemukan lagu baru yang ditambahkan di Musicolet.
+Solusi:
+(1) Lakukan pemotretan ulang. (Buka Pengaturan Musicolet > Pustaka lagu > Paksa untuk menelusuri ulang) 
+
+ atau 
+
+
+(2) Hidupkan ulang perangkat Anda. Setelah restart dan semuanya terisi penuh, maka tunggu 2-3 menit lagi, lalu buka musicolet dan coba cari lagu anda.
+"</string>
+    <string name="ans_why_embedded_lyrics_why_not_online_q">"
+Musicolet adalah salah satu aplikasi paling langka yang tidak memiliki izin Internet (alias 'Izin Akses Jaringan Penuh'). Untuk membuat Musicolet dengan izin minimum, kami sengaja tidak memasukkan izin itu di aplikasi. Tanpa izin internet, aplikasi Android tidak dapat mengirim/menerima data ke/dari internet. &lt;b>Jadi fitur (seperti mengambil lirik secara otomatis) yang membutuhkan internet tidak mungkin&lt;/b>.
+"</string>
+    <string name="ans_why_not_auto_fetch_albumart_q">"
+Musicolet adalah salah satu aplikasi paling langka yang tidak memiliki izin Internet (alias 'Izin Akses Jaringan Penuh'). Untuk membuat Musicolet dengan izin minimum, kami sengaja tidak memasukkan izin itu di aplikasi. Tanpa izin internet, aplikasi Android tidak dapat mengirim / menerima data ke/dari internet. &lt;b>Jadi fitur (seperti mengambil album-art secara otomatis) yang membutuhkan internet tidak mungkin&lt;/b>.
+"</string>
+    <string name="app_closed_because_of_sleep_timer">Musicolet telah ditutup karena sleep timer. :)</string>
+    <string name="app_desc">Musicolet - Pemutar musik yang ringan dengan desain sederhana, namun memiliki banyak fitur. Satu-satunya pemutar musik dengan Multi antrian.</string>
+    <string name="app_really_need_your_permissions">Aplikasi membutuhkan akses izin agar bekerja!</string>
+    <string name="app_reqiures_permissions_to_run">Musicolet membutuhkan beberapa akses izin agar dapat berjalan.</string>
+    <string name="appearance">Tampilan</string>
+    <string name="appling_changes">Terapkan perubahan</string>
+    <string name="are_you_sure_q">Apakah kamu yakin?</string>
+    <string name="arrange_tabs">Atur tab</string>
+    <string name="artist">Artis</string>
+    <string name="artist_asc">Naik sesuai nama Artis</string>
+    <string name="artist_dsc">Menurun sesuai nama Artis</string>
+    <string name="artist_not_found">Tab artis tidak ditemukan! Aktifkan terlebih dahulu artis tab pada pengaturan</string>
+    <string name="artists">Artis</string>
+    <string name="attention_e">Peringatan!</string>
+    <string name="audio">Audio</string>
+    <string name="audio_formats_supported">Apakah Musicolet mendukung format WMA/Opus/FLAC/ALAC?</string>
+    <string name="auto_close_app_setting">Tutup otomatis aplikasi jika sedang tidak memutar musik</string>
+    <string name="auto_close_app_setting_explain">Tutup aplikasi setelah waktu tertentu jika aplikasi tidak nampak dan tidak memainkan musik</string>
+    <string name="back">Kembali</string>
+    <string name="background_c">Latar belakang:</string>
+    <string name="bass_boost">Bass boost</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="blurred_bg_explain">Tampilkan album dalam keadaan buram sebagai background yang saat ini diputar</string>
+    <string name="blurrend_bg_setting">Buramkan background di tampilan pemutar saat ini</string>
+    <string name="broadcast_aa_explain">Sehingga bisa digunakan oleh aplikasi pihak ketiga dan sistem android lock screen.</string>
+    <string name="broadcast_album_art_setting">Broadcast album art</string>
+    <string name="can_not_read_that_folder">Tidak dapat membaca folder</string>
+    <string name="cancel">Batalkan</string>
+    <string name="cant_be_empty">Tidak dapat dikosongkan!</string>
+    <string name="cant_edit_info_of_given_files">Tidak dapat mengedit info file yang diberikan!</string>
+    <string name="caption_is_be_copied_to_clipboard">Keterangan akan disalin Anda hanya perlu menempelkannya.</string>
+    <string name="center_aligned_text">Pusatkan teks ketengah</string>
+    <string name="change_album_art">Ubah album art</string>
+    <string name="changes_will_apply_physically">Perubahan akan ditulis pada setiap file audio secara fisik (pada penyimpanan sebenarnya). Jadi mungkin perlu beberapa lama.</string>
+    <string name="choose_lang">Pilih bahasa</string>
+    <string name="clear">Kosongkan</string>
+    <string name="clear_search_history">Hapus riwayat pencarian</string>
+    <string name="close">Tutup</string>
+    <string name="close_app">Tutup aplikasi</string>
+    <string name="close_lyrics">Tutup lirik</string>
+    <string name="close_selection_process_after_an_option_is_selected">Tutup proses seleksi setelah opsi yang dipilih</string>
+    <string name="composer">Komposer</string>
+    <string name="copy_to_a_queue">Salin ke antrian</string>
+    <string name="cpu_efficient_scroll">CPU-Efisien scrolling</string>
+    <string name="credits">Kredits dan terimakasih khusus</string>
+    <string name="current_queue">Antrian saat ini</string>
+    <string name="current_queue_x_y_counter">Antrean Saat Ini (%1$d/%2$d)</string>
+    <string name="current_select_queue_eq">Nama antrian yang dipilih saat ini =</string>
+    <string name="custom">Kostumisasi</string>
+    <string name="custom_order">Kostumisasi order</string>
+    <string name="customize_song_order_playlist_x">Kostumisasi lagu di daftar putar %1$s</string>
+    <string name="cutomize_song_order_yourself">Kostumisasi lagu sesuai dengan susunan yang kamu inginkan</string>
+    <string name="d_10_minutes">10 menit</string>
+    <string name="d_10_seconds">10 detik</string>
+    <string name="d_1_minutes">1 menit</string>
+    <string name="d_2_minutes">2 menit</string>
+    <string name="d_30_seconds">30 detik</string>
+    <string name="d_30p_length">30% dari durasi</string>
+    <string name="d_50p_length">50% dari durasi</string>
+    <string name="d_5_minutes">5 menit</string>
+    <string name="d_90p_length">90% dari durasi</string>
+    <string name="dark">Dark</string>
+    <string name="date_add_asc">Tanggal ditambahkan pada pustaka Naik</string>
+    <string name="date_add_dsc">Tanggal ditambahkan pada pustaka Menurun</string>
+    <string name="date_added_to_library">Tanggal ditambahkan ke pustaka</string>
+    <string name="date_last_played">Tanggal terakhir dimainkan</string>
+    <string name="date_mod_asc">Tanggal modifikasi Naik</string>
+    <string name="date_mod_dsc">Tanggal modifikasi menurun</string>
+    <string name="date_modified">Tanggal modifikasi</string>
+    <string name="date_play_asc">Tanggal terakhir dimainkan Naik</string>
+    <string name="date_play_dsc">Tanggal terakhir dimainkan Menurun</string>
+    <string name="delete">Hapus</string>
+    <string name="delete_permanently">Hapus permanen</string>
+    <string name="delete_this_backup">Hapus cadangan ini</string>
+    <string name="delete_this_external_playlist">Hapus daftar putar eksternal ini</string>
+    <string name="delete_this_preset">Hapus preset ini</string>
+    <string name="deselct_all_songs_album">Tidak memilih semua lagu dari album ini</string>
+    <string name="deselct_all_songs_genre">Tidak memilih semua lagu dari genre ini</string>
+    <string name="deselect_all_from_this_list">"batalkan semua pilihan
+dari daftar ini"</string>
+    <string name="deselect_all_songs_artist">Tidak memilih semua lagu dari artis ini</string>
+    <string name="deselect_all_songs_folder">Tidak memilih semua lagu dari folder ini</string>
+    <string name="deselect_all_songs_playlist">Tidak memilih semua lagu dari daftar putar ini</string>
+    <string name="deselect_all_songs_sub_folder">Tidak memilih semua lagu di folder dan sub-folder ini</string>
+    <string name="disclaimer_earphone_actions">Catatan: Mungkin tombol earphone tidak bekerja dibeberapa perangkat! Klik disini alasannya.</string>
+    <string name="do_in_background">Lakukan di latar belakang</string>
+    <string name="do_nothing">Jangan lakukan apapun</string>
+    <string name="does_transmit_data_in_background">Apakah musicolet mengirimkan data melalui internet?</string>
+    <string name="done">Selesai</string>
+    <string name="double_press_action">Aksi tombol earphone Dua kali-ditekan</string>
+    <string name="dragger_explain">Tahan dari sini dan tarik ke atas/bawah untuk mengubah urutan</string>
+    <string name="duration">Durasi</string>
+    <string name="duration_asc">Naik sesuai durasi</string>
+    <string name="duration_dsc">Menurun sesuai durasi</string>
+    <string name="earphone_button_descaimer_explain">Beberapa produsen menempatkan lapisan kode mereka sendiri di stok android, perangkat semacam itu menangani tombol earphone sendiri dan tidak membiarkan aplikasi mencegatnya. Jadi perangkat hanya memberitahu Musicolet untuk memainkan lagu selanjutnya/sebelumnya. Tapi jangan pernah bilang tombol earphone ditekan. Kita tidak bisa berbuat apa-apa tentang itu.</string>
+    <string name="edit_album_info">Edit info Album</string>
+    <string name="edit_artist_info">Edit info Artis</string>
+    <string name="edit_genre_info">Edit Genre</string>
+    <string name="edit_info">Ubah info</string>
+    <string name="edit_lyrics">Edit Lirik</string>
+    <string name="edit_song_info">Edit info lagu</string>
+    <string name="embedded_lyrics_appearance">Tampilan lirik yang disematkan</string>
+    <string name="empty_queue_cannt_resume">Antrian ini kosong. Tidak dapat melanjutkan.</string>
+    <string name="empty_queue_cannt_scroll_to_current_song">Antrian ini kosong! Tidak dapat menggeser ke lagu yang sedang aktif!</string>
+    <string name="enable_document_app_first">"'Dokumen' aplikasi tidak ditemukan. Mohon aktifkan aplikasi 'Dokumen' terlebih dahulu jika aplikasi dinonaktifkan. (Klik pada 'Pengaturan' > Aplikasi terpasang' > 'Semua' > Temukan 'Dokumen' > lalu Aktifkan). Kemudian Coba lagi."</string>
+    <string name="end_of_current_queue">Akhir antrian saat ini telah tercapai</string>
+    <string name="end_of_current_queue_shuffle">Akhir antrian saat ini telah tercapai(pada mode acak)</string>
+    <string name="end_of_first_queue">Akhir antrian pertama telah tercapai</string>
+    <string name="end_of_last_queue">Akhir antrian terakhir telah tercapai</string>
+    <string name="end_of_last_queue_shuffle">Akhir antrian terakhir telah tercapai(pada mode acak)</string>
+    <string name="enter_new_playlist_name">Masukkan nama daftar putar yang baru</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="equalizer_not_working_q">Equalizer tidak bekerja dengan baik?</string>
+    <string name="equalizer_to_use">Equalizer yang digunakan</string>
+    <string name="error_init_equalizer">Error ketika menginisialisasi equalizer</string>
+    <string name="error_taking_screenshot">Error ketika mengambil screenshot!</string>
+    <string name="error_while_reading_user_preset">Error ketika membaca preset pengguna</string>
+    <string name="error_while_rescaning">Ada yang tidak beres saat melakukan pemindaian ulang</string>
+    <string name="error_while_setting_ringtone">Error ketika mengatur nada panggil!</string>
+    <string name="exclude_duration_explanation">Lagu dan klip audio<b> lebih kecil dari</b> durasi ini akan dikecualikan dari pemindaian.</string>
+    <string name="exclude_folder_from_scanning">Kecualikan folder dari pemindaian</string>
+    <string name="exclude_small_duration_files">Kecualikan file yang berdurasi pendek</string>
+    <string name="exclude_song_folder_dialog_explanation">Lagu dalam folder yang tercantum di bawah tidak akan dipindai. Lagu di<b> sub-folder</b> dari folder ini akan<b> juga tidak dipindai</b>.</string>
+    <string name="exclude_this_folder_from_scanning">Kecualikan folder ini dari pemindaian</string>
+    <string name="exclude_time_zero_value_explain">Menjaga kedua nilai ini kosong atau 0:0 tidak akan mengecualikan file apapun.</string>
+    <string name="excluded_folders_list_updated">Daftar folder yang dikecualikan telah diperbarui</string>
+    <string name="expandable_notif">Perluas notifikasi</string>
+    <string name="experimental">Eksperimental</string>
+    <string name="explanation_force_rescan">"&lt;b>Apakah Musicolet memindai lagu baru secara otomatis?&lt;/b>
+Iya. Musicolet melakukan pemindaian cepat untuk lagu baru setiap aplikasi dijalankan.
+
+&lt;b>Lalu mengapa dibutuhkan pemindaian ulang paksa?&lt;/b>
+Untuk pemindaian cepat dan hemat baterai, Musicolet menggunakan &lt;b>MediaStorage Framework&lt;/b> Android. Dalam kerangka MediaStorage Android adalah mekanisme yang ampuh untuk query dan menyimpan catatan file yang ada di penyimpanan internal dan eksternal. Banyak aplikasi termasuk Galeri bergantung padanya.
+
+Tetapi, Terkadang aplikasi (seperti pengelola file, peramban, aplikasi berbagi file, dll. yang telah mengunduh/menyalin/memindahkan lagu baru) tidak memberi tahu kerangka MediaStorage Android tentang perubahan terbaru yang mereka buat. Jadi MediaStorage tidak sadar akan perubahan tersebut. Ini adalah alasan umum untuk tidak menemukan lagu baru yang ditambahkan di Musicolet. Jika aplikasi lain bekerja sama dan mengikuti Pedoman MediaStorage dengan benar, Anda tidak perlu menggunakan pemindaian paksa.
+
+
+Setelah itu, Tombol Pemindaian-ulang yang diberikan di bawah ini akan memaksa kerangka MediaStorage Android untuk memindai lagu di dalam folder yang dipilih dan subfoldernya; jadi Android dan kemudian Musicolet bisa menemukan lagu yang baru ditambahkan.
+"</string>
+    <string name="export_playlist_backup_explain">&lt;small>Buat salinan daftar putar pribadi Musicolet dan ekspor ke publik. Jadi nanti Anda bisa mengimpor lagu dari cadangan yang telah di ekspor. Cadangkan daftar putar yang ada diekspor dengan nama yang sama, akan diganti dengan yang baru.&lt;/small></string>
+    <string name="export_playlist_for_backup">&lt;small>Ekspor daftar putar untuk mencadangkan&lt;/small></string>
+    <string name="export_playlists">Ekspor daftar putar Musicolet sebagai cadangan</string>
+    <string name="external_playlist_deleted">Daftar putar eksternal yang dipilih telah berhasil dihapus</string>
+    <string name="facebook">Facebook</string>
+    <string name="facts_about_queues">Fakta lainnya tentang multi-antrian</string>
+    <string name="fade_in_when_play">Fade-in volume ketika dimainkan</string>
+    <string name="fade_out_when_pause">Fade-out volume ketika pause</string>
+    <string name="fade_vol_effects_title">Fade volume ketika diputar/jeda</string>
+    <string name="failed">Gagal</string>
+    <string name="falied_to_delete_some_files">Gagal menghapus beberapa file dari penyimpanan!</string>
+    <string name="faqs_and_other_info">Pertanyaan yang sering diajukan dan info lain nya</string>
+    <string name="fast_forward">Maju cepat</string>
+    <string name="fastforward_on_4_press_explain">Pada setiap tombol earphone tekan lebih dari 4x, anda bisa melakukan Fast-Forward.</string>
+    <string name="favourites">Favorit</string>
+    <string name="file_doesnt_exist">File tidak ada!</string>
+    <string name="file_name">Nama file</string>
+    <string name="file_name_dsc">Menurun sesuai nama file</string>
+    <string name="filename_asc">Naik sesuai nama file</string>
+    <string name="fit_to_square_for_instagram">Sesuaikan ukuran dengan instagram</string>
+    <string name="folder_exclude_warning">Folder ini dan semua sub-folder akan dikecualikan dari pemindaian. Lagu dengan folder ini akan disembunyikan. Apa anda ingin melanjutkan?</string>
+    <string name="folder_jpg_settings_explain">Gunakan folder.jpg, AlbumArt.jpg dll dari folder yang sama, jika AlbumArt yang disematkan tidak ditemukan di lagu</string>
+    <string name="folder_linear">Linear (semua folder menjadi satu)</string>
+    <string name="folder_tab_not_found">Tab folder tidak ditemukan! Aktifkan terlebih dahulu folder tab pada pengaturan</string>
+    <string name="folders">Folder</string>
+    <string name="follow_musicolet_on">Ikuti Musicolet di:</string>
+    <string name="for_xiaomi_miui_user">Untuk pengguna MIUI Xiaomi</string>
+    <string name="force_to_rescan">Paksa untuk pemindaian ulang</string>
+    <string name="force_to_rescan_now">Paksa untuk pemindaian ulang sekarang</string>
+    <string name="force_to_rescan_settings_explain">Berguna ketika lagu baru ditambahkan hilang di Musicolet</string>
+    <string name="frequently_asked_questions_faqs">Pertanyaan yang paling sering diajukan (FAQs)</string>
+    <string name="genre">Genre</string>
+    <string name="genre_tab_not_found">Tab genre tidak ditemukan! Aktifkan terlebih dahulu genre tab pada pengaturan</string>
+    <string name="genres">Genre</string>
+    <string name="git_it_lets_do_it">Paham! Ayo lanjutkan.</string>
+    <string name="give_permissions">Berikan akses perizinan</string>
+    <string name="give_us_permission_for_ringtone">Berikan kami akses izin agar dapat mengganti nada panggil anda</string>
+    <string name="got_it">Mengerti</string>
+    <string name="grid_view">Tampilan Grid</string>
+    <string name="handsfree_and_speakers">Handsfree dan speakers</string>
+    <string name="help_and_info">Bantuan dan info</string>
+    <string name="hide_embedded_lyrics">Sembunyikan lirik yang disematkan</string>
+    <string name="hierarchical_folders">Hirarki (folder dalam folder)</string>
+    <string name="homescrenn_widget_settings">Tampilan widget HomeScreen</string>
+    <string name="how_can_you_appreciate_our_work">Bagaimana saya bisa mendukung dan menghargai apresiasi anda?</string>
+    <string name="how_much_we_earn_from_musicolet">Bagaimana Anda memperoleh penghasilan dari Musicolet?</string>
+    <string name="i_understand_this">Saya mengerti hal ini</string>
+    <string name="i_understand_this_use_x">Paham! Gunakan %1$s</string>
+    <string name="if_d_10sec_replay_else_prev">Jika lagu saat ini dimainkan lebih dari 10 detik, maka Putar ulang lagunya, atau mainkan lagu sebelumnya</string>
+    <string name="import_playlist_dialog_title">Impor lagu dari daftar putar umum eksternal</string>
+    <string name="import_playlists">Impor lagu dari daftar putar eksternal</string>
+    <string name="in_expanded_notification">Memperluas notifikasi…</string>
+    <string name="instagram">Instagram</string>
+    <string name="interface_">Antarmuka</string>
+    <string name="jump_from_first_play_queue">Saat antrian terakhir berakhir, lompat ke antrian pertama dan sebaliknya</string>
+    <string name="jump_to_next_queue">Lompat ke antrian selanjutnya</string>
+    <string name="just_stop_there">Cukup berhenti disitu</string>
+    <string name="lagfree_scroll_pref_explain">Muatkan seni album hanya bila daftar tidak bergulir. Ini mengurangi penggunaan CPU dan memberikan scrolling yang halus.</string>
+    <string name="language">Bahasa</string>
+    <string name="language_not_supported_by_dev">"Musicolet dikembangkan dalam bahasa Inggris. Sayangnya kami tidak mengerti bahasa kamu. :(
+&lt;br/>&lt;br/>&lt;b>Aplikasi diterjemahkan dalam bahasa ini oleh pengguna kami&lt;/b>.
+&lt;br/>&lt;br/>Kami tidak bertanggung jawab atas kebenaran terjemahan. Saat berkomunikasi dengan kami (via email, playstore dan platform lainnya) mohon gunakan bahasa Inggris jika memungkinkan.
+&lt;br/>&lt;br/>Jika Anda menemukan beberapa terjemahan yang salah, atau ingin memperbaiki kualitas terjemahan saat ini, Anda dapat membantu kami. Untuk itu, masuklah ke menu, 'Bantuan dan info' lalu pilih 'Help us in translation'.
+&lt;b>Terimakasih atas dukungan anda.&lt;/b>"</string>
+    <string name="least_played_first">Paling tidak dimainkan dulu</string>
+    <string name="library_not_updated_completely">Lagu pada pustaka gagal diperbaharui!</string>
+    <string name="light">Light</string>
+    <string name="like_this_app_q">Sukai aplikasi ini?</string>
+    <string name="list_with_thumbnail">Daftar lagu dengan gambar</string>
+    <string name="list_without_thumbnail">Daftar lagu tanpa gambar</string>
+    <string name="location">Lokasi</string>
+    <string name="lock_screen">Lock screen</string>
+    <string name="looking_for_new_files">Mencari file baru</string>
+    <string name="lyricist">Menulis lirik</string>
+    <string name="main_menu">Menu utama</string>
+    <string name="match_system_bg_dark_text">Cocokkan dengan latar belakang sistem + Teks gelap</string>
+    <string name="match_system_bg_light_text">Cocokkan dengan latar belakang sistem + Teks cerah</string>
+    <string name="max_queue_limit_reached_1st_deleted">Batas antrian maksimum (=%1$d) tercapai. Antrian pertama akan dihapus.</string>
+    <string name="min_duration_minutes_consider">Hanya lagu yang memiliki durasi lebih besar atau lagu yang memiliki menit yang lebih banyak akan diingat:</string>
+    <string name="minimum_duration_consider_playback">Durasi minimum untuk mempertimbangkan pemutaran</string>
+    <string name="minimum_duration_consider_playback_explain">Minimum durasi dari yang diputar membutuhkannya sebelum lagu dianggap telah dimainkan</string>
+    <string name="more_about_musicolet">Selajutnya tentang Musicolet</string>
+    <string name="most_played">Paling sering diputar</string>
+    <string name="most_played_first">Sebagian besar dimainkan dulu</string>
+    <string name="multi_selection_controls">Multi-seleksi kontrol</string>
+    <string name="music_playback">Pemutar musik</string>
+    <string name="music_playback_suddenly_stops_while_multitasking">Musik berhenti bermain di latar belakang saat menggunakan aplikasi lain (multitasking)</string>
+    <string name="musicoler_ss_caption_1">"Dengarkan #%1$s oleh #%2$s di #musicolet… 
+
+Dapatkan @musicolet dari PlayStore: j.mp/musicolet"</string>
+    <string name="musicoler_ss_caption_2">"Dengarkan musik di #musicolet… 
+
+Dapatkan @musicolet dari PlayStore: j.mp/musicolet"</string>
+    <string name="musicolet_equalizer">Musicolet Equalizer</string>
+    <string name="musicolet_free_forever_q">Apakah musicolet akan GRATIS selamanya?</string>
+    <string name="musicolet_is_updated">Musicolet sedang update!</string>
+    <string name="musicolet_lock_screen">Musicolet Lock-Screen</string>
+    <string name="musicolet_lock_screen_desc">"Musicolet Lock-Screen memungkinkan mengontrol musik di atas layar kunci default Anda.
+
+"<small>Catatan: BukaKunci Musicolet LockScreen tidak membuka layar kunci default anda.</small></string>
+    <string name="musicolet_lockscreen">Musicolet lock-screen</string>
+    <string name="musicolet_notif">Musicolet gaya</string>
+    <string name="musicolet_oreo_notif">Musicolet + Android Oreo Style</string>
+    <string name="musicolet_requires_some_permissions">Musicolet membutuhkan beberapa akses perizinan!</string>
+    <string name="musicolet_simpli_perf_and_effi">Musicolet adalah Music Player yang difokuskan untuk kesederhanaan, kinerja dan efisiensi.</string>
+    <string name="mute">Bisu</string>
+    <string name="needsaccess">Akses menulis dibutuhkan</string>
+    <string name="never">takkan pernah</string>
+    <string name="never_close_automatically">Jangan pernah menutup secara otomatis</string>
+    <string name="new_name_here">Nama baru disini</string>
+    <string name="new_playlist_name">Nama daftar putar yang baru</string>
+    <string name="new_queue">Antrian Baru</string>
+    <string name="next_song">Lagu selanjutnya</string>
+    <string name="no">Tidak</string>
+    <string name="no_app_available_to_share">Tidak ada aplikasi yang tersedia untuk dibagikan!</string>
+    <string name="no_embedded_lyrics_found_this_song">Tidak ada lirik yang disematkan pada lagu ini</string>
+    <string name="no_external_playlist_nor_backup_found">Tidak ada daftar putar eksternal yang ditemukan. Dan tidak ada cadangan daftar putar Musicolet yang di ekspor sebelumnya tidak dapat ditemukan</string>
+    <string name="no_song_to_queue_b">[Tidak ada lagu didalam antrian]</string>
+    <string name="not_all_device_support_system_eq">Tidak semua perangkat android mendukung sistem equalizer</string>
+    <string name="not_enough_cache_memory_ro_edit_info">Tidak cukup cache-memory pada perangkat untuk mengedit info lagu!</string>
+    <string name="not_enough_ram_for_action">Tidak cukup RAM untuk melakukan aksi ini</string>
+    <string name="not_valid_folder">Folder tidak valid</string>
+    <string name="notif_appear">Tampilan notifikasi</string>
+    <string name="notif_style_c">Notifikasi Style:</string>
+    <string name="notif_warning">Di android, notifikasi dibuat dengan Remote Views. Aplikasi membuat Tampilan Jauh dan meneruskannya ke System UI. Setelah itu mereka dirender dan dikelola oleh System UI. ROM bisa membuat perubahan sendiri pada mereka. Jadi penyesuaian ini mungkin tidak bekerja di beberapa perangkat atau beberapa ROM.</string>
+    <string name="notif_warning_title">Di beberapa perangkat, mungkin kostumisasi tidak akan bekerja.<u> Klik disini</u> untuk membaca alasan nya.</string>
+    <string name="nowSelecttionProcessCloseOnAction">Sekarang, proses seleksi akan ditutup begitu Anda memilih sebuah tindakan</string>
+    <string name="nowSelecttionProcessWillNotCloseOnAction">Sekarang, Anda dapat melakukan lebih dari satu tindakan pada lagu yang dipilih. Lagu terpilih akan tetap terpilih.</string>
+    <string name="now_playing">Sedang dimainkan</string>
+    <string name="now_showing_filenames">Sekarang tampilkan Nama-File dan bukan judulnya</string>
+    <string name="now_showing_titles">Sekarang tampilkan Judulnya dan bukan Nama-File nya</string>
+    <string name="ok">OK</string>
+    <string name="open_source_lic"><u>Sumber lisensi terbuka</u></string>
+    <string name="options">Opsi</string>
+    <string name="options_for_listed_songs">Opsi untuk lagu yang terdaftar</string>
+    <string name="options_for_songs_folder_subfolder">Opsi untuk semua lagu di folder ini dan subfolder</string>
+    <string name="options_for_songs_in_this_folder">Opsi untuk lagu di folder ini</string>
+    <string name="options_for_this_song">Opsi untuk lagu ini</string>
+    <string name="paste">Paste</string>
+    <string name="paste_or_write_lyrics_here">Paste atau tulis lirik disini</string>
+    <string name="pause_when_disconnect">Pause lagu ketika diskonek</string>
+    <string name="pause_when_disconnect_explain">Pause lagu ketika headset, speaker atau bluetooth ketika dicabut</string>
+    <string name="permission_reqired">Akses izin dibutuhkan!</string>
+    <string name="play">Mainkan</string>
+    <string name="play_after_current_song">Putar setelah lagu saat ini</string>
+    <string name="play_next_song">Putar lagu berikutnya</string>
+    <string name="play_or_pause">Putar atau Jeda</string>
+    <string name="play_queue">Antrian</string>
+    <string name="play_speed">Kecepatan bermain</string>
+    <string name="played">Dimainkan</string>
+    <string name="playlist_exported_Success">Daftar putar yang dipilih telah berhasil diekspor</string>
+    <string name="playlist_order_saved">Daftar putar telah disimpan</string>
+    <string name="playlist_tab_cant_be_hidden">Tab Daftar Putar tidak dapat disembunyikan</string>
+    <string name="playlists">Daftar putar</string>
+    <string name="please_wait">Mohon tunggu</string>
+    <string name="preset_name">Nama Preset</string>
+    <string name="previous_song">Lagu sebelumnya</string>
+    <string name="previous_song_behaviour_setting">Tindakan tombol Lagu-sebelumnya</string>
+    <string name="previous_song_behaviour_setting_explain">Tentukan apa yang harus dilakukan saat Anda mengklik tombol lagu sebelumnya baik dari pemutar, notifikasi, lockscreen atau headset</string>
+    <string name="queue_instead_fav">Pintasan antrian digantikan oleh tombol favorit</string>
+    <string name="queues">Antrian</string>
+    <string name="queues_and_playlists">Daftar putar dan Antrian</string>
+    <string name="randomize">Randomize</string>
+    <string name="rate_us_5_stars">Berikan kami rating 5 bintang</string>
+    <string name="read_them_first_click_here">Baca terlebih dahulu. Klik disini.</string>
+    <string name="recently_added">Terahir ditambahkan</string>
+    <string name="reload_metadata_settings">Muat ulang metadata tags dari penyimpanan</string>
+    <string name="reload_metadata_settings_explain">Ini akan memuat ulang tag metadata dari penyimpanan, dan Update tag lagu di semua Antrian dan Daftar Putar.</string>
+    <string name="rem_pos_indie_songs">Ingat posisi terakhir dari semua lagu</string>
+    <string name="remove_album_art">Hapus album art</string>
+    <string name="remove_from_favorites">Hapus dari favorit</string>
+    <string name="remove_from_this_playlist">Hapus dari daftar putar ini</string>
+    <string name="remove_from_this_queue">Hapus dari antrian ini</string>
+    <string name="remove_playlist">Hapus daftar putar</string>
+    <string name="remove_this_queue">Hapus antrian yang dipilih</string>
+    <string name="rename">Namai ulang</string>
+    <string name="rename_playlist">Namai ulang daftar putar</string>
+    <string name="rename_queue">Namai ulang antrian</string>
+    <string name="rename_this_queue">Namai ulang antrian ini</string>
+    <string name="repeat_options">Opsi pengulangan</string>
+    <string name="repeat_queue">Ulangi antrian yang sama</string>
+    <string name="repeat_song">Ulangi lagu yang sama</string>
+    <string name="reset">Reset</string>
+    <string name="reset_timer">Reset timer</string>
+    <string name="respect_audio_focus_desable_alert">"Anda hanya menonaktifkan pengaturan 'audio-focus'. Kini musicolet tidak akan memfokus kan audio. Ini berarti ketika aplikasi lain memulai audio atau saat panggilan telepon berlangsung, Musik tidak akan dijeda."</string>
+    <string name="respect_audio_focus_explain">Jeda pemutaran saat aplikasi lain meminta fokus audio dan saat panggilan berlangsung. Jangan ceklis ini kecuali Anda tahu apa yang Anda lakukan!</string>
+    <string name="respect_audiofocus_settings">Fokus audio</string>
+    <string name="resume_last_position_q">Lanjutkan posisi terakhir (%1$s)?</string>
+    <string name="resume_playback">Lanjutkan pemutaran</string>
+    <string name="resume_this_queue">Lanjutkan antrian yang dipilih</string>
+    <string name="resume_without_asking">Lanjutkan tanpa bertanya</string>
+    <string name="resumed_from_last_rem">Lanjutkan dari posisi terakhir yang telah disimpan</string>
+    <string name="reverse">Membalikkan</string>
+    <string name="rewind">Mundur</string>
+    <string name="ringtone_is_set">Nada panggilan telah diatur!</string>
+    <string name="ringtone_modify_sys_permission_explanantion">Musicolet tidak memiliki izin untuk memodifikasi pengaturan sistem. Tanpa izin aplikasi kami tidak dapat mengubah nada dering Anda. Buka setelan ponsel, setelan aplikasi, temukan Musicolet dan berikan semua izin yang diperlukan. Kemudian coba lagi.</string>
+    <string name="s_new_playlist">Playlist Baru</string>
+    <string name="saf_description_delete">"Karena keterbatasan sistem android, aplikasi tidak dapat menghapus/memodifikasi file pada penyimpanan eksternal (seperti kartu SD, USB dll.) Tanpa izin pengguna. Beri kami izin agar kami bisa memodifikasi file. Ini diperlukan untuk mengedit tag.
+
+Silahkan ikuti 4 langkah sederhana ini (perbesar gambar jika dibutuhkan):"</string>
+    <string name="saf_description_modify">"Karena keterbatasan sistem android, aplikasi tidak dapat memodifikasi file pada penyimpanan eksternal (seperti kartu SD, USB dll.) Tanpa izin pengguna. Beri kami izin agar kami bisa memodifikasi file. Ini diperlukan untuk mengedit tag.
+
+Silahkan ikuti 4 langkah sederhana ini (perbesar gambar jika dibutuhkan):"</string>
+    <string name="save">Simpan</string>
+    <string name="save_changes_q">Simpan perubahan?</string>
+    <string name="save_order">Simpan</string>
+    <string name="save_preset">Simpan Preset</string>
+    <string name="save_this_queue">Simpan antrian yang dipilih</string>
+    <string name="save_to_gallery">Simpan ke galeri</string>
+    <string name="saved_in_gallary_musicolet">Tersimpan di Musicolet folder di Galeri!</string>
+    <string name="scan_this_folder">Mulai pemindaian dari folder ini</string>
+    <string name="screen_shot">Screen shot</string>
+    <string name="scrolled_to_current_song">Scroll ke posisi lagu yang sedang aktif dalam antrian ini.</string>
+    <string name="search">Cari</string>
+    <string name="search_album_art_with">Cari album art dengan…</string>
+    <string name="search_lyrics">Cari lirik</string>
+    <string name="search_lyrics_with">Cari lirik lagu dengan…</string>
+    <string name="search_menu_title">Telusuri</string>
+    <string name="search_title_album_artist">Cari berdasarkan judul, album, artis</string>
+    <string name="seekbar_to_seek_the_song">Seekbar to seek the song</string>
+    <string name="select_a_playlist">Pilih daftar putar</string>
+    <string name="select_all">Pilih semua</string>
+    <string name="select_all_from_this_list">"pilih semua
+dari daftar ini"</string>
+    <string name="select_all_songs_artist">Pilih semua lagu dari artis ini</string>
+    <string name="select_all_songs_folder">Pilih semua lagu dari folder ini</string>
+    <string name="select_all_songs_genre">Pilih semua lagu dari genre ini</string>
+    <string name="select_all_songs_of_album">Pilih semua lagu dari album ini</string>
+    <string name="select_all_songs_playlist">Pilih semua lagu dari daftar putar ini</string>
+    <string name="select_all_songs_sub_folder">Pilih semua lagu di folder dan sub-folder ini</string>
+    <string name="set_as_ringtone">Atur sebagai nada panggil</string>
+    <string name="set_timer">Atur timer</string>
+    <string name="settings">Pengaturan</string>
+    <string name="share">Bagikan</string>
+    <string name="share_screenshot">Bagikan ScreenShot</string>
+    <string name="share_song">Bagikan lagu</string>
+    <string name="share_with_friends">Bagikan dengan teman</string>
+    <string name="sharing_too_many_files_warn">Berbagi terlalu banyak file sekaligus mungkin tidak didukung oleh operasi sistem</string>
+    <string name="shorect_removed_menu">Pintasan di hapus dari menu</string>
+    <string name="shortcut_added_menu">Pintasan ditambahkan di menu</string>
+    <string name="show_advance_controls">Tampilkan kontrol di depan</string>
+    <string name="show_embedded_lyrics">Tampilkan lirik yang disematkan</string>
+    <string name="show_explanation">Baca penjelasan dulu. Klik disini.</string>
+    <string name="show_favorite_button">Tampilkan tombol favorit</string>
+    <string name="show_filename_instead_of_title_explain">Alih-alih menampilkan judul lagu, Tunjukkan nama file mereka dimanapun</string>
+    <string name="shuffle_all">Acak semua</string>
+    <string name="shuffle_and_play">Acak dan mainkan</string>
+    <string name="shuffle_listed_songs">Acak daftar lagu</string>
+    <string name="shuffle_mode_off">Mode acak telah dinonaktifkan</string>
+    <string name="shuffle_mode_on">Mode acak telah diaktifkan</string>
+    <string name="shuffle_mode_on_off">Mode acak on/off</string>
+    <string name="shuffle_mode_vs_randomize">Mode acak vs Randomize</string>
+    <string name="size">Ukuran</string>
+    <string name="sleep_timer">Sleep timer</string>
+    <string name="sleep_timer_explain_when_off">Tidak ada timer yang di atur. Atur timer untuk menghentikan musik dan menutup aplikasi setelah…</string>
+    <string name="sleep_timer_explain_when_on">Musicolet akan berhenti memainkan musik dan akan ditutup setelah…</string>
+    <string name="song_info">Info lagu</string>
+    <string name="song_lib_updated_success">Lagu pada pustaka berhasil diperbaharui!</string>
+    <string name="song_library_and_tags">pustaka lagu dan tag</string>
+    <string name="song_library_section">Pustaka lagu</string>
+    <string name="sort_listed_songs">Urutkan daftar lagu</string>
+    <string name="sort_songs_by">Urutkan lagu sesuai…</string>
+    <string name="sort_this_playlist">Urutkan daftar putar ini</string>
+    <string name="sort_this_queue">Urutkan lagu pada antrian yang dipilih</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="still_not_finding_song_explanation">"&lt;b>Lagu masih belum ditemukan?&lt;/b>
+&lt;br/>Pastikan Anda tidak menemukan lagu yang baru ditambahkan dalam antrian di tab antrian. Temukan mereka di tab lainnya. Karena antrian sama sekali berbeda dari daftar putar.&lt;br/>&lt;br/>
+Juga Pastikan: Folder tempat lagu Anda atau&lt;b> folder induknya&lt;/b>&amp;#8230;&lt;br/>&lt;br/> 
+1) &amp;#8230;tidak ditambahkan dalam daftar &lt;a href=#1> folder yang dikecualikan &lt;/a> (lihat musicolet> setting> 'perpustakaan lagu'> 'mengecualikan folder') &lt;br/>&lt;br/>
+2) &amp;#8230;bukan folder tersembunyi dan namanya tidak dimulai dengan .(dot) &lt;br/>&lt;br/>
+3) &amp;#8230;bukan folder pribadi dari aplikasi apa pun &lt;br/>&lt;br/>
+4) &amp;#8230;tidak mengandung file bernama '.nomedia' (.nomedia file biasanya disembunyikan di FileManager) &lt;br/>&lt;br/>
+Setelah menyelesaikan masalah ini lakukan pemindaian ulang."</string>
+    <string name="still_not_finding_songs">Lakukan pemindaian ulang pada folder yang diinginkan dengan menekan tombol yang diberikan di atas. Setelah itu jika Anda masih belum menemukan lagu Anda, &lt;b>&lt;u> kemudian klik di sini. &lt;/u>&lt;/b></string>
+    <string name="stock_notifi">Stok notifikasi</string>
+    <string name="stock_notifi_not_custmzbl">Stok notifikasi telah disediakan oleh sistem sehingga tidak dapat dikostumisasi</string>
+    <string name="summary_use_remaining_time">Tampilkan waktu yang tersisa, bukan saat ini saat sedang memutar lagu</string>
+    <string name="support_developer">Dukungan untuk pengembang</string>
+    <string name="surround_sound">Surround Sound</string>
+    <string name="swipe_app_to_close_explain">Berhenti memainkan musik dan menutup aplikasi saat aplikasi digeser dan dihapus dari aplikasi terbaru</string>
+    <string name="switching_to_musicolet_eq">Ubah ke Musicolet Equalizer</string>
+    <string name="system_equalizer">Sistem Equalizer</string>
+    <string name="system_equlizer_not_supported_in_device">Equalizer sistem tidak mendukung perangkat anda</string>
+    <string name="tabs_below_this_position_hidden">Tab dibawah posisi ini akan disembunyikan.</string>
+    <string name="tags_albumArt_embbededLyrics">Tags, Album Art, Embedded lirik</string>
+    <string name="thank_you">Terimakasih</string>
+    <string name="that_list_is_empty">Daftar ini kosong!</string>
+    <string name="theme">Tema</string>
+    <string name="this_queue_is_active">Ini adalah antrian yang sedang diputar</string>
+    <string name="this_queue_is_already_playing">Antrian ini sudah diputar</string>
+    <string name="this_queue_is_not_active">Ini bukan antrian yang sedang diputar</string>
+    <string name="this_queue_is_resumed">Antrian ini dilanjutkan</string>
+    <string name="title">Judul</string>
+    <string name="title_asc">Naik sesuai judul</string>
+    <string name="title_dsc">Menurun sesuai judul</string>
+    <string name="toggle_favorite">Tambahkan/Hapus favorit</string>
+    <string name="too_much_songs_in_multiple_queues">Terlalu banyak lagu di multi-antrian!</string>
+    <string name="track_asc">Naik sesuai nomor urut</string>
+    <string name="track_dsc">Menurun sesuai nomor urut</string>
+    <string name="track_number">Nomor urut</string>
+    <string name="triple_press_action">Aksi tombol earphone Tiga kali-ditekan</string>
+    <string name="twitter">Twitter</string>
+    <string name="unknown_b">[tidak diketahui]</string>
+    <string name="unlock">Buka kunci</string>
+    <string name="unnamed">Belum-dinamai</string>
+    <string name="updating_library">Memperbarui pustaka…</string>
+    <string name="use_big_fonts">Gunakan font yang besar</string>
+    <string name="use_light_status_bar">Tanyakan sistem untuk menggunakan light status bar</string>
+    <string name="use_remaining_time">Tampilkan waktu yang tersisa</string>
+    <string name="use_x">Gunakan %1$s</string>
+    <string name="usefull_for_audiobook">Gunakan untuk mengingat posisi terakhir pada ukuran lagu yang besar, podcast, audiobook dll.</string>
+    <string name="version_whatsnew">v %1$s<u> (Apa yang baru)</u></string>
+    <string name="view_album_art">Lihat album art</string>
+    <string name="volume">Volume</string>
+    <string name="volume_slider">Geser volume</string>
+    <string name="waring_reloading_metadata">"Anda hanya boleh menggunakan fitur ini jika Anda memiliki &lt;b>metadata yang telah diedit (tag ID3) dari lagu di luar Musicolet (baik dengan menggunakan aplikasi lain atau PC)&lt;/b> dan Anda tidak melihat perubahan tersebut di Musicolet. &lt;br/>&lt;br/>Jika Anda perlu menggunakan fitur ini, mohon baca peringatan ini. Anda mungkin mengabaikan peringatan ini jika yakin bahwa lagu yang tagnya ingin Anda muat ulang dari penyimpanan menggunakan standar (disetujui secara internasional) &lt;a href=https://en.wikipedia.org/wiki/Character_encoding>pengkodean karakter&lt;/a> untuk tag. &lt;br/>&lt;br/>
+&lt;small>Musicolet bergantung pada kerangka MediaStorage Android untuk membaca tag metadata. Tapi setelah mengedit tag dari beberapa lagu, MediaStorage mungkin gagal mendeteksi pengkodean yang benar. Jika MediaStorage mendeteksi salah Pengkodean karakter lagu maka&lt;b>tag mungkin tidak terbaca&lt;/b>. Namun, ini jarang terjadi, jika pencipta lagu menggunakan pengkodean non-standar (pengkodean yang tidak dikecualikan secara internasional) untuk tag. Jika ini terjadi, &lt;b>itu bukan kesalahan Musicolet dan jangan salahkan kami;&lt;/b> Kami telah memperingatkan Anda.&lt;/small> 
+"</string>
+    <string name="warning_edit_tags_encoding">"Anda mungkin mengabaikan peringatan ini jika yakin bahwa lagu yang tagnya ingin Anda edit menggunakan standar (disetujui secara internasional) &lt;a href=https://en.wikipedia.org/wiki/Character_encoding> pengkodean karakter&lt;/a> untuk tag. &lt;br/> &lt;br/>
+&lt;small>Musicolet bergantung pada kerangka MediaStorage Android untuk membaca tag metadata. Tapi setelah mengedit tag dari beberapa lagu, MediaStorage mungkin gagal mendeteksi pengkodean yang benar. Jika MediaStorage mendeteksi salah Pengkodean karakter lagu maka &lt;b>tag mungkin tidak terbaca&lt;/b>. Namun, ini jarang terjadi, jika pencipta lagu menggunakan pengkodean non-standar (pengkodean yang tidak dikecualikan secara internasional) untuk tag. Jika ini terjadi, &lt;b>itu bukan kesalahan Musicolet dan jangan salahkan kami;&lt;/b> Kami telah memperingatkan Anda.&lt;/small> 
+"</string>
+    <string name="warning_editing_tags">Klik di sini untuk membaca peringatan tentang mengedit tag</string>
+    <string name="what_is_diff_queues_playlists">Apa itu antrian?</string>
+    <string name="what_is_multiple_queue_concept">Apa itu konsep multi antrian?</string>
+    <string name="whats_new">Apa yang baru</string>
+    <string name="when_a_song_ends">Ketika lagu berhenti…</string>
+    <string name="when_queue_ends">Ketika antrian berakhir…</string>
+    <string name="where_are_widgets">Mengapa saya tidak dapat menemukan Widgets HomeScreen?</string>
+    <string name="where_is_genre_tab">Dimana tab genre?</string>
+    <string name="why_cannt_edit_some_tags">Mengapa info lagu (tags) dari beberapa lagu tidak bisa diedit?</string>
+    <string name="why_cant_find_newly_added_songs">Mengapa saya tidak dapat menemukan lagu?</string>
+    <string name="why_embedded_lyrics_why_not_online_q">Mengapa tidak mengambil lirik secara otomatis?</string>
+    <string name="why_not_auto_fetch_albumart_q">Mengapa tidak mengambil album-art secara otomatis?</string>
+    <string name="widget_4x1_advance_controls">Musicolet Tingkat lanjut kontrol widget</string>
+    <string name="widget_4x1_simple">Musicolet widget Sederhana</string>
+    <string name="widget_4x3_with_queue">Musicolet Kontrol + widget Antrian</string>
+    <string name="widget_theme_c">Tema widget:</string>
+    <string name="widget_transparency_c">Widget Transparan:</string>
+    <string name="x_minute">%1$d menit</string>
+    <string name="year">Tahun</string>
+    <string name="year_asc">Naik berdasarkan tahun</string>
+    <string name="year_dsc">Menurun berdasarkan tahun</string>
+    <string name="yes">Iya</string>
+    <string name="your_playlists">Daftar putar anda</string>
+</resources>
