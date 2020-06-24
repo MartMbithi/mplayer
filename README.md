@@ -1,7 +1,7 @@
 # mplayer
-Mplayer is an android Music Player Developed by Martin Mbithi which focusses on simplicity, performance and efficiency.
+Mplayer is an android Music Player which focusses on simplicity, performance and efficiency.
 
-***sceeen shots
+# sceeen shots
 # 1
 
 ![main screen 1](https://github.com/MartMbithi/mplayer/blob/master/img/1.png)
