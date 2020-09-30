@@ -26,3 +26,11 @@ Which focusses on lightweight execution, simplicity, high performance and effici
     
 5. And Many More
 ```
+<p align="center"><img src="https://raw.githubusercontent.com/MartMbithi/mplayer/master/img/1.png" width="400">
+<img src="https://raw.githubusercontent.com/MartMbithi/mplayer/master/img/2.png" width="400">
+<img src="https://raw.githubusercontent.com/MartMbithi/mplayer/master/img/3.png" width="400">
+<img src="https://raw.githubusercontent.com/MartMbithi/mplayer/master/img/4.png" width="400">
+<img src="https://raw.githubusercontent.com/MartMbithi/mplayer/master/img/5.png" width="400">
+<img src="https://raw.githubusercontent.com/MartMbithi/mplayer/master/img/6.png" width="400"></p>
+
+
